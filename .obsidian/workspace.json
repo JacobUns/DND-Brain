@@ -6,21 +6,25 @@
       {
         "id": "df5a618cb559e3f1",
         "type": "tabs",
+        "dimension": 83.48271446862996,
         "children": [
           {
-            "id": "5b869247030e73d3",
+            "id": "f682f09ce93d26cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Campaign Ideas/Campaign Beginning Ideas.md",
-                "mode": "source",
-                "source": false
+                "file": "R'ellanthas/Pantheon Family Tree.canvas",
+                "viewState": {
+                  "x": -365,
+                  "y": 390,
+                  "zoom": -1.3001440481772415
+                }
               }
             }
           },
           {
-            "id": "f682f09ce93d26cc",
+            "id": "531a8e680ed620ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +37,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "b53056f7c42af78b",
+        "type": "tabs",
+        "dimension": 16.51728553137004,
+        "children": [
+          {
+            "id": "2b6b0b3f69a90d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Paladin Oaths.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +135,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -150,12 +173,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,14 +186,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "f682f09ce93d26cc",
+  "active": "531a8e680ed620ea",
   "lastOpenFiles": [
-    "R'ellanthas/Cleric Domains.md",
+    "R'ellanthas/Pantheon Family Tree.png",
     "R'ellanthas/Pantheon.md",
-    "R'ellanthas/Paladin Oaths.md",
+    "Classes/Paladin Oaths.md",
+    "Classes/Cleric Domains.md",
+    "R'ellanthas/Pantheon Family Tree.canvas",
+    "Classes",
+    "Creatures/Homunculi.md",
+    "R'ellanthas/Pantheon Family Tree.md",
+    "Campaign Ideas/Campaign Beginning Ideas.md",
     "Candlekeep/Notable Characters/Miirym.md",
     "R'ellanthas",
     "Candlekeep/Notable Characters/Alaundo the Seer.md",
@@ -180,11 +209,9 @@
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/About the Book.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Matreous.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Cumin and Coriander.md",
-    "Creatures/Homunculi.md",
     "Locations/Countries/Ipthir.md",
     "Locations/Cities and Towns/Bray.md",
     "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
-    "Campaign Ideas/Campaign Beginning Ideas.md",
     "Campaign Ideas/Character Ideas",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Patio.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Pantry.md",
