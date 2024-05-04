@@ -1,0 +1,10 @@
+- Dark skinned, silvery hair that's shaved on both sides and long on top which is pulled back into a tail, lean of build, not muscular but not stick thin either. Pierced eyebrow with a simple stud, with two pointed barbed starlike earrings in his lobs and simple studs around. His eyes are the most striking thing about him. He has heterochromia with one deep brown eye and one pale blue.
+- Known as Az by his friends
+- No siblings, his Father (Whiland Lorfus) died of natural causes in Azreal's late teens, his Mother (Freya Lorfus) died in Azreal's early 20s of natural causes. Azreal is convinced she died of a broken heart as she was never the same after Whiland's death.
+- To deal with his grief, Azreal threw himself into study of legends and mythology of the material plane at the university he had enrolled in
+- Studied with Marcus Flynn, first his teacher, then his mentor and ultimately his friend, who opened his eyes to myths of old gods whose power, which is more like an energy or force than the beings that control it, still exists in the world
+- Azreal has long studied the moon, believing there to be a wealth of untapped power that he could harness if he could only capture part of it
+- Started to display latent arcane abilities the more he learnt about the myths surrounding this power that made him believe in their veracity
+- Marcus one day disappeared leaving a letter behind for Azreal, claiming he had received information pertaining to one of these forces and had gone to investigate, leaving Azreal behind as he believed the trip would be too perilous.
+- After two months with no word from Marcus and with a growing jealousy in Marcus's quest for power, Azreal packed his bags and left his comfortable life at the university to find his friend, and hopefully the power he craves
+- The search for his friend lead him to rumours that Marcus had been heading in the direction of Barovia. With nothing more than hearsay to go on, Azreal headed in that direction.

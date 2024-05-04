@@ -1,0 +1,2 @@
+- Party are all members of a town, either work/live there or are passing through and staying for a period. Awake in cages, held by a group of acolytes that fled leaving the party to awake and free themselves
+- 
