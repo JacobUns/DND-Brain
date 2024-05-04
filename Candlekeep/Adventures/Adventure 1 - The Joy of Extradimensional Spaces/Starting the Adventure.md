@@ -44,6 +44,7 @@
 
 -   If the party explain why they’re here, [[Matreous]] agrees to accompany and help them on the condition they give him their time and efforts and help him explore the mansion.
 -   If the party agree [[Matreous]] steps through the double doors leading back to the study room.
+
 > As Matreous steps through the doors, all you hear is a blood curdling shriek from the study room, and as you turn to look behind you, all you see is the doors slamming shut.
 > 
 > As you turn back, you see the long hallway that seems to run the length of the mansion, with several doors on the wall opposite the entrance.

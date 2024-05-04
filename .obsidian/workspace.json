@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
+                "file": "R'ellanthas/Pantheon.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,12 +77,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3ee0f2ecd8f2febd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
+                "file": "R'ellanthas/Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
+                "file": "R'ellanthas/Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +146,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md"
+                "file": "R'ellanthas/Pantheon.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,18 +169,30 @@
   },
   "active": "f682f09ce93d26cc",
   "lastOpenFiles": [
-    "Campaign Ideas/Campaign Beginning Ideas.md",
+    "R'ellanthas/Cleric Domains.md",
+    "R'ellanthas/Pantheon.md",
+    "R'ellanthas/Paladin Oaths.md",
+    "Candlekeep/Notable Characters/Miirym.md",
+    "R'ellanthas",
+    "Candlekeep/Notable Characters/Alaundo the Seer.md",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Starting the Adventure.md",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Miasma.md",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/About the Book.md",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Matreous.md",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Cumin and Coriander.md",
+    "Creatures/Homunculi.md",
+    "Locations/Countries/Ipthir.md",
+    "Locations/Cities and Towns/Bray.md",
     "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
+    "Campaign Ideas/Campaign Beginning Ideas.md",
     "Campaign Ideas/Character Ideas",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Patio.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Pantry.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Study.md",
     "Locations/Important Landmarks/Candlekeep.md",
-    "Locations/Cities and Towns/Bray.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Arboretum.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Dining Room.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Kitchen.md",
-    "Creatures/Homunculi.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Foyer.md"
   ]
 }

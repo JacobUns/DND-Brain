@@ -1,0 +1,16 @@
+# Arcana
+# Blood
+# Death
+# Forge
+# Grave
+# Knowledge
+# Life
+# Light
+# Moon
+# Nature
+# Order
+# Peace
+# Tempest
+# Trickery
+# Twilight
+# War
