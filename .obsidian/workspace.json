@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Pantheon.md",
+                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Pantheon.md",
+                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Pantheon.md",
+                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,11 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Pantheon.md"
+                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -192,23 +193,28 @@
   },
   "active": "531a8e680ed620ea",
   "lastOpenFiles": [
-    "R'ellanthas/Pantheon Family Tree.png",
+    "Candlekeep/Avowed.md",
+    "Candlekeep/Notable Characters/Miirym.md",
+    "Candlekeep/Notable Characters/Alaundo the Seer.md",
+    "Candlekeep/Locations/Inner Ward.md",
+    "Candlekeep/Locations/Court of Air.md",
+    "Candlekeep/Locations/Beneath Candlekeep.md",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Adventure Notes/About the Book.md",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Adventure Notes",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Adventure Notes/Miasma.md",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Starting the Adventure.md",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Matreous.md",
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Cumin and Coriander.md",
     "R'ellanthas/Pantheon.md",
+    "R'ellanthas/Pantheon Family Tree.canvas",
+    "R'ellanthas/Pantheon Family Tree.png",
     "Classes/Paladin Oaths.md",
     "Classes/Cleric Domains.md",
-    "R'ellanthas/Pantheon Family Tree.canvas",
     "Classes",
     "Creatures/Homunculi.md",
     "R'ellanthas/Pantheon Family Tree.md",
     "Campaign Ideas/Campaign Beginning Ideas.md",
-    "Candlekeep/Notable Characters/Miirym.md",
     "R'ellanthas",
-    "Candlekeep/Notable Characters/Alaundo the Seer.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Starting the Adventure.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Miasma.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/About the Book.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Matreous.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Cumin and Coriander.md",
     "Locations/Countries/Ipthir.md",
     "Locations/Cities and Towns/Bray.md",
     "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
@@ -218,8 +224,6 @@
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Study.md",
     "Locations/Important Landmarks/Candlekeep.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Arboretum.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Dining Room.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Kitchen.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Foyer.md"
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Dining Room.md"
   ]
 }
