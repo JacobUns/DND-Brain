@@ -6,50 +6,37 @@
       {
         "id": "df5a618cb559e3f1",
         "type": "tabs",
-        "dimension": 83.48271446862996,
+        "dimension": 46.4021164021164,
         "children": [
           {
-            "id": "f682f09ce93d26cc",
+            "id": "fea6a31f0bc10c96",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "R'ellanthas/Pantheon Family Tree.canvas",
                 "viewState": {
-                  "x": -365,
-                  "y": 390,
-                  "zoom": -1.3001440481772415
+                  "x": -730.2315229881053,
+                  "y": 726.9436005942707,
+                  "zoom": -0.9668107148439082
                 }
               }
             }
-          },
-          {
-            "id": "531a8e680ed620ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "b53056f7c42af78b",
+        "id": "2f2ced92f0b50660",
         "type": "tabs",
-        "dimension": 16.51728553137004,
+        "dimension": 53.5978835978836,
         "children": [
           {
-            "id": "2b6b0b3f69a90d8c",
+            "id": "f682f09ce93d26cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Paladin Oaths.md",
+                "file": "R'ellanthas/Pantheon.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5026054382324
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -129,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
+                "file": "R'ellanthas/Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
+                "file": "R'ellanthas/Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Ideas/Character Ideas/Azreal Lorfus.md"
+                "file": "R'ellanthas/Pantheon.md"
               }
             }
           }
@@ -178,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +179,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "531a8e680ed620ea",
+  "active": "0a6f9b665ede3b7a",
   "lastOpenFiles": [
+    "R'ellanthas/Pantheon Family Tree.canvas",
+    "R'ellanthas/Pantheon.md",
+    "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
     "Candlekeep/Avowed.md",
     "Candlekeep/Notable Characters/Miirym.md",
     "Candlekeep/Notable Characters/Alaundo the Seer.md",
@@ -205,8 +196,6 @@
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Starting the Adventure.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Matreous.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Cumin and Coriander.md",
-    "R'ellanthas/Pantheon.md",
-    "R'ellanthas/Pantheon Family Tree.canvas",
     "R'ellanthas/Pantheon Family Tree.png",
     "Classes/Paladin Oaths.md",
     "Classes/Cleric Domains.md",
@@ -217,13 +206,11 @@
     "R'ellanthas",
     "Locations/Countries/Ipthir.md",
     "Locations/Cities and Towns/Bray.md",
-    "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
     "Campaign Ideas/Character Ideas",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Patio.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Pantry.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Study.md",
     "Locations/Important Landmarks/Candlekeep.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Arboretum.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Dining Room.md"
+    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Arboretum.md"
   ]
 }
