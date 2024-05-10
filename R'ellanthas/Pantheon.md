@@ -24,16 +24,22 @@ The [[#Prime|Primes]] would come to see the truth of their child's words, and a 
 
 During this of divine investiture, [[#Dol Arrah]] noted that a mortal seemed to have become able to wield some of power of the divine. Unsure how it had been done, but impressed and captivated by the skills exhibited by the mortal, she sought out [[#Aureon]] seeking to understand if it was possible to elevate the mortal to a divine state. [[#Aureon]] would protest that it would go against the natural order, [[#Dol Arrah & Aureon|leading to conflict between the two]] that would end goddesses becoming rivals in all things.
 
-[[#Olladra]], witnessing their conflict, would come to interfere and influence [[#Dol Arrah]] to seek out [[#Erador]]. [[#Olladra]]'s sway over the [[#Prime]] would lead to the first [[#Ascension]] unbeknownst to their siblings or to [[#Arawai]].
+[[#Olladra]], witnessing their conflict, would come to interfere and influence [[#Dol Arrah]] to seek out [[#Erador]]. [[#Olladra]]'s sway over the [[#Prime]] would lead to the first [[#Ascension]], unbeknownst to their siblings or to [[#Arawai]]. Through a combination of sculpting fate's tapestry and carefully manipulating [[#Erador]], she would come trick the [[#Prime]] into infusing the divine power the mortal was manipulating into his very being. The [[#Prime]] realised too late what had come to pass; in its fury, it threw its power against [[#Olladra]] barely restraining itself from [[#shattered|shattering]] the goddess due to the cries of abject pain of its favoured offspring. The mortal, whose original name was lost to time, would come to be known as [[#Dol Dorn]], god of the arcane.
 ### The Corruption
+After centuries of peace between within the pantheon, the material plane had seen a golden age of development; but all good comes to an end. The [[#Prime|primes]] had not created any new offspring since the second generation. [[#Arawai]] had attempted to convince [[#Erador]] to do so on numerous occasions, but [[#Erador]] maintained that their power was dispersed enough and that doing so would start to make them vulnerable to their offspring should they ally against the [[#Prime|primes]].
+
+Against his will, [[#Arawai]] attempted to create more offspring and produced four new gods; [[#Melorkis]], [[#Malis]], [[#Ithos]] and [[#Hython]]. With the relatively recent, in the lifespan on an immortal force, betrayal of [[#Olladra]] in creating [[#Dol Dorn]], when [[#Erador]] came to find the [[#prime]] attempting to unscrupulously syphon its power it was furious. Instead of bringing its force to bear upon the newly spawned [[#Deity|deities]], [[#Erador]] allowed its power to be syphoned but warped the nature of [[#Arawai]]'s creations. The pure creations that were meant to provide outlets for hope, serenity and reverence would instead become twisted and tainted with evil intent, ultimately leading to the selfish and warped goals of the four gods.
 ### The Ascension
-[[#Dol Dorn]]'s existence would remain secret knowledge of the gods involved in the creation of the [[#Deity]] for eons. It would be [[#Melorkis, the Shadow|Melorkis]] who, with his stealth and ability to seek out that which he should not know, would come to learn of the ability to elevate mortal creatures to a divine and immortal level.
+The manner of [[#Dol Dorn]]'s existence would remain secret knowledge of the gods involved in the creation of the [[#Deity]] for eons. It would be [[#Melorkis, the Shadow|Melorkis]] who, with his stealth and ability to seek out that which he should not know, would come to learn of the ability to elevate mortal creatures to a divine and immortal level.
 ### The Shattering
-[[#Malis, the Mockery|Malis]] leads the shattering of [[#Erador]], bringing his wrath to bare after centuries of burning hatred for the taint and curse laid upon [[#The Dark Six]], seeing the power given to Dol Dorn and Samic as a slight against them. During the conflict, the secret elven child of [[#Melorkis]] seizes the opportunity to take the place of [[#Olladra]]. The temples associated with [[#Olladra]] teach that this was part of the tapestry, but other theologians and teachings preach that [[#Malis]] tainted the child seeing the potential for [[#The Dark Six]] to gain more of a foothold in the pantheon.
+[[#Malis, the Mockery|Malis]] leads the shattering of [[#Erador]], bringing his wrath to bare after centuries of burning hatred for the taint and curse laid upon [[#The Dark Six]]. Learning of the power given to [[#Dol Dorn]] and then [[#Samic]], he saw the  as a slight against them. During the conflict, the secret elven child of [[#Melorkis]] seizes the opportunity to take the place of [[#Olladra]]. The temples associated with [[#Olladra]] teach that this was part of the tapestry, but other theologians and teachings preach that [[#Malis]] tainted the child seeing the potential for [[#The Dark Six]] to gain more of a foothold in the pantheon.
 
 ### Family Tree
 ![[Pantheon Family Tree.png]]
 ### Common Divine Powers
+#### Shape Changing
+#### Divine Powers
+
 ## The Sovereign Host
 The Sovereign Host are well recognised and respected gods followed by the masses of society. They are openly practised and temples holding idols or iconography of worship to one or more of these pantheon members are common in many cities. 
 ### Summary
@@ -51,35 +57,57 @@ The Sovereign Host are well recognised and respected gods followed by the masses
 | [[#Olladra]] (F)    | Wisdom, Fortune, Fate                                       | [[Cleric Domains#Life\|Life]], [[Cleric Domains#Trickery\|Trickery]], [[Cleric Domains#Knowledge\|Knowledge]] |                                                                                                              | Complex intertwining strands          | Emergent  |
 | [[#Onatar]] (F)     | Artificery, Craft, Blacksmithing, Carpentry                 | [[Cleric Domains#Forge\|Forge]], [[Cleric Domains#Knowledge\|Knowledge]]                                      |                                                                                                              | Crossed hammer and tongs              | Emergent  |
 | Samic (M)           | Night, Darkness, Sleep, Shelter, Protection                 | [[Cleric Domains#Moon\|Moon]], [[Cleric Domains#Twilight\|Twilight]], [[Cleric Domains#Trickery\|Trickery]]   | [[Paladin Oaths#Devotion\|Devotion]], [[Paladin Oaths#Redemption\|Redemption]]                               | Crescent Moon                         | Ascendent |
+#### Depictions
+History is written by the survivors, and so is true of the depictions of the deities created by the artisans of the council. The council being made up predominantly of humans resulted in the recognised depictions of the deities mostly as human; there are a few exceptions to this including [[#Balinor]], [[#Onatar]], and [[#Samic]].  
 
+There has been some public unrest due to the perceived discrimination outside of the human race despite the attempted placations of the council. There have been a few minor riots where economic circumstances have been severe that appear to have been sparked by protests on the topic, but generally the unrest has surfaced via scholarly debate and peaceful protest. One notable exception to this saw the burning and pillaging of several temples before city watch neutralised those responsible through force. The subsequent public executions and retribution did nothing to calm public image, and those responsible in the council were quickly sacrificed to stop a coup and rebellion beginning.
+
+The depictions vary based on region, race and way of life. Scholars of the Arcandor Academy have noted a trend towards depictions of certain members of the pantheon, including the [[#Prime|primes]], remaining human no matter where in the continent you go. There are theories as to why this may be, including social pressures of the council itself, but surveying of the populous provided little clarity. Other members of the pantheon vary regularly in size, shape, race and even gender. This is understood and accepted by the council as simply artistic expression, but their own depictions remain vastly the same.
 ### Arawai
 Genderless in writings, referred to by name or as a prime rather than a gendered pronoun. Depicted by artisans, artists and sculptors as Female. This is assumably due to the nature of childbirth being a form of creation among mortals making for a more relatable representation.
 
 Due to their genderless representation in sacred texts, there are depictions of both Arawai and [[#Erador]] as both male and female depending on their creator's beliefs. The Great Council seem to have shown their beliefs through the depictions chosen to be represented in the temples of major cities.
+
+![[Arawai.png]]
 ### Aureon
 Depicted as Female
+![[Aureon.png]]
 ### Balinor
-Depicted as Male
+Depicted as a Male Leonin with Antlers.
+![[Balinor.png]]
 ### Boldrei
 Depicted as Male
+![[Boldrei.png]]
 ### Dol Arrah
 Depicted as Female
+![[Dol Arrah.png]]
 ### Dol Dorn
 Depicted as Male. Patron of the Arcandor Academy
+![[Dol Dorn.png]]
 ### Erador
 Genderless in writings, referred to by name or as a prime rather than a gendered pronoun. Depicted by artisans, artists and sculptors as male. This is assumably due to the nature of biology rather than any anthropological reasoning. As the antithesis of [[#Arawai]], it stands to reason the [[#Deity]] would be depicted as male.
 
 Due to their genderless representation in sacred texts, there are depictions of both [[#Arawai]] and Erador as both male and female depending on their creator's beliefs. The Great Council seem to have shown their beliefs through the depictions chosen to be represented in the temples of major cities.
+
+Imagery rarely shows the [[#Prime|prime's]] face, rather opting for a battle ready depiction with a range of weaponry, from bows to glaives and swords.
+
+![[Erador.png]]
 ### Kol Korran
 Depicted as Female
+![[Kol Korran.png]]
 ### Olladra
-Depicted as Female
+Depicted as Human Female
+![[Olladra.png]]
 ### Onatar
-Depicted as Female
+Depicted as a Female Gnome
+![[Onatar.png]]
 ### Samic
-Depicted as Male
+Depicted as a Male Tiefling.
+![[Samic.png]]
 ## The Dark Six
 The Dark Six are well recognised, but often aligned with evil and therefore are socially frowned upon. It is rare for these gods to be worshipped openly in many major cities, but shrines and small temples can still be found in more rural areas. This is especially true of The Fury and The Traveller, as many argue these are not inherently evil paths. Still, these deities are often revered behind closed doors, or by cults, rather than the general population.
+
+### Summary
 
 | **God Name**           | **Tenants, Principles and Values**          | **Suggested Domain(s)**                                                                                         | Suggested Oath(s)                                                            | **Common Symbol**                      | Type               |
 | ---------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------- | ------------------ |
@@ -89,6 +117,18 @@ The Dark Six are well recognised, but often aligned with evil and therefore are 
 | Malis, The Mockery     | Malice, Betrayal, Lies, Sadism, Hatred      | [[Cleric Domains#Trickery\|Trickery]], [[Cleric Domains#Death\|Death]]                                          |                                                                              | Five blood-spattered blades            | Corrupted Emergent |
 | Melorkis, The Shadow   | Ambition, Dark Magic, Secrets               | [[Cleric Domains#Knowledge\|Knowledge]]                                                                         | [[Paladin Oaths#Watchers\|Watchers]]                                         | Obsidian tower                         | Corrupted Emergent |
 | Artagan, The Traveller | Change, Chaos, Madness, Mischief            | [[Cleric Domains#Forge\|Forge]], [[Cleric Domains#Knowledge\|Knowledge]], [[Cleric Domains#Trickery\|Trickery]] | [[Paladin Oaths#Ancients\|Ancients]]                                         | Four rune-inscribed crossed bones      | Ascendent          |
+### Ithos, The Devourer
+![[Ithos, The Devourer.png]]
+### Kami, The Fury
+![[Kami, The Fury.png]]
+### Hython, The Keeper
+![[Hython, The Keeper.png]]
+### Malis, The Mockery
+![[Malis, The Mockery.png]]
+### Melorkis, The Shadow
+![[Melorkis, The Shadow.png]]
+### Artagan, The Traveller
+![[Artagan, The Traveller.png]]
 ## Dwarven
 As one of the factions that did not involve themselves in the formation of the council, the dwarves claim to have their own pantheon. World Theologians believe these to be the same pantheon of gods, simply known by different names. This is disputed by the Dwarves due to the nature of their worship being different to those gods of the council.
 
@@ -115,7 +155,11 @@ To anyone outside of the dwarven culture, the pantheon represented and worshippe
 | The Path of Light | Self-improvement                   | [[Cleric Domains#Life\|Life]], [[Cleric Domains#Light\|Light]]                              | [[Paladin Oaths#Glory\|Glory]]                                                 | Brilliant Crystal                 |
 
 #### The Silver Flame
+![[The Silver Flame.png]]
 #### The Path of Light
+![[The Path of Light 3.png]]
+![[The Path of Light.png]]
+
 ### Dead Faiths
 #### Draconic
 ##### Gods
@@ -130,13 +174,16 @@ With the destruction of the Draconic race during The Ending War, the faiths asso
 | Cults of the Dragon Below | Madness                            | [[Cleric Domains#Trickery\|Trickery]]                                                         | [[Paladin Oaths#Glory\|Glory]]         | Varies dependant on the Cult | Idol      |
 | Vol, Deathless Martyr     | Sacrifice, Masochism               |                                                                                               |                                        |                              | Ascendent |
 ###### Vol, Deathless Martyr
-
+![[Vol, Deathless Martyr 2.png]]
+Shapeshift into a Dragonborn humanoid form similar to the other deities. 
 ###### Blood of Vol
-
+![[Blood of Vol Idols.png]]
+Ancient and powerful dragons of all forms. Most are depicted as Chromatic, and each was so powerful in its own right as to create fear in a population by the sheer rumour of its approach. Each commanded enough of a following as to become minor divine beings in their own right. The number of them is debated and argued on, but there is a consensus of there being at least one per chromatic colour grouping. The debate is over other forms including metallic and undead, with some referring to a creature known as [[#Cults of the Dragon Below|the Dragon Below]]. 
 ###### Cults of the Dragon Below
-Lost to time, the Arcandor Academy have released the rhetoric on the existence of cults that idolise a creature only known as The Dragon Below. It is believed that this Draconic being gained enough of a following during The Ending War to become a minor [[#deity]] in its own right.
+Lost to time, the Arcandor Academy have released rhetoric on the existence of cults that idolise a creature only known as The Dragon Below. It is believed that this Draconic being gained enough of a following during The Ending War to become a minor [[#deity]] in its own right.
 
 Nothing in the history and writings discovered indicates whether this creature is alive or not, and occasionally the Guardians of Il'Mondum are sent to obscure locations with little to no explanation which some rumour is to combat the Dragon Below which still lives. The Arcandor Academy has been known to say that there is no verifiable evidence of this being the case, and these are likely drunken stories at the bar told by those who have had too much to drink and not enough sense.
+![[Blood of Vol.png]]
 #### Elven
 With the destruction of the Elven race during The Ending War, the faiths associated were banned from being practised by the races that remained. Any worship of these faiths is subject to discipline by the Guardians of Il'Mondum.
 ##### Gods
@@ -147,6 +194,7 @@ With the destruction of the Elven race during The Ending War, the faiths associa
 Little is known about the origins of The Raven Queen, but within the right circles it is believed that she was a demi-god born of [[#Melorkis, The Shadow]].
 
 Her depiction as Elven and association with the Elven religions pre-Ending War has resulted in the worship of The Raven Queen being banned by The Great Council even though some teachings associated to Olladra indicate that she was usurped. The Temples to [[#Olladra]] setup by The Great Council claim she was not [[#Usurpation|usurped]], but was instead [[#Shattered]] and managed to reform after extensive time. This is a hole in teachings that sits uncomfortably for many scholars, but few are willing to openly criticise the teachings for fear of punishment under the Guardians of Il'Mondum.
+![[The Raven Queen.png]]
 ##### Faiths
 
 | **God Name**            | **Tenants, Principles and Values** | **Suggested Domain(s)**                                                                                 | Suggested Oath(s)                    | **Common Symbol** | Type |
@@ -155,14 +203,19 @@ Her depiction as Elven and association with the Elven religions pre-Ending War h
 | The Undying Court       | Law, Order, Reason, Pride          | [[Cleric Domains#Order\|Order]], [[Cleric Domains#Knowledge\|Knowledge]], [[Cleric Domains#Life\|Life]] | [[Paladin Oaths#Crown\|Crown]]       | Golden Mask       | Idol |
 ###### The Spirits of the Past
 Rose to come idols through the reverence held by the Elven people for their ancestors.
+![[The Spirits of the Past.png]]
 ###### The Undying Court
 It is believed that Onatar bore children by the elves, leading to their exceedingly long lives and exquisite craftsmanship. Their association to the goddess led to worship among the elves as Idols in their own right. It is unknown by the world whether these idols still exist in secret, hoarding their power, or whether they too were wiped out during the Ending War.
+![[The Undying Court.png]]
 
+![[The Undying Court 2.png]]
 ## Champions
-The deities of the world have rarely been seen in the material plane since [[#The Shattering]]. Most believe these to be myths and fairy tales told to children by the orders of clerics and schools of bards. There rumours in the right theological circles that each of the gods has their own champion, imbued with minor amounts of the [[#Deity|Deity's]] power to enact their will on the material plane. These agents are argued to enable the gods to act against each other without making themselves vulnerable. 
+The deities of the world have rarely been seen in the material plane since [[#The Shattering]]. Most believe these to be myths and fairy tales told to children by the orders of clerics and schools of bards. There rumours in the right theological circles that each of the gods has their own champion, imbued with minor amounts of the [[#Deity|Deity's]] power to enact their will on the material plane. These agents are argued to enable the gods to act against each other without making themselves vulnerable.
+![[Champion of a deity.png]]
 ## Rivalries & Divine Conflict
 ### Dol Arrah & Aureon
 Honour and Moral Correctness vs Lawfulness and Order.
+### Erador & Olladra
 ### Malis & Olladra
 ### The Raven Queen & Olladra
 

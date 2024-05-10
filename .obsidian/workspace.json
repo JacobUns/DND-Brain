@@ -16,9 +16,9 @@
               "state": {
                 "file": "R'ellanthas/Pantheon Family Tree.canvas",
                 "viewState": {
-                  "x": -365,
-                  "y": 390,
-                  "zoom": -1.8198150430460711
+                  "x": 217.1394460215367,
+                  "y": 295.19706604587134,
+                  "zoom": -1.1531483763794046
                 }
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Pantheon Family Tree.canvas",
+                "file": "R'ellanthas/Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Pantheon Family Tree.canvas",
+                "file": "R'ellanthas/Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Pantheon Family Tree.canvas"
+                "file": "R'ellanthas/Pantheon.md"
               }
             }
           }
@@ -179,9 +179,21 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fea6a31f0bc10c96",
+  "active": "f682f09ce93d26cc",
   "lastOpenFiles": [
+    "R'ellanthas/Other Faith Images/Champion of a deity.png",
     "R'ellanthas/Pantheon.md",
+    "R'ellanthas/Other Faith Images/The Spirits of the Past.png",
+    "R'ellanthas/Other Faith Images/The Spirits of the Past.png",
+    "R'ellanthas/Other Faith Images/The Undying Court 2.png",
+    "R'ellanthas/Other Faith Images/The Undying Court.png",
+    "R'ellanthas/Other Faith Images/The Raven Queen.png",
+    "R'ellanthas/Other Faith Images/Blood of Vol Idols.png",
+    "R'ellanthas/Other Faith Images/Blood of Vol.png",
+    "R'ellanthas/Other Faith Images/Vol, Deathless Martyr.png",
+    "R'ellanthas/Other Faith Images/Vol, Deathless Martyr 2.png",
+    "R'ellanthas/Other Faith Images",
+    "R'ellanthas/Pantheon Depictions",
     "R'ellanthas/Pantheon Family Tree.canvas",
     "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
     "Candlekeep/Avowed.md",
@@ -196,7 +208,6 @@
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Starting the Adventure.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Matreous.md",
     "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Cumin and Coriander.md",
-    "R'ellanthas/Pantheon Family Tree.png",
     "Classes/Paladin Oaths.md",
     "Classes/Cleric Domains.md",
     "Classes",
