@@ -4,45 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "df5a618cb559e3f1",
-        "type": "tabs",
-        "dimension": 46.4021164021164,
+        "id": "184eef02fe84ae01",
+        "type": "split",
         "children": [
           {
-            "id": "fea6a31f0bc10c96",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "R'ellanthas/Pantheon Family Tree.canvas",
-                "viewState": {
-                  "x": 217.1394460215367,
-                  "y": 295.19706604587134,
-                  "zoom": -1.1531483763794046
+            "id": "3877d28e4db25c16",
+            "type": "split",
+            "dimension": 61.37931034482759,
+            "children": [
+              {
+                "id": "da2f8dc7ded16b7d",
+                "type": "tabs",
+                "dimension": 77.41522712731926,
+                "children": [
+                  {
+                    "id": "0e0b0bcc983ea79a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "R'ellanthas/Pantheon.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "93a36bb993413e24",
+                "type": "tabs",
+                "dimension": 22.58477287268074,
+                "children": [
+                  {
+                    "id": "f965ce6ef306cc98",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "R'ellanthas/To Do List.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "df5a618cb559e3f1",
+            "type": "tabs",
+            "dimension": 38.62068965517241,
+            "children": [
+              {
+                "id": "fea6a31f0bc10c96",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "R'ellanthas/Pantheon Family Tree.canvas",
+                    "viewState": {
+                      "x": -576.6417399947721,
+                      "y": 299.47083290999296,
+                      "zoom": -0.486481709712738
+                    }
+                  }
+                }
+              },
+              {
+                "id": "23c93c3f1e9fcb0d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
                 }
               }
-            }
+            ]
           }
-        ]
-      },
-      {
-        "id": "2f2ced92f0b50660",
-        "type": "tabs",
-        "dimension": 53.5978835978836,
-        "children": [
-          {
-            "id": "f682f09ce93d26cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R'ellanthas/Pantheon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -100,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5026054382324
+    "width": 200
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -165,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +220,44 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "f682f09ce93d26cc",
+  "active": "0e0b0bcc983ea79a",
   "lastOpenFiles": [
-    "R'ellanthas/Other Faith Images/Champion of a deity.png",
+    "R'ellanthas/To Do List.md",
     "R'ellanthas/Pantheon.md",
+    "R'ellanthas/Pantheon Family Tree.canvas",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Samic.md",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Onatar.md",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Olladra.md",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Kol Korran.md",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Erador.md",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Dol Dorn.md",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Dol Arrah.md",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Boldrei.md",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Aureon.md",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Balinor.md",
+    "R'ellanthas/Pantheon Members/The Sovereign Host/Arawai.md",
+    "R'ellanthas/Pantheon Members/The Dark Six/Melorkis, The Shadow.md",
+    "R'ellanthas/Pantheon Members/The Dark Six/Malis, The Mockery.md",
+    "R'ellanthas/Pantheon Members/The Dark Six/Kami, The Fury.md",
+    "R'ellanthas/Pantheon Members/The Dark Six/Ithos, The Devourer.md",
+    "R'ellanthas/Pantheon Members/The Dark Six/Artagan, The Traveller.md",
+    "R'ellanthas/Pantheon Members/The Dark Six/Hython, The Keeper.md",
+    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Elvish/The Undying Court.md",
+    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Elvish/The Spirits of the Past.md",
+    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Elvish/The Raven Queen.md",
+    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Draconic/Vol, the Deathless Martyr.md",
+    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Draconic/The Blood of Vol.md",
+    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Draconic/Cults of the Dragon Below.md",
+    "Untitled.canvas",
+    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Elvish",
+    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Draconic",
+    "R'ellanthas/Pantheon Members/Other Faiths/Inactive",
+    "R'ellanthas/Pantheon Members/Other Faiths/Active",
+    "R'ellanthas/Pantheon Members/Other Faiths",
+    "R'ellanthas/Pantheon Members/The Dark Six",
+    "R'ellanthas/Pantheon Members/The Sovereign Host",
+    "R'ellanthas/Pantheon Members",
+    "R'ellanthas/Other Faith Images/Champion of a deity.png",
     "R'ellanthas/Other Faith Images/The Spirits of the Past.png",
     "R'ellanthas/Other Faith Images/The Spirits of the Past.png",
     "R'ellanthas/Other Faith Images/The Undying Court 2.png",
@@ -193,35 +268,6 @@
     "R'ellanthas/Other Faith Images/Vol, Deathless Martyr.png",
     "R'ellanthas/Other Faith Images/Vol, Deathless Martyr 2.png",
     "R'ellanthas/Other Faith Images",
-    "R'ellanthas/Pantheon Depictions",
-    "R'ellanthas/Pantheon Family Tree.canvas",
-    "Campaign Ideas/Character Ideas/Azreal Lorfus.md",
-    "Candlekeep/Avowed.md",
-    "Candlekeep/Notable Characters/Miirym.md",
-    "Candlekeep/Notable Characters/Alaundo the Seer.md",
-    "Candlekeep/Locations/Inner Ward.md",
-    "Candlekeep/Locations/Court of Air.md",
-    "Candlekeep/Locations/Beneath Candlekeep.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Adventure Notes/About the Book.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Adventure Notes",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Adventure Notes/Miasma.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Starting the Adventure.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Matreous.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Notable Characters/Cumin and Coriander.md",
-    "Classes/Paladin Oaths.md",
-    "Classes/Cleric Domains.md",
-    "Classes",
-    "Creatures/Homunculi.md",
-    "R'ellanthas/Pantheon Family Tree.md",
-    "Campaign Ideas/Campaign Beginning Ideas.md",
-    "R'ellanthas",
-    "Locations/Countries/Ipthir.md",
-    "Locations/Cities and Towns/Bray.md",
-    "Campaign Ideas/Character Ideas",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Patio.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Pantry.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Study.md",
-    "Locations/Important Landmarks/Candlekeep.md",
-    "Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Arboretum.md"
+    "R'ellanthas/Pantheon Depictions"
   ]
 }
