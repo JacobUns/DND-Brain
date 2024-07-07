@@ -15,7 +15,7 @@
               {
                 "id": "da2f8dc7ded16b7d",
                 "type": "tabs",
-                "dimension": 77.41522712731926,
+                "dimension": 74.78152309612985,
                 "children": [
                   {
                     "id": "0e0b0bcc983ea79a",
@@ -23,7 +23,19 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "R'ellanthas/Pantheon.md",
+                        "file": "Planes/Planes of Existence.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "2b3a4b2b1c15cf7c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Olladra.md",
                         "mode": "source",
                         "source": false
                       }
@@ -34,7 +46,7 @@
               {
                 "id": "93a36bb993413e24",
                 "type": "tabs",
-                "dimension": 22.58477287268074,
+                "dimension": 25.218476903870158,
                 "children": [
                   {
                     "id": "f965ce6ef306cc98",
@@ -54,34 +66,49 @@
             "direction": "vertical"
           },
           {
-            "id": "df5a618cb559e3f1",
-            "type": "tabs",
+            "id": "68fa476dbfcd3d82",
+            "type": "split",
             "dimension": 38.62068965517241,
             "children": [
               {
-                "id": "fea6a31f0bc10c96",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "R'ellanthas/Pantheon Family Tree.canvas",
-                    "viewState": {
-                      "x": -576.6417399947721,
-                      "y": 299.47083290999296,
-                      "zoom": -0.486481709712738
+                "id": "df5a618cb559e3f1",
+                "type": "tabs",
+                "dimension": 56.258790436005626,
+                "children": [
+                  {
+                    "id": "fea6a31f0bc10c96",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "R'ellanthas/Religion/Pantheon Family Tree.canvas",
+                        "viewState": {
+                          "x": -311.616709064769,
+                          "y": 287.37764826248394,
+                          "zoom": -1.1531483763794046
+                        }
+                      }
                     }
                   }
-                }
+                ]
               },
               {
-                "id": "23c93c3f1e9fcb0d",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
+                "id": "56295bf01b8ea7ab",
+                "type": "tabs",
+                "dimension": 43.741209563994374,
+                "children": [
+                  {
+                    "id": "23c93c3f1e9fcb0d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -142,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.5026054382324
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -158,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Pantheon.md",
+                "file": "Planes/Planes of Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Pantheon.md",
+                "file": "Planes/Planes of Existence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,16 +225,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Pantheon.md"
+                "file": "Planes/Planes of Existence.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,54 +246,55 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0e0b0bcc983ea79a",
+  "active": "23c93c3f1e9fcb0d",
   "lastOpenFiles": [
+    "Planes/Planes of Existence.md",
+    "Planes/Outer Planes/Outer Planes.md",
+    "Planes/Outer Planes/Upper Planes/Upper Planes.md",
+    "Planes/Inner Planes/Material Plane.md",
+    "Planes/Inner Planes/Shadowfell.md",
+    "Planes/Inner Planes/Feywild.md",
+    "Planes/Inner Planes/Astral Plane.md",
+    "R'ellanthas/Religion/Pantheon.md",
+    "Planes/Inner Planes/Elemental Planes.md",
+    "Planes/Inner Planes/Inner Planes.md",
+    "Planes/Outer Planes",
+    "Planes/Inner Planes",
+    "Planes/Outer Planes/Lower Planes",
+    "Planes/Planes of Existence - World Tree.png",
+    "Planes/Planes of Existence - Great Wheel.png",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Olladra.md",
+    "Planes/Outer Planes/Upper Planes",
     "R'ellanthas/To Do List.md",
-    "R'ellanthas/Pantheon.md",
-    "R'ellanthas/Pantheon Family Tree.canvas",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Samic.md",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Onatar.md",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Olladra.md",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Kol Korran.md",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Erador.md",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Dol Dorn.md",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Dol Arrah.md",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Boldrei.md",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Aureon.md",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Balinor.md",
-    "R'ellanthas/Pantheon Members/The Sovereign Host/Arawai.md",
-    "R'ellanthas/Pantheon Members/The Dark Six/Melorkis, The Shadow.md",
-    "R'ellanthas/Pantheon Members/The Dark Six/Malis, The Mockery.md",
-    "R'ellanthas/Pantheon Members/The Dark Six/Kami, The Fury.md",
-    "R'ellanthas/Pantheon Members/The Dark Six/Ithos, The Devourer.md",
-    "R'ellanthas/Pantheon Members/The Dark Six/Artagan, The Traveller.md",
-    "R'ellanthas/Pantheon Members/The Dark Six/Hython, The Keeper.md",
-    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Elvish/The Undying Court.md",
-    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Elvish/The Spirits of the Past.md",
-    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Elvish/The Raven Queen.md",
-    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Draconic/Vol, the Deathless Martyr.md",
-    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Draconic/The Blood of Vol.md",
-    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Draconic/Cults of the Dragon Below.md",
+    "Planes",
+    "R'ellanthas/Religion",
+    "R'ellanthas/R'Ellanthas.md",
+    "R'ellanthas/Religion/Pantheon Members/The Dark Six/Melorkis, The Shadow.md",
+    "R'ellanthas/Symbology.md",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Erador.md",
+    "R'ellanthas/Religion/Pantheon Family Tree.canvas",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Samic.md",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Onatar.md",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Kol Korran.md",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Dol Dorn.md",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Dol Arrah.md",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Boldrei.md",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Aureon.md",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Balinor.md",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Arawai.md",
+    "R'ellanthas/Religion/Pantheon Members/The Dark Six/Malis, The Mockery.md",
     "Untitled.canvas",
-    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Elvish",
-    "R'ellanthas/Pantheon Members/Other Faiths/Inactive/Draconic",
-    "R'ellanthas/Pantheon Members/Other Faiths/Inactive",
-    "R'ellanthas/Pantheon Members/Other Faiths/Active",
-    "R'ellanthas/Pantheon Members/Other Faiths",
-    "R'ellanthas/Pantheon Members/The Dark Six",
-    "R'ellanthas/Pantheon Members/The Sovereign Host",
-    "R'ellanthas/Pantheon Members",
-    "R'ellanthas/Other Faith Images/Champion of a deity.png",
-    "R'ellanthas/Other Faith Images/The Spirits of the Past.png",
-    "R'ellanthas/Other Faith Images/The Spirits of the Past.png",
-    "R'ellanthas/Other Faith Images/The Undying Court 2.png",
-    "R'ellanthas/Other Faith Images/The Undying Court.png",
-    "R'ellanthas/Other Faith Images/The Raven Queen.png",
-    "R'ellanthas/Other Faith Images/Blood of Vol Idols.png",
-    "R'ellanthas/Other Faith Images/Blood of Vol.png",
-    "R'ellanthas/Other Faith Images/Vol, Deathless Martyr.png",
-    "R'ellanthas/Other Faith Images/Vol, Deathless Martyr 2.png",
-    "R'ellanthas/Other Faith Images",
-    "R'ellanthas/Pantheon Depictions"
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Elvish",
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Draconic",
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive",
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Active",
+    "R'ellanthas/Religion/Other Faith Images/Champion of a deity.png",
+    "R'ellanthas/Religion/Other Faith Images/The Spirits of the Past.png",
+    "R'ellanthas/Religion/Other Faith Images/The Spirits of the Past.png",
+    "R'ellanthas/Religion/Other Faith Images/The Undying Court 2.png",
+    "R'ellanthas/Religion/Other Faith Images/The Undying Court.png",
+    "R'ellanthas/Religion/Other Faith Images/The Raven Queen.png",
+    "R'ellanthas/Religion/Other Faith Images/Blood of Vol Idols.png",
+    "R'ellanthas/Religion/Other Faith Images/Blood of Vol.png"
   ]
 }

@@ -1,0 +1,6 @@
+---
+tags:
+  - Plane
+aliases:
+  - Fey
+---

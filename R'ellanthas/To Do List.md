@@ -1,6 +1,6 @@
 - [x] Finish [[Pantheon#The Corruption|The Corruption]]
-- [ ] Finish [[Pantheon#The Ascension|The Ascension]]
-- [ ] Finish [[Pantheon#The Shattering|The Shattering]]
+- [x] Finish [[Pantheon#The Ascension|The Ascension]]
+- [x] Finish [[Pantheon#The Shattering|The Shattering]]
 - [ ] Proof read World Theology
 - [ ] Flesh out Sovereign Host
 	- [ ] Flesh out deities
