@@ -1,0 +1,6 @@
+---
+tags:
+  - MainCharacter
+aliases:
+  - Oh
+---

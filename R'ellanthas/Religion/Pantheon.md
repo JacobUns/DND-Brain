@@ -172,6 +172,12 @@ With the destruction of the Elven race during The Ending War, the faiths associa
 ## Champions
 The deities of the world have rarely been seen in the material plane since [[#The Shattering]]. Most believe these to be myths and fairy tales told to children by the orders of clerics and schools of bards. There rumours in the right theological circles that each of the gods has their own champion, imbued with minor amounts of the [[#Deity|Deity's]] power to enact their will on the material plane. These agents are argued to enable the gods to act against each other without making themselves vulnerable.
 ![[Champion of a deity.png]]
+## Oracles
+The pantheon, early in their dealings with mortals, designated an oracle who would act as the mystical voice for the gods. Each deity would become so consumed with their own creations in time that they would individually communicate with those they deign to be worthy of them, and would soon come to reinvest their time in each of their designs. The position of Oracle would remain in it's original role, however, continuing to connect into the fate weave knitted by [[Olladra]] to be able to communicate with each of the gods.
+
+As with all creatures that pass, the traditions of the oracle would need to be passed down from Oracle to Oracle. The rituals and ceremonies around this transition would be shrouded in secrecy, with only those that have passed through the veil knowing how the powers are passed on. Some claim it requires the death of the previous Oracle, their power flowing directly from the predecessor to the successor, where as others claim it is possible for anyone to learn.
+
+With [[Olladra]]'s fall, some would come to claim that the Oracle position must be corrupt and [[The Raven Queen]] must be influencing and corrupting the vision into the fate weave. Others continue to revere the position as something of pure divinity. As with most faith in rural areas, the traditions and practices of the populous often influence the opinions of the next generation, with some going so far as extremism while others practice moderation.
 # Becoming an Idol or Deity
 ## Ascension
 ### Bestowal of Power
