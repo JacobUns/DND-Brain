@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Characters/Kayn Backstory.md",
+                "file": "R'ellanthas/Campaign Notes/Session 06 - Battle of the Citadel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kayn Backstory"
+              "title": "Session 06 - Battle of the Citadel"
             }
           }
         ]
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Characters/Dwarves/Beldren.md",
+                "file": "R'ellanthas/Campaign Notes/Session 06 - Battle of the Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Beldren"
+              "title": "Outgoing links from Session 06 - Battle of the Citadel"
             }
           },
           {
@@ -183,11 +183,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 744.5
+    "width": 618.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,12 +201,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "23c93c3f1e9fcb0d",
+  "active": "01b301de8ff0aca2",
   "lastOpenFiles": [
-    "R'ellanthas/Campaign Characters/Kayn Backstory.md",
-    "R'ellanthas/Campaign Notes/Characters/Kayn, Light's Bane.md",
+    "R'ellanthas/Campaign Notes/Factions/Dwarven Ringsmiths.md",
+    "R'ellanthas/Campaign Notes/Session 06 - Battle of the Citadel.md",
+    "R'ellanthas/Campaign Notes/Factions",
+    "R'ellanthas/Campaign Notes/Characters/Dwarves/Amnur.md",
     "R'ellanthas/Campaign Notes/Characters/Dwarves/Beldren.md",
     "R'ellanthas/Campaign Notes/Session 05 - Sticky Scouting.md",
+    "R'ellanthas/Campaign Notes/Characters/Kayn, Light's Bane.md",
+    "R'ellanthas/Campaign Characters/Kayn Backstory.md",
     "R'ellanthas/Campaign Notes/Characters/Dwarves",
     "R'ellanthas/Campaign Notes/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
     "R'ellanthas/Campaign Notes/Session 04 - Scouting for Scouts.md",
@@ -239,16 +243,12 @@
     "R'ellanthas/Locations/Bal Toruhm.md",
     "R'ellanthas/Locations/Gomlodir.md",
     "R'ellanthas/Locations/The Lady's Inn.md",
-    "R'ellanthas/Locations/Liashton.md",
     "R'ellanthas/Locations",
     "R'ellanthas/Campaign Notes",
-    "R'ellanthas/R'Ellanthas.md",
     "R'ellanthas/Campaign Characters",
-    "Planes/Planes of Existence.md",
     "Planes/Outer Planes",
     "Planes/Inner Planes",
     "Planes/Outer Planes/Lower Planes",
-    "Planes/Outer Planes/Upper Planes",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "Untitled.canvas"
   ]

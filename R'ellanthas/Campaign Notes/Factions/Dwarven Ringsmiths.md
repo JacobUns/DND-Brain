@@ -1,0 +1,6 @@
+---
+tags:
+  - Dwarf
+aliases:
+  - Ringsmiths
+---
