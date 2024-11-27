@@ -1,7 +1,7 @@
 ---
 tags:
   - NPC
-  - Dwarf
+  - Dwarven
 ---
 # Bio
 Female bearded warrior who used to command hundreds of Dwarves in the city of [[Bal Toruhm]]. Encountered in [[Session 03 - Goblins and Hoarders and Dwarves, oh my!|Session 3]] fighting a group of Goblins with a Goblin Underboss.

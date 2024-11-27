@@ -1,6 +1,8 @@
 ---
 tags:
-  - Dwarf
+  - Dwarven
 aliases:
   - Ringsmiths
+  - Ringsmith
 ---
+# About

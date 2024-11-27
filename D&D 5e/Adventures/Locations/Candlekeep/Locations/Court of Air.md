@@ -127,7 +127,7 @@ The Shou believed that if surviving relatives and descendants paid respect to th
 - A Keeper of the Emerald Door stands at all times to welcome new seekers
     - Uses Runners to help Seekers secure lodging at the House of Rest and places to study in the Pillars of Pedagogy
     - Politely dispels any notions seekers might have about passing through the Emerald Door and Exploring the Great Library
-        - [[Inner ward]] is off limits without special dispensation from the Keeper of Tomes, First Reader, or one of the eight Great Readers.
+        - [[Inner Ward]] is off limits without special dispensation from the Keeper of Tomes, First Reader, or one of the eight Great Readers.
         - It’s customary to receive a signed and sealed letter when dispensation is granted
             - Wax seal must be intact and unbroken when presented to the keeper of the emerald door
         - The Keeper determines the letter’s authenticity by opening and reading it. If determined valid, the Keeper returns it, opens the doors and allows the owner entry to the [[Inner Ward]]

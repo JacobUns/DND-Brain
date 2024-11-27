@@ -1,0 +1,133 @@
+---
+tags:
+  - World
+  - Infrastructure
+---
+# Table of Contents
+- [[#About|About]]
+- [[#World Building|World Building]]
+	- [[#World Building#Pantheon|Pantheon]]
+		- [[#Pantheon#To Dos|Pantheon To Dos]]
+- [[#Campaign Notes|Campaign Notes]]
+## About
+Created by Andy Hall for his games to exist within, this homebrew world sees a mix of influences from across all types of fantasy and sci-fi inspired content. The world building and it's associated lore lives on the [World Anvil](https://www.worldanvil.com/w/r-ellanthas-hidden-town-gm) page owned and created by Andy, and holds significant information that this repository of information will not duplicate unless adaptation has been completed for world purposes. In the event of any major updates not seen within the [World Anvil](https://www.worldanvil.com/w/r-ellanthas-hidden-town-gm) page, permission will have been sought out before. As it is not owned by the creator of this page, the ultimate source of truth should be considered the [World Anvil](https://www.worldanvil.com/w/r-ellanthas-hidden-town-gm) page.
+## World Building
+### Pantheon
+The [[Pantheon of R'Ellanthas]], which was originally from the [World Anvil](https://www.worldanvil.com/w/r-ellanthas-hidden-town-gm) page, has been heavily adapted by Jacob in agreement with Andy to aid in the ability for Jacob's character [[Aolani]] to be able to provide information to the party when necessary. What started as a small project has turned into a large effort that will continue to expand over time. The associated progress can be seen below. 
+#### To Dos
+- [x] Finish [[Pantheon of R'Ellanthas#The Corruption|The Corruption]]
+- [x] Finish [[Pantheon of R'Ellanthas#The Ascension|The Ascension]]
+- [x] Finish [[Pantheon of R'Ellanthas#The Shattering|The Shattering]]
+- [ ] Proof read World Theology
+- [ ] Flesh out Sovereign Host
+	- [ ] Complete all deity entries
+		- [ ] Flesh out [[Arawai]] entry
+			- [ ] Theological Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Aureon]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Balinor]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Boldrei]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Dol Arrah]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Dol Dorn]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Erador]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Kol Korran]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Olladra]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Samic]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+	- [ ] Flesh out Rivalries
+	- [ ] Flesh out Common Divine Powers
+	- [ ] Flesh out Becoming an Idol
+		- [ ] Belief and Worship
+		- [ ] Ascension
+		- [ ] Usurpation
+- [ ] Flesh out The Dark Six
+	- [ ] Flesh out deities
+		- [ ] Flesh out [[Ithos, The Devourer|Ithos]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Kami, The Fury|Kami]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Hython, The Keeper|Hython]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Malis, The Mockery|Malis]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Melorkis, The Shadow|Melorkis]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+		- [ ] Flesh out [[Artagan, The Traveller|Artagan]] entry
+			- [ ] Creation
+			- [ ] Domain
+			- [ ] Symbols
+			- [ ] Cleric Domains
+			- [ ] Paladin Oaths
+- [ ] Flesh out Inactive Faiths
+- [ ] Content around Dwarven Pantheon
+- [ ] Create tag and alias structure
+- [ ] Move Keyword Glossary into own file
+
+## Campaign Notes
+- [[R'Ellanthas - A Fallen City Campaign]]

@@ -14,7 +14,7 @@ Barmaid gives information about [[Oh, Air Genasi|Oh]] after a silver bribe. Seem
 
 [[Maria Ravenloft|Maria]] is from Ravenfarm, south of the [[Enlightened Kingdom]].
 
-[[Oh, Air Genasi|Oh]]'s premonition is that of the continuation of a calamity. [[Pantheon#The Sovereign Host|The Sovereign Host]] has provided visions of the [[Lake Liash]], the town of [[Liashton]], and our entry into her story. The calamity then starts shortly after. [[Oh, Air Genasi|Oh]]'s vision never takes place inside the town.
+[[Oh, Air Genasi|Oh]]'s premonition is that of the continuation of a calamity. [[Pantheon of R'Ellanthas#The Sovereign Host|The Sovereign Host]] has provided visions of the [[Lake Liash]], the town of [[Liashton]], and our entry into her story. The calamity then starts shortly after. [[Oh, Air Genasi|Oh]]'s vision never takes place inside the town.
 
 Pointed towards the dock where there are always people in need of odd jobs.
 
@@ -43,8 +43,6 @@ Walkway back to the shore is destroyed, and we jump in a boat rowed by one of th
 The road heads towards a cliff face, and the road either goes up a steep set of stairs up a couple hundred meters. Another goes up in switchbacks carved into the stonework the likes of which we've never seen before. The road is damaged and obstructed by boulders.
 
 Set off up the stairs towards the summit after sending Nix up to scope out the route. She identifies 1 part has been destroyed in the aftermath.
-
-
 
 [[Oh, Air Genasi|Oh]] describes the process of the enchanted steps to her audience chamber. If the gods judge the question as unworthy then they can make the journey longer. If they favour the question, they can make the pathway shorter.
 
