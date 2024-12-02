@@ -6,6 +6,6 @@
 # Entries and Exits
 > There are two doors leading out of the patio, one has a symbol on it, the other doesn't, and appears to lead back to the main hallway.
 
-1. [[Foyer]]
-2. [[Library]]
+1. [[Fistandia's Foyer]]
+2. [[Fistandia's Library]]
 	- Symbol: A book, open to the middle, with arcane glyphs floating from the pages

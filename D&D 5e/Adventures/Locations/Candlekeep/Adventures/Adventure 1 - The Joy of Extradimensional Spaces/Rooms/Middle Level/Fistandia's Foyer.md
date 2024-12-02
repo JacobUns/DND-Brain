@@ -5,19 +5,19 @@
 
 # Entries and Exits
 Working Left to right
-1. [[Patio]]
+1. [[Fistandia's Patio]]
 	- No Symbol
-2. [[Library]]
+2. [[Fistandia's Library]]
 	- Symbol: A book, open to the middle, with arcane glyphs floating from the pages
-3. [[Exercise Room]]
+3. [[Fistandia's Exercise Room]]
 	- Symbol: A wooden heart, the centre of which is accented with red, with the aortas gilded with gold
-4. [[Study]]
+4. [[Fistandia's Study]]
 	- Symbol: A gold tipped quill with an ornate red feather positioned in front of an and ink bottle
 		- If a nature check of DC5 is made, the character recognises it to be a phoenix feather
-5. [[Kitchen]]
+5. [[Fistandia's Kitchen]]
 	- Symbol: A large cleaver of forged steel is emblazoned with handle to represent the head of some kind of bird of prey
-6. [[Dining Room]]
+6. [[Fistandia's Dining Room]]
 	- Symbol: As you approach this door you see an angled ornate plate, as you stand directly in front of it you see it shift to a plate of food representing the thing you crave
 		- Get the player standing in front of it to describe what they see
-7. [[Arboretum]]
+7. [[Fistandia's Arboretum]]
 	- No Symbol

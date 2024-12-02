@@ -10,9 +10,9 @@
 > Before the other is done talking, the one named Cumin flaps off to the stove and starts grabbing bowls, and before you know it is back and trying to push a bowl of something that's sloshing around into your hands.
 
 # Entries and Exits
-- Door 1: [[Pantry]]
-- Door 2: [[Dining Room]]
-- Door 3: [[Foyer]]
+- Door 1: [[Fistandia's Pantry]]
+- Door 2: [[Fistandia's Dining Room]]
+- Door 3: [[Fistandia's Foyer]]
 
 ## Cumin and Coriander
 - Two [[Homunculi]]

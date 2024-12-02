@@ -1,7 +1,6 @@
 # Description
 > As you approach the room you find the door ajar, and a soft orange glow coming from inside. 
-
-
+> 
 > As you enter, you see floor to ceiling bookshelves around the room, all stocked full of books and scrolls, and there are yet more books and papers scattered around the room in small piles. There are also several paintings around the room
 > 
 > The first thing that catches your eye though, is a desk in the middle of the room with three comfortable looking armchairs around it, and on the one facing you is a black fluffy cat which sits up and meows at you, then jumps down off the table and approaches.
@@ -40,7 +39,7 @@ After spending 30 minutes investigating the books and papers in the room:
 > As you continue to search you find that most of the papers and books are journals and memoirs written by Fistandia herself, and one of the journals you find appears to be from her acquisition of this mansion. She details how she was concerned that a guest may become trapped in the mansion, and so she hid a command word to open the portal back to Candlekeep on the spines of seven books in the mansion.
 
 # Entries and Exits
-- [[Foyer]]
+- [[Fistandia's Foyer]]
 - Secret entry to a staircase leading to the [[Lower Level Hallway]].
 
 # Puzzle Book

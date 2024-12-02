@@ -12,13 +12,13 @@
 - A character who succeeds on a DC 12 Arcana or History check recognises the legendary mage Mordenkainen
 
 # About [[Matreous]]
--   An expert in the application and removal of curses
--   Sage of [[Candlekeep]]
--   Recently arrived in [[Candlekeep]]
--   [[Matreous]] was in the pillars of pedagogy and cast detect magic out of habit, and found a door in the study room he was assigned
--   Forgetting his purpose for arriving, [[Matreous]] asked for any knowledge of who might have created the doorway
--   The Avowed identified that Fistandia requested the room each time she visited
-    -   Also found reports that she rarely left or attended meals and would go missing for hours
+- An expert in the application and removal of curses
+- Sage of [[Candlekeep]]
+- Recently arrived in [[Candlekeep]]
+- [[Matreous]] was in the pillars of pedagogy and cast detect magic out of habit, and found a door in the study room he was assigned
+- Forgetting his purpose for arriving, [[Matreous]] asked for any knowledge of who might have created the doorway
+- The Avowed identified that Fistandia requested the room each time she visited
+    - Also found reports that she rarely left or attended meals and would go missing for hours
 -   [[Matreous]] finds the command word and steps through the door
 
 # Finding the book

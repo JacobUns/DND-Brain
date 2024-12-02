@@ -10,8 +10,8 @@ If they haven't gone to the patio
 > On left wall as you enter is a door without a symbol on it. The only other door seems to be the one behind you back into the hallway
 
 # Entries and Exits
-- Door 1: [[Foyer]]
-- Door 2: [[Patio]] 
+- Door 1: [[Fistandia's Foyer]]
+- Door 2: [[Fistandia's Patio]] 
 
 # Contents of the Library
 ## Puzzle Book

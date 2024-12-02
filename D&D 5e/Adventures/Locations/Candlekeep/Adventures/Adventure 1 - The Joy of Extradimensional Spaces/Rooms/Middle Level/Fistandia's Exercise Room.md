@@ -8,7 +8,7 @@
 > In front back wall is a broom which is hovering in the air and seems to be sweeping the floor by itself.
 
 # Entries and Exits
-Door 1: [[Foyer]]
+Door 1: [[Fistandia's Foyer]]
 
 # Optional Encounter
 If left alone, the [animated broom](https://www.dndbeyond.com/monsters/1528953-animated-broom) goes about its duties and ignores the characters

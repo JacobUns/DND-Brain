@@ -4,8 +4,8 @@
 > The walls are decorated with fairly unremarkable tapestries that depict grapevines and the process of making wine.
 
 # Entries and Exits
-Door 1: [[Foyer]]
-Door 2: [[Kitchen]]
+Door 1: [[Fistandia's Foyer]]
+Door 2: [[Fistandia's Kitchen]]
 
 # Enemies
 ### Mimic chair
