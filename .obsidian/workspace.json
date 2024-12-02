@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Factions/The Windsinger's Collective.md",
+                "file": "Moros/Campaign Notes/Factions/Aurora'lyn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Windsinger's Collective"
+              "title": "Aurora'lyn"
+            }
+          },
+          {
+            "id": "f53a7a8c12a9e902",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -122,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Factions/The Windsinger's Collective.md",
+                "file": "Moros/Campaign Notes/Factions/Aurora'lyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Windsinger's Collective"
+              "title": "Outgoing links from Aurora'lyn"
             }
           },
           {
@@ -149,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Characters/Dwarves/Beldren.md"
+                "file": "R'ellanthas/Campaign Notes/Session 09 -.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Beldren"
+              "title": "Outline of Session 09 -"
             }
           },
           {
@@ -191,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 593.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,43 +217,43 @@
   },
   "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
-    "R'ellanthas/Campaign Notes/Characters/Kayn, Light's Bane.md",
-    "R'ellanthas/Campaign Notes/Factions/The Windsinger's Collective.md",
-    "R'ellanthas/Backstory Notes/Kayn Backstory.md",
-    "R'ellanthas/Campaign Notes/Session 08 - Scorched and Sundered.md",
-    "R'ellanthas/Campaign Notes/Session 04 - Scouting for Scouts.md",
-    "R'ellanthas/Campaign Notes/Session 05 - Sticky Scouting.md",
-    "R'ellanthas/Campaign Notes/Session 06 - Battle of the Citadel.md",
-    "R'ellanthas/Campaign Notes/Session 07 - Craft or Death.md",
-    "R'ellanthas/Campaign Notes/Session 02 - Miserable Minions and Deep Delving.md",
-    "R'ellanthas/Campaign Notes/Session 01 - A Groundshaking Introduction.md",
-    "R'ellanthas/R'Ellanthas.md",
-    "Welcome Page.md",
-    "R'ellanthas/Campaign Notes/R'Ellanthas - A Fallen City Campaign.md",
-    "R'ellanthas/Homebrew Rules.md",
-    "R'ellanthas/To Do List.md",
-    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
-    "D&D 5e/Adventures/Locations/Candlekeep/Candlekeep.md",
-    "World Building",
-    "World Building/Homebrew/Ipthir/Countries/Ipthir.md",
-    "D&D 5e/Adventures/Locations",
+    "Moros/Campaign Notes/Sessions/Session 01 - New Beginnings.md",
+    "Moros/Campaign Notes/Factions/Aurora'lyn.md",
+    "Moros/Campaign Notes/Factions/Xinderoth.md",
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Elvish/The Undying Court.md",
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Elvish/The Spirits of the Past.md",
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Draconic/The Blood of Vol.md",
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Draconic/Cults of the Dragon Below.md",
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Draconic/Vol, the Deathless Martyr.md",
+    "Moros/Campaign Notes/Characters/Pefergee/Earlian Dimmelwald.md",
     "R'ellanthas/Campaign Notes/Characters/Dwarves/Gulnur, the Ringwright.md",
-    "World Building/Homebrew/Ipthir",
-    "World Building/Homebrew",
-    "D&D 5e/Adventures",
-    "D&D 5e",
-    "R'ellanthas/Campaign Notes/Factions/Dwarven Ringsmiths.md",
-    "R'ellanthas/Locations/The Citadel of the Ringsmiths.md",
-    "R'ellanthas/Campaign Notes/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
-    "R'ellanthas/Campaign Notes/Characters/Dwarves/Amnur & Beldren.md",
-    "R'ellanthas/Campaign Notes/Characters/Dwarves/Beldren.md",
-    "R'ellanthas/Campaign Notes/Characters/Dwarves/Tassora.md",
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Elvish/The Raven Queen.md",
+    "Moros/Locations/Fey Realm/Ellerythia.md",
+    "Moros/Moros.md",
+    "Moros/Locations/Fey Realm",
+    "Moros/Campaign Notes/Characters/Pefergee/Mirella & Sylas.md",
+    "Moros/Campaign Notes/Characters/Arabella.md",
+    "Moros/Campaign Notes/Characters/Pefergee",
+    "Moros/Campaign Notes/Characters/Victor Dimmelwald.md",
+    "Moros/Campaign Notes/Characters/Kazak Blitzwater.md",
+    "Moros/Campaign Notes/Characters/Karrik Sylvari.md",
+    "Moros/Campaign Notes/Characters/Brannick Coldrock.md",
+    "Moros/Locations/Northern Province/Pefergee.md",
+    "Moros/Locations/Southern Empire/Bavaria.md",
+    "Moros/Locations/Southern Empire",
+    "Moros/Locations/Northern Province",
+    "R'ellanthas/Campaign Notes/Sessions/Session 01 - A Groundshaking Introduction.md",
+    "Moros/Locations",
+    "R'ellanthas/Campaign Notes/Sessions/Session 09 - On the road again.md",
+    "Moros/Campaign Notes/Sessions",
+    "R'ellanthas/Campaign Notes/Sessions",
+    "Moros/Campaign Notes/Factions",
+    "Moros/Campaign Notes/Characters",
+    "Moros/Campaign Notes",
+    "R'ellanthas/R'Ellanthas.md",
+    "R'ellanthas/Campaign Notes/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
+    "R'ellanthas/Campaign Notes/Sessions/Session 07 - Craft or Death.md",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
-    "World Building/Names/Dwarven Names.md",
-    "R'ellanthas/Campaign Notes/Factions",
-    "R'ellanthas/Campaign Notes/Characters/Dwarves",
-    "R'ellanthas/Campaign Notes/Characters",
-    "R'ellanthas/Locations/Untitled",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr 2.png",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr.png",
     "R'ellanthas/Religion/Other Faith Images/The Undying Court 2.png",

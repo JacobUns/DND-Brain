@@ -1,8 +1,8 @@
 ---
 tags:
   - Inactive
-  - Draconic
-  - Idol
+  - draconic
+  - idol
 ---
 Lost to time, the Arcandor Academy have released rhetoric on the existence of cults that idolise a creature only known as The Dragon Below. It is believed that this Draconic being gained enough of a following during The Ending War to become a minor [[#deity]] in its own right.
 

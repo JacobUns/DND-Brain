@@ -1,0 +1,6 @@
+---
+tags:
+  - questgiver
+aliases:
+  - Earlian
+---

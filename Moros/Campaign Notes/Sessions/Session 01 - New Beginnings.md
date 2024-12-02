@@ -1,0 +1,7 @@
+We start at the Last Bed, a tavern at the end of a road to nowhere specific. The last stop in the known and explored world. The accounting has started, a time where farmers and merchants in the city of [[Pefergee]].
+
+A highly useless young Dwarf called Dody Bandervelt inheritted responsibility for the largest farm in [[Pefergee]]. He's known for being very charismatic but with a reputation for running up loans with people. He made his money farming broad beans. As food starts to come out of the kitchen, he stands on a table and proclaims that [[Mirella & Sylas|Sylas]] has made a new recipe with the lentils he produces.
+
+A tense conversation with the alderman kicks up as Dody says he doesn't even like broad beans and wants to grow red split peas instead. He grumbles that his cousin from [[Bavaria]] grows them and they provide people much more energy. Dody approaches a Dwarf he calls [[Brannick Coldrock]] for help, having bought the red split peas and having no broad beans. He implies he's going to steal the beans and that negotiations would be happening with weapons instead.
+
+[[Victor Dimmelwald]] questions occasional travellers returning from the north as they return to the tavern. None of them have heard anything about his father, [[Earlian]], who went north some time ago and hasn't made his return.

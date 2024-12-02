@@ -1,8 +1,8 @@
 ---
 tags:
-  - Dwarven
-  - NPC
-  - Quest-giver
+  - dwarven
+  - npc
+  - questgiver
 aliases:
   - Gulnur
   - The Ringwright

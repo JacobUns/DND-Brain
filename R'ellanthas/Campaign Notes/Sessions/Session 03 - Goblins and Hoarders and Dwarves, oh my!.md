@@ -5,9 +5,9 @@
 At the crossroad, we find a sign pointing out of the cavern we are currently in, towards the west, saying "[[The Citadel of the Ringsmiths|Citadel]] of the [[Dwarven Ringsmiths|Ringsmiths]]". The water flows into an area signposted as "The Deeps". [[Kayn, Light's Bane|Kayn]] suggests that they go towards [[The Citadel of the Ringsmiths]]. We continue down the paths and find a hexagonal room with signs for [[The Citadel of the Ringsmiths]], The Deeps, Upper One, The Great Road, a Dwarven Town Name towards the "Keen Might" area, and "City of [[Bal Toruhm]]".
 
 In travelling:
-- [[Kayn, Light's Bane|Kayn]] uses Nature to keep a better sense of the direction the group are going - 19
-- [[Maria Ravenloft|Maria]] uses Survival to make sure there are no dangers or creature tracks in their path - 19
-- [[Oh, Air Genasi|Oh]] uses insight to anticipate where there may be greater risk of ambush to the party, invoking [[Balinor]]'s protection and safe passage - 16
+- [[Kayn, Light's Bane|Kayn]] uses *Nature* to keep a better sense of the direction the group are going - 19 #travelcheck 
+- [[Maria Ravenloft|Maria]] uses *Survival* to make sure there are no dangers or creature tracks in their path - 19 #travelcheck 
+- [[Oh, Air Genasi|Oh]] uses *Insight* to anticipate where there may be greater risk of ambush to the party, invoking [[Balinor]]'s protection and safe passage - 16 #travelcheck 
 
 We find an arched corridor with cracked ceiling and believe they have been made recently. The corridor goes on and starts to reveal the grandeur of the place. There are multiple other breaks off from the path, but none are signposted. As we continue to pass little winding paths off our main route. It becomes clear this place is a maze. We get to an awe-inspiring area with artistically crafted rock, sculpted with care and attention. The rock feels glasslike, and the corners are sharp and precise. There's a curving and winding road that looks like it passes through what may have been a market. The floor is littered with decomposing corpses of goblin and dwarf-kind. Most are old, with some slightly more recent but still showing the age of time.
 

@@ -1,0 +1,6 @@
+---
+aliases:
+  - Karrik
+tags:
+  - playercharacter
+---

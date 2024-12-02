@@ -1,0 +1,6 @@
+---
+aliases:
+  - Victor
+tags:
+  - playercharacter
+---

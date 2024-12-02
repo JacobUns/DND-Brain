@@ -1,9 +1,9 @@
 ---
 tags:
   - Inactive
-  - Elvish
   - Ascendant
   - Deity
+  - elvish
 ---
 Little is known about the origins of The Raven Queen, but within the right circles it is believed that she was a demi-god born of [[Melorkis, The Shadow]].
 
