@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moros/Campaign Notes/Factions/Aurora'lyn.md",
+                "file": "Moros/Campaign Notes/Sessions/Session 02 - Given a purpose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aurora'lyn"
+              "title": "Session 02 - Given a purpose"
             }
           },
           {
@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5026054382324
+    "width": 326.5
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -132,12 +133,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moros/Campaign Notes/Factions/Aurora'lyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aurora'lyn"
+              "title": "Outgoing links"
             }
           },
           {
@@ -201,58 +201,58 @@
       }
     ],
     "direction": "horizontal",
-    "width": 593.5
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ad13a31820dc0bc4",
+  "active": "f53a7a8c12a9e902",
   "lastOpenFiles": [
+    "Moros/Campaign Notes/Characters/Pefergee/Mirella & Sylas.md",
+    "Moros/Campaign Notes/Characters/Pefergee/Earlian Dimmelwald.md",
+    "Moros/Campaign Notes/Sessions/Session 02 - Given a purpose.md",
+    "Moros/Campaign Notes/Characters/Tourelle/Croesus.md",
+    "Moros/Campaign Notes/Characters/Tourelle",
+    "Moros/Locations/Northern Province/Tourelle.md",
+    "Moros/Locations/Northern Province/Pefergee.md",
     "Moros/Campaign Notes/Sessions/Session 01 - New Beginnings.md",
+    "Moros/Campaign Notes/Factions/Norther Provinces/Knights of Arduum.md",
+    "Moros/Campaign Notes/Factions/Norther Provinces",
+    "Moros/Campaign Notes/Characters/Pefergee/Tannentraus.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Fistandia's Study.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Fistandia's Patio.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Fistandia's Pantry.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Fistandia's Library.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Fistandia's Exercise Room.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Fistandia's Dining Room.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Fistandia's Arboretum.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Fistandia's Foyer.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Rooms/Middle Level/Fistandia's Kitchen.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Adventures/Adventure 1 - The Joy of Extradimensional Spaces/Adventure Notes/About the Book.md",
+    "Moros/Locations/Northern Province/Pefergee/The Last Bed.md",
+    "Moros/Locations/Northern Province/Pefergee",
     "Moros/Campaign Notes/Factions/Aurora'lyn.md",
     "Moros/Campaign Notes/Factions/Xinderoth.md",
     "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Elvish/The Undying Court.md",
     "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Elvish/The Spirits of the Past.md",
     "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Draconic/The Blood of Vol.md",
     "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Draconic/Cults of the Dragon Below.md",
-    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Draconic/Vol, the Deathless Martyr.md",
-    "Moros/Campaign Notes/Characters/Pefergee/Earlian Dimmelwald.md",
-    "R'ellanthas/Campaign Notes/Characters/Dwarves/Gulnur, the Ringwright.md",
-    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Elvish/The Raven Queen.md",
-    "Moros/Locations/Fey Realm/Ellerythia.md",
-    "Moros/Moros.md",
     "Moros/Locations/Fey Realm",
-    "Moros/Campaign Notes/Characters/Pefergee/Mirella & Sylas.md",
-    "Moros/Campaign Notes/Characters/Arabella.md",
     "Moros/Campaign Notes/Characters/Pefergee",
-    "Moros/Campaign Notes/Characters/Victor Dimmelwald.md",
-    "Moros/Campaign Notes/Characters/Kazak Blitzwater.md",
-    "Moros/Campaign Notes/Characters/Karrik Sylvari.md",
-    "Moros/Campaign Notes/Characters/Brannick Coldrock.md",
-    "Moros/Locations/Northern Province/Pefergee.md",
-    "Moros/Locations/Southern Empire/Bavaria.md",
     "Moros/Locations/Southern Empire",
     "Moros/Locations/Northern Province",
-    "R'ellanthas/Campaign Notes/Sessions/Session 01 - A Groundshaking Introduction.md",
     "Moros/Locations",
-    "R'ellanthas/Campaign Notes/Sessions/Session 09 - On the road again.md",
     "Moros/Campaign Notes/Sessions",
     "R'ellanthas/Campaign Notes/Sessions",
-    "Moros/Campaign Notes/Factions",
-    "Moros/Campaign Notes/Characters",
-    "Moros/Campaign Notes",
-    "R'ellanthas/R'Ellanthas.md",
-    "R'ellanthas/Campaign Notes/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
-    "R'ellanthas/Campaign Notes/Sessions/Session 07 - Craft or Death.md",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr 2.png",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr.png",
