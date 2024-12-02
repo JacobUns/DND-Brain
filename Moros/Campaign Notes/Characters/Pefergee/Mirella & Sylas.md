@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - questgiver
 aliases:
   - Sylas
   - Mirella
