@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moros/Campaign Notes/Sessions/Session 02 - Given a purpose.md",
+                "file": "Moros/Campaign Notes/Sessions/Session 03 - Into the Woods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 02 - Given a purpose"
+              "title": "Session 03 - Into the Woods"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 329.5
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -133,11 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Moros/Campaign Notes/Sessions/Session 03 - Into the Woods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Session 03 - Into the Woods"
             }
           },
           {
@@ -201,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,16 +215,20 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "f53a7a8c12a9e902",
+  "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01 - A Groundshaking Introduction.md",
+    "R'ellanthas/Campaign Notes/Main Campaign",
     "Moros/Moros.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign",
+    "Moros/Locations/Northern Province/Tourelle.md",
+    "Moros/Campaign Notes/Sessions/Session 03 - Into the Woods.md",
+    "Moros/Campaign Notes/Sessions/Session 02 - Given a purpose.md",
     "R'ellanthas/R'Ellanthas.md",
     "Moros/Campaign Notes/Characters/Pefergee/Mirella & Sylas.md",
     "Moros/Campaign Notes/Characters/Pefergee/Earlian Dimmelwald.md",
-    "Moros/Campaign Notes/Sessions/Session 02 - Given a purpose.md",
     "Moros/Campaign Notes/Characters/Tourelle/Croesus.md",
     "Moros/Campaign Notes/Characters/Tourelle",
-    "Moros/Locations/Northern Province/Tourelle.md",
     "Moros/Locations/Northern Province/Pefergee.md",
     "Moros/Campaign Notes/Sessions/Session 01 - New Beginnings.md",
     "Moros/Campaign Notes/Factions/Norther Provinces/Knights of Arduum.md",
@@ -244,15 +248,11 @@
     "Moros/Locations/Northern Province/Pefergee",
     "Moros/Campaign Notes/Factions/Aurora'lyn.md",
     "Moros/Campaign Notes/Factions/Xinderoth.md",
-    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Elvish/The Undying Court.md",
-    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Inactive/Elvish/The Spirits of the Past.md",
     "Moros/Locations/Fey Realm",
     "Moros/Campaign Notes/Characters/Pefergee",
     "Moros/Locations/Southern Empire",
     "Moros/Locations/Northern Province",
     "Moros/Locations",
-    "Moros/Campaign Notes/Sessions",
-    "R'ellanthas/Campaign Notes/Sessions",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr 2.png",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr.png",

@@ -1,3 +1,4 @@
 # About
 # Locations
-## Wet Whistle Tavern
+## The Wet Whistle Tavern
+## The Mermaid Tavern

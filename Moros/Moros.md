@@ -7,6 +7,7 @@
 ## Campaign Notes
 - [[Session 01 - New Beginnings]]
 - [[Session 02 - Given a purpose]]
+- [[Session 03 - Into the Woods]]
 ## Major Locations
 - [[Pefergee]]
 - [[Tourelle]]
