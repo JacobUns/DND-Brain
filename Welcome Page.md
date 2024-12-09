@@ -16,4 +16,6 @@ tags:
 - [[Paladin Oaths]]
 - [[Planes of Existence]]
 ### Campaign Notes
+- [[Aothir]]
+- [[Moros]]
 - [[R'Ellanthas]]
