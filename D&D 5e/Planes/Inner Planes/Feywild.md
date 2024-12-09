@@ -2,5 +2,28 @@
 tags:
   - Plane
 aliases:
-  - Fey
+  - The Fey
 ---
+# About
+
+# Example Rules
+- There are a lot of rules to the Fey, but few know them all. They’re not just rules of etiquette, but also for survival 
+- Most Fey do not lie but are blatantly willing to skirt the truth, so lawyering is common
+- You should never freely give your full name to an Archfey
+- Giving your name to an Archfey gives them a type of ownership over you, allowing them to impersonate you
+- Potential for some negative effects such as disadvantage against certain types of check? Making it harder to lie as the Fey knows you intimately?
+- Because giving your name to an Archfey brings risk, the Fey have taken to saying “You may know me as…” or similarly adapting their names to only give part of it
+- No gift from a powerful Fey is given freely, there’s always a catch
+- The worst catches are IOUs as the requests can often be disproportionate
+- You should always be polite, but never thankful. Thanking someone implies what you have has been given, and nothing is given freely
+- If you hear music coming from off the beaten path, you should never follow it
+- Music can be used by creatures like Archfey, Satyr and Pixies to lure unsuspecting prey into an ambush
+- Music also can come from The Revel, a small amphitheatre haunted by the spirits of former players. Getting too close to the area results in being drawn in, and there are stories of members of travelling bands being drawn in and dancing until they die of dehydration or starvation as they are unable to escape, eventually joining the band.
+- You should also never follow lights that lead you astray
+- All types of creatures use light to lure prey, and some like pixies are more dangerous than they may seem
+- Among civilised Fey, the more beautiful a Fey the older and more powerful and/or dangerous they are likely to be
+- You should always eat with your hands when with a Nymph lest you offend them, few know why.
+- There are types of mushrooms that mimic others. Some of those are poisonous, some are not (similar to the Viceroy and Monarch Butterflies). You can tell by dripping water collected from a Feywild grove on top; if it briefly changes colour, it’s poisonous.
+- Just because all you can see around you is plant life doesn’t mean you’re safe. Enchanted plants aren’t uncommon, and some creatures mimic water plant plants like seaweed (Kelpies) or trees (Treants).
+- A creature that introduces itself to you may very well be what it appears or could be another type of being playing a trick on you.
+- There is a mix of creatures from the Feywild in the Material Plane and vice versa as creatures accidentally slip through the space between dimensions. Some, like wolves, aren’t uncommon in both realms. Certain types of creatures may use them as mounts, such as Nymphs.

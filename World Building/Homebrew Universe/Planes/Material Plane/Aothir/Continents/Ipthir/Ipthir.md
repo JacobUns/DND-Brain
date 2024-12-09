@@ -1,33 +1,33 @@
+---
+tags:
+  - homebrew
+  - continent
+---
 # Description
 
+# Countries
 
-# Information
-## Capital
+## Cities and Landmarks
+### Cities
+#### Capital
 - [[Aupheria]]
-
-## Cities
+#### Major Cities
 - [[Brava]]
 - [[Cape Point]]
 - [[Felthris]]
 - [[Redwin]]
 - [[Triop]]
-
-## Towns
+### Towns
 - [[Grim's End]]
 - [[Othlio]]
 - [[Lelith]]
 - [[Bray]]
 - [[Emray]]
 - [[Tor Anoc]]
-
-## Ports
+### Ports
 - [[Corwell]]
 - [[Felwin]]
 - [[Elistor]]
-
-# History
-
-
-# Important Landmarks
+### Important Landmarks
 - [[Candlekeep]]
 - 
