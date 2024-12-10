@@ -349,8 +349,6 @@ This page details the playable races within the world of [[Aothir]]. Each contai
 - Why do you no longer reside within your tribe?
 # Goliath
 
-  
-
 # Half-Elf
 
 # Half-Orc
@@ -366,6 +364,3 @@ This page details the playable races within the world of [[Aothir]]. Each contai
 # Tabaxi
 
 # Tiefling
-
-  
-**
