@@ -51,6 +51,7 @@ Field Captains are the leaders of expedition teams. They organise and execute qu
 #### Garrick "Brightforge" Ironvein
 A gnome inventor and craftsman, Garrick is known for his ingenious creations, including enchanted armor and powerful weapons. His mastery over both arcane and mechanical engineering makes him an invaluable asset to the guild.
 #### Brom Swiftblade
+A gruff, burly and friendly human, Brom is known by all within the Windsinger's number as a tough but fair [[#Field Captain & Master Craftsman|Field Captain]]. 
 ## Senior Adventurer
 Senior Adventurers are trusted with more difficult and dangerous quests. They mentor Journeymen and are expected to guide and protect younger members while tackling high-stakes challenges. Many Senior Adventurers eventually ascend to higher ranks.
 ## Journeyman Adventurer
@@ -58,4 +59,11 @@ After proving themselves in basic tasks, Journeymen are given more independent m
 ## Apprentice Adventurer
 The first rank for new recruits. Apprentices undergo a series of trials and training to develop their skills. They are assigned basic tasks, such as gathering resources or patrolling dangerous areas under the guidance of a higher-ranked member.
 # Notable Guild Adventurers
-[[Kayn, Light's Bane|Kayn]] - [[#Journeyman Adventurer]] and former apprentice to [[#Brom Swiftblade]]
+## Tessara "Windwhisper" Elanil  
+A revered human warrior-mage, Tessara is known for her gentle yet firm approach to teaching. She specializes in spiritual growth, teaching recruits not just how to fight, but also how to understand and control their inner power.
+## Duncan "Frosthammer" Stonefist  
+A giant of a man with a heart to match, Duncan is a [[#Senior Adventurer]] known for his expertise in both combat and engineering. He leads expeditions into ancient ruins, crafting powerful siege weapons for the guild.
+## [[Kayn, Light's Bane]] 
+[[#Journeyman Adventurer]] and former apprentice to [[#Brom Swiftblade]]
+## Vera "Stormstrike" Darwin  
+A skilled ranger and elemental archer, Vera is a [[#Journeyman Adventurer|Journeyman]] known for her mastery of storm magic. She frequently leads expeditions to the wilderness to retrieve rare artifacts, offering guidance to younger members in the field.

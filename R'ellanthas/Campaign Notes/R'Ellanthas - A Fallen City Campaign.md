@@ -13,6 +13,9 @@
 - [[Session 05 - Sticky Scouting]]
 - [[Session 06 - Battle of the Citadel]]
 - [[Session 07 - Craft or Death]]
+- [[Session 08 - Scorched and Sundered]]
+- [[Session 09 - On the road again]]
+- [[Session 10 - Aggressive Negotiations]]
 ## Characters
 ### Player Characters
 [[Kayn, Light's Bane|Kayn]] - Jacob

@@ -3,7 +3,7 @@ tags:
   - faction
 ---
 # About
-A faction of treasure hunters and opportunist, the Hoarders are the scavengers of [[Bal Toruhm]]. Taking the opportunity that the war between Goblins and Dwarves has presented, the Hoarders pick through the remains of the broken and war torn cityscape for anything worth coin.
+A faction of treasure hunters and opportunist, the Hoarders are the scavengers of [[Bal Toruhm]]. Taking the opportunity the war between Goblins and Dwarves has presented, the Hoarders pick through the remains of the broken and war torn cityscape for anything worth coin. This may be extracted from the ruins of the city and sold externally, but may also be peddled within the mountain to the highest bidder. This has led to the dwarven people's frustration at the group arming their enemy with their own creations.
 
 The group are not specifically allied with any one side, but as the city of [[Bal Toruhm]] is Dwarven their relationship with the Dwarves is fractious. The Dwarves believe the group a scourge, pilfering their relics and treasures, and so are weary of accidentally allowing one into their camps.
 
