@@ -9,20 +9,20 @@ Gold coin with a rough female figure wearing a fancy hat is the symbol of the ho
 Deep 2 is an outpost for the hoarders, and if someone wants to join then they can be found a half day's travel from our current position. [[Kayn, Light's Bane|Kayn]] threatens them one final time, and they decide to take their chances. Battle ensues, with the group floundering slightly and the hoarders getting a few hits in. The two are killed, with Brif's head being exploded with light by [[Maria Ravenloft|Maria]].
 
 The two have on them:
-2x Goggles of Night
-Potion of Healing
-Potion of Healing Superior
-Bottle with the go faster stripe - Bold Bottom's Boutique (Haste) - "Do not use on animals"
+2x Goggles of Night - Kayn & Maria
+Potion of Healing - Kayn
+Potion of Healing Superior - Kayn
+Bottle with the go faster stripe - Bold Bottom's Boutique (Haste) - "Do not use on animals" - Maria
 Pot of this is not hair gel - Bold Bottom's Boutique (Grease)
-Bag of Holding
-Golden Statues - 300gp each x2 - Robust statue figures that appear to depict poses of gods Orag, the Hammer.
+Bag of Holding - Oh
+Golden Statues - 300gp each x2 - Robust statue figures that appear to depict poses of gods Orag, the Hammer. - Kayn
 
-Scroll of Bigby's Hand
-Scroll of Ice Knife
-Scroll of Faerie Fire
-Scroll of Spiritual Weapon
+Scroll of Bigby's Hand - Oh
+Scroll of Ice Knife - Oh
+Scroll of Faerie Fire - Oh
+Scroll of Spiritual Weapon - Oh
 
-Two +1 Swords
+Two +1 Swords - Kayn
 
 The group agree to set up camp for a night and to follow the left path to find a safe place. The first exit off the corridor is an aqueduct with water pouring into the room. Looks like it was once a water drawing location that's seen much better days. An area of it appears to have been fortified and stripped of anything useful.
 
