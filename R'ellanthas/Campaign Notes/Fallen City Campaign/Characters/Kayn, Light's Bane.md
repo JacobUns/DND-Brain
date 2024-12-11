@@ -38,7 +38,7 @@ He doesn't know his age, but he guesses somewhere between his mid twenties and e
 > 
 > In the course of their searching, they would fall foul of the dangers of the road and find themselves ambushed by a pack of creatures Kayn had never encountered, but that the adventurers obviously had. They formed up into quick ranks, and Brom pulled Kayn into form quickly and professionally keeping his flank guarded while obviously seeing what Kayn was made of. Obviously impressed by the grace and ease that Kayn moved between the creatures, he would be offered a temporary and trial basis with the group; his luck was finally starting to turn.
 > 
-> Brom would take Kayn under his wing, and would eventually sponsor his joining the Adventuring guild - [[The Windsinger's Collective]]. The guild, based out of an impressive building in the guildhalls of Windfall, would test his abilities, and though finding him a raw talent, decided Kayn was worth trialling. Brom would become his mentor, and Kayn his apprentice, a fact that would disgruntle a Dwarf by the name of Gorbrimdal who had been working to get noticed by Brom, a well known and respected figure within the Windsingers.
+> Brom would take Kayn under his wing, and would eventually sponsor his joining the Adventuring guild - [[The Windsinger's Collective]]. The guild, based out of an impressive building in the guildhalls of Windfall, would test his abilities, and though finding him a raw talent, decided Kayn was worth trialling. Brom would become his mentor, and Kayn his apprentice, a fact that would disgruntle a Dwarf by the name of Gorbrimdal who had been working to get noticed by Brom, a well known and respected figure within the [[The Windsinger's Collective|Windsingers]].
 > 
 > Eventually, Kayn would face his final test to join the guild. A feat of skill must be shown that would be deemed worthy by the panel of senior guildsmen and women. It was during this trial that Kayn would feel vibration within the crystal on his arm. He would allow it to flow through him, with some trepidation, and it would flow out of the crystal, down his arm, and would cover his blade in shadow and smoke. The blade would vibrate and almost begin to emit ethereal tones. He would challenge the crowd to an open duel. To Kayn's shock, Brom would accept the challenge.
 > 
@@ -62,29 +62,33 @@ Brash
 Blunt
 Sarcastic
 Abrasive
-## Unique characteristics
 ## Questions to answer
-
+Where is Piper now?
+What do I need to be able to take down Piper?
+There was something unnatural about him, what is it?
 ## Class
 Wizard - Bladesinger
 ## Physical Description
-## Locations
-## Known Associates
-### Childhood
-Kayn grew close to a few children being held captive with him. These were:
+Slight build with wiry muscle, built for speed of movement over strength of arm. Covered in strong, dyed leather armour in blues, browns and creams, he strikes a cutting figure of sharp lines in his stance and face alike. Light brown hair, cut short on the left side and quiffed in waves to the right, it falls in well kept locks over a silver headband worn around his temple.
 
-**Kreslin** - Young Male dwarf - Held in the cell opposite 
-**Orion** - Young Male Halfling - Deceased
+On his arms, however, are the stories of his early life. A mix of thick knotted and and fine and shallow scars cover his right forearm, each telling the tale of a new torture inflicted upon him. Just off-centre sits the smoky, obsidian-like, semi-transparent gemstone that glows softly with swirling shadow held inside.
+
+Slightly under average height for a human, his stature speaks to one who's nimble feet get them in and out of a combat encounter quickly, while his keen and cutting brown eyes show the intelligence of someone who has forged their own path, putting themselves cunningly into the right place at the right time to take advantage of any opportunity.
+## Known Associates
+
+### Adventurers
+[[Oh, Air Genasi]] - Sorcerer
+[[Maria Ravenloft]] - Paladin
+### Dwarves
+[[Tassora]]
+[[Amnur & Beldren]]
+### Childhood
+**Kreslin** - Young Male dwarf - Held in the cell opposite Kayn
+**Orion** - Young Male Halfling - Deceased. Held in cell next to Kayn
 **Florence** - Young Female Human
 ### Young Adulthood
 **Brom** - Gruff human adventurer that would mentor and sponsor Kayn in joining the adventurers guild
 ## Enemies
 **Piper** - Human, looks to be in his late 50s but seems to hold knowledge beyond his years. Tall but slender, almost to a sickly level. His fingers flicked with unnatural dexterity and accuracy. Powerful wizard able to easily defend against the futile efforts.
-**Gorbrimdal** - Jealous Dwarven apprentice adventurer. Had been lining himself up to be mentored by Brom
-### Campaign
-#### Dwarves
-[[Tassora]]
-[[Amnur & Beldren]]
-#### Adventurers
-[[Oh, Air Genasi]] - Sorcerer
-[[Maria Ravenloft]] - Paladin
+
+**Gorbrimdal** - Jealous Dwarven apprentice adventurer. Had been lining himself up to be mentored by Brom.

@@ -135,11 +135,11 @@ This page details the playable races within the world of [[Aothir]]. Each contai
 - [[Emel Nimloth]] is a sprawling city highly protected by the Wood Elves. Outsiders and untrusted parties are forbidden unless decreed by the council of elders. 
 ## Dark
 - These Dark Elves, also known as the Drow, are descendants from a subrace of elves that were banished for following dark gods and leading lives of evil.
-- They live in the [[underdark]], still following the rights of the gods their ancestors followed.
+- They live in the [[Underdark]], still following the rights of the gods their ancestors followed.
 - Their skin resembles the colour of charcoal or obsidian, and they have stark white or pale yellow hair. They commonly have very pale eyes that can be mistaken for white in shades of lilac, silver, pink, red or blue.
 - They tend to be slightly smaller than their elvish cousins
 ### Dark Elf Player considerations
-- Drow adventurers are very rare indeed. As such, what made your character leave the relative safety of the [[underdark]] to brave the perils of the light?
+- Drow adventurers are very rare indeed. As such, what made your character leave the relative safety of the [[Underdark]] to brave the perils of the light?
 - Drow, like Duergar, are sensitive to sunlight, meaning they have disadvantage on attack rolls and perception checks that rely on sight when their target is in direct sunlight. This is a major disadvantage, how would your character combat this?
 ## Aereni
 - [[Aerenal]], an island off the coast of [[Lothlorel]], is ruled by the Undying Court

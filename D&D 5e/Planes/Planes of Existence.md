@@ -17,5 +17,6 @@ Through different iterations of D&D, some planes, such as the [[Astral Plane]], 
 
 Most stories run by a dungeon master are likely to exist within what is referred to as the [[Material Plane]], which houses the world as we think of it in our own reality. This is traditionally mirrored in two accompanying planes called the [[Shadowfell]] and [[Feywild]].
 
-The [[Feywild]] is a very common fantasy concept, with authors such as Patrick Rothfus having very similar concepts in books such as his King Killer Chronicles series with the plane that houses the lair of Felurian and the Cthaeh.
+The [[Feywild]] is a very common fantasy concept, with authors such as Patrick Rothfuss having very similar concepts in books such as his King Killer Chronicles series with the plane that houses the lair of Felurian and the Cthaeh.
 
+Brandon Sanderson explores similar concepts of multiplanar existence in his novels, with each world existing in the same cosmere with secret connections linked by a concept of Shards. The powers and events are, therefore, bound by a set of overarching rules that governs the whole while still having unique flavour.
