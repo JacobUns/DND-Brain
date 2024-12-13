@@ -9,3 +9,5 @@ Primarily a high fantasy universe, the world of Aothir is a high magic setting. 
 Firearms within the world are exclusively manual in nature, with the technology for automatic fire not being developed. As such, most are lever-action or mechanical revolver style weaponry when developed without magic. Arcane versions are significantly more expensive and significantly more rare. They still require manual action, but their ammunition may be arcane in nature or more reliable than its mechanical counterpart which has the tendency to break or jam regularly.
 
 The [[Aothir Planar Universe]] is a multi-planar structure. The players will primarily exist within the [[Material Plane]], but in some circumstances may travel to other planes as their journeys progress.
+
+The world is multiracial and cultural, pulling inspiration from real-world cultures and races for a multitude of source materials. The races of the world are wildly diverse, but there are recommended [[playable races]] with inspiration for background choices.

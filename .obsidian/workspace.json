@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D 5e/Planes/Planes of Existence.md",
+                "file": "Aothir/Aothir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planes of Existence"
+              "title": "Aothir"
             }
           },
           {
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D 5e/Planes/Planes of Existence.md",
+                "file": "Aothir/Aothir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planes of Existence"
+              "title": "Backlinks for Aothir"
             }
           },
           {
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D 5e/Planes/Planes of Existence.md",
+                "file": "Aothir/Aothir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Planes of Existence"
+              "title": "Outgoing links from Aothir"
             }
           },
           {
@@ -159,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D 5e/Planes/Planes of Existence.md"
+                "file": "Aothir/Aothir.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Planes of Existence"
+              "title": "Outline of Aothir"
             }
           },
           {
@@ -213,6 +213,7 @@
   },
   "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
+    "D&D 5e/Planes/Planes of Existence.md",
     "D&D 5e/Planes/Outer Planes/Upper Planes/Upper Planes.md",
     "D&D 5e/Planes/Outer Planes/Outer Planes.md",
     "Aothir/Planes/Aothir Planar Universe.md",
@@ -248,7 +249,6 @@
     "Moros/Campaign Notes/Characters/Tourelle/Shelldrick.md",
     "Aothir/Planes/Material Plane/Aothir/Continents/Ministries",
     "Moros/Campaign Notes/Sessions/Session 04 - On a knife edge.md",
-    "Moros/Campaign Notes/Sessions/Session 03 - Into the Woods.md",
     "R'ellanthas/Campaign Notes/Main Campaign",
     "R'ellanthas/Campaign Notes/Fallen City Campaign",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
