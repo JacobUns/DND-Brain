@@ -1,0 +1,8 @@
+- [ ] Metallic dragons as patrons for adventurers
+	- [ ] Identify adventuring guild names
+	- [ ] Theme to their Metallic patron or their chromatic adversary
+- [ ] Chromatic dragons as evil adversaries
+- [ ] Identify lair locations for each in the world
+- [ ] Create adventuring factions names
+	- [ ] Move the hierarchy of an adventuring guild
+- [ ] 

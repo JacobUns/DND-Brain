@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Aothir.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aothir"
+              "title": "The Windsinger's Collective"
             }
           },
           {
@@ -29,6 +29,26 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9793bf1eb5f197a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fdde94e43479c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building Tools/Guilds/Guild Structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guild Structures"
             }
           }
         ]
@@ -113,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aothir/Aothir.md",
+                "file": "World Building Tools/Guilds/Guild Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aothir"
+              "title": "Backlinks for Guild Structures"
             }
           },
           {
@@ -132,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aothir/Aothir.md",
+                "file": "World Building Tools/Guilds/Guild Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aothir"
+              "title": "Outgoing links from Guild Structures"
             }
           },
           {
@@ -159,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aothir/Aothir.md"
+                "file": "World Building Tools/Guilds/Guild Structures.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Aothir"
+              "title": "Outline of Guild Structures"
             }
           },
           {
@@ -211,14 +231,23 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ad13a31820dc0bc4",
+  "active": "9fdde94e43479c70",
   "lastOpenFiles": [
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
+    "World Building Tools/Guilds/Guild Structures.md",
+    "World Building Tools/Guilds/Guild Hierarchy.png",
+    "World Building Tools/Guilds/Guild Names.md",
+    "World Building Tools/Guilds/Guild Types.md",
+    "Aothir/World To Do.md",
+    "World Building Tools/Guilds/Untitled",
+    "World Building Tools/Guilds",
+    "World Building Tools",
+    "Aothir/Aothir.md",
     "D&D 5e/Planes/Planes of Existence.md",
     "D&D 5e/Planes/Outer Planes/Upper Planes/Upper Planes.md",
     "D&D 5e/Planes/Outer Planes/Outer Planes.md",
     "Aothir/Planes/Aothir Planar Universe.md",
     "D&D 5e/Planes/Inner Planes/Inner Planes.md",
-    "Aothir/Aothir.md",
     "Aothir/Campaign Ideas/Quest Line Ideas.md",
     "Aothir/Planes/Feywild/Aothiran Feywild.md",
     "D&D 5e/Planes/Inner Planes/Feywild.md",
@@ -226,10 +255,8 @@
     "R'ellanthas/Campaign Notes/R'Ellanthas - A Fallen City Campaign.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Hoarders.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Dwarven Ringsmiths.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Windsinger's Collective/The Windsinger's Collective.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Windsinger's Collective/Guild Hierarchy.png",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Windsinger's Collective/Guild Hierarchy.canvas",
+    "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Windsinger's Collective",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders/Hoarder Queen.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders",
@@ -239,18 +266,10 @@
     "Aothir/Playable Races.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Goblin/Dohma Rashkovar.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Goblin",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Underdark.md",
     "Aothir/Planes/Material Plane",
     "Aothir/Planes/Feywild",
     "Aothir/Planes",
     "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ministries/Order of the Quill.md",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ministries/Order of the Weave.md",
-    "Moros/Campaign Notes/Characters/Tourelle/Shelldrick.md",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ministries",
-    "Moros/Campaign Notes/Sessions/Session 04 - On a knife edge.md",
-    "R'ellanthas/Campaign Notes/Main Campaign",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr 2.png",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr.png",
