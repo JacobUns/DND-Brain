@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"9c9d9c63fddabac4","type":"text","text":"Master of Recruits","x":-320,"y":-100,"width":250,"height":60,"color":"3"},
 		{"id":"c70bf78022d9f813","type":"text","text":"Field Captain & Master Craftsman","x":-600,"y":-100,"width":250,"height":60,"color":"5"},
-		{"id":"c9fe2607efcc693e","type":"text","text":"Senior Adventurer","x":-600,"y":0,"width":250,"height":60,"color":"5"},
-		{"id":"90557341618e569e","type":"text","text":"Journeyman Adventurer","x":-600,"y":100,"width":250,"height":60,"color":"5"},
-		{"id":"28ff53d4f3e63a9b","type":"text","text":"Apprentice Adventurer","x":-600,"y":200,"width":250,"height":60,"color":"5"},
+		{"id":"c9fe2607efcc693e","type":"text","text":"Senior Guild Member","x":-600,"y":0,"width":250,"height":60,"color":"5"},
+		{"id":"90557341618e569e","type":"text","text":"Journeyman Guild Member","x":-600,"y":100,"width":250,"height":60,"color":"5"},
+		{"id":"28ff53d4f3e63a9b","type":"text","text":"Apprentice Guild Member","x":-600,"y":200,"width":250,"height":60,"color":"5"},
 		{"id":"7473f6f67060b31f","type":"text","text":"Guild Archivist","x":-40,"y":-100,"width":250,"height":60,"color":"3"},
 		{"id":"374f7749ec8186df","type":"text","text":"Council of Elders","x":240,"y":-100,"width":250,"height":60,"color":"6"},
 		{"id":"0c46d64b431c1294","type":"text","text":"Guildmaster","x":-195,"y":-320,"width":250,"height":60,"color":"1"}

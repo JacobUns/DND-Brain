@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
+                "file": "Aothir/Scales of Economy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Windsinger's Collective"
+              "title": "Scales of Economy"
             }
           },
           {
@@ -29,26 +29,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9793bf1eb5f197a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9fdde94e43479c70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building Tools/Guilds/Guild Structures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guild Structures"
             }
           }
         ]
@@ -133,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building Tools/Guilds/Guild Structures.md",
+                "file": "Aothir/Scales of Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +123,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Guild Structures"
+              "title": "Backlinks for Scales of Economy"
             }
           },
           {
@@ -152,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building Tools/Guilds/Guild Structures.md",
+                "file": "Aothir/Scales of Economy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Guild Structures"
+              "title": "Outgoing links from Scales of Economy"
             }
           },
           {
@@ -179,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building Tools/Guilds/Guild Structures.md"
+                "file": "Aothir/Scales of Economy.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Guild Structures"
+              "title": "Outline of Scales of Economy"
             }
           },
           {
@@ -213,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,13 +211,19 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "9fdde94e43479c70",
+  "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
-    "World Building Tools/Guilds/Guild Structures.md",
-    "World Building Tools/Guilds/Guild Hierarchy.png",
+    "Aothir/Factions/Guilds/The Gilded Hands.md",
+    "Aothir/Scales of Economy.md",
+    "Aothir/Factions/Guilds/The Gilded Hand Syndicate.md",
     "World Building Tools/Guilds/Guild Names.md",
     "World Building Tools/Guilds/Guild Types.md",
+    "Aothir/Factions/Guilds",
+    "Aothir/Factions",
+    "World Building Tools/Guilds/Guild Structures.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
+    "World Building Tools/Guilds/Guild Hierarchy.png",
+    "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "Aothir/World To Do.md",
     "World Building Tools/Guilds/Untitled",
     "World Building Tools/Guilds",
@@ -256,20 +242,15 @@
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Hoarders.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Dwarven Ringsmiths.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
-    "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Windsinger's Collective",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders/Hoarder Queen.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 02 - Miserable Minions and Deep Delving.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 10 - Aggressive Negotiations.md",
-    "Aothir/Playable Races.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Goblin/Dohma Rashkovar.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Goblin",
     "Aothir/Planes/Material Plane",
     "Aothir/Planes/Feywild",
-    "Aothir/Planes",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr 2.png",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr.png",
