@@ -6,6 +6,7 @@
       {
         "id": "1426d9782dd21701",
         "type": "tabs",
+        "dimension": 49.358974358974365,
         "children": [
           {
             "id": "ad13a31820dc0bc4",
@@ -13,22 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Scales of Economy.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scales of Economy"
+              "title": "Session 11 - Off the rails"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "721e4a63e42e214c",
+        "type": "tabs",
+        "dimension": 50.641025641025635,
+        "children": [
           {
             "id": "f53a7a8c12a9e902",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "World Building Tools/Guilds/Guild Structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guild Structures"
             }
           }
         ]
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aothir/Scales of Economy.md",
+                "file": "World Building/Homebrew Universe/Playable Races.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scales of Economy"
+              "title": "Backlinks for Playable Races"
             }
           },
           {
@@ -132,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aothir/Scales of Economy.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Scales of Economy"
+              "title": "Outgoing links from Session 11 - Off the rails"
             }
           },
           {
@@ -159,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aothir/Scales of Economy.md"
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 10 - Aggressive Negotiations.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Scales of Economy"
+              "title": "Outline of Session 10 - Aggressive Negotiations"
             }
           },
           {
@@ -193,11 +205,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,46 +223,46 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ad13a31820dc0bc4",
+  "active": "0a6f9b665ede3b7a",
   "lastOpenFiles": [
-    "Aothir/Factions/Guilds/The Gilded Hands.md",
-    "Aothir/Scales of Economy.md",
-    "Aothir/Factions/Guilds/The Gilded Hand Syndicate.md",
-    "World Building Tools/Guilds/Guild Names.md",
-    "World Building Tools/Guilds/Guild Types.md",
-    "Aothir/Factions/Guilds",
-    "Aothir/Factions",
-    "World Building Tools/Guilds/Guild Structures.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
-    "World Building Tools/Guilds/Guild Hierarchy.png",
-    "World Building Tools/Guilds/Guild Hierarchy.canvas",
-    "Aothir/World To Do.md",
-    "World Building Tools/Guilds/Untitled",
-    "World Building Tools/Guilds",
-    "World Building Tools",
-    "Aothir/Aothir.md",
-    "D&D 5e/Planes/Planes of Existence.md",
-    "D&D 5e/Planes/Outer Planes/Upper Planes/Upper Planes.md",
-    "D&D 5e/Planes/Outer Planes/Outer Planes.md",
-    "Aothir/Planes/Aothir Planar Universe.md",
-    "D&D 5e/Planes/Inner Planes/Inner Planes.md",
-    "Aothir/Campaign Ideas/Quest Line Ideas.md",
-    "Aothir/Planes/Feywild/Aothiran Feywild.md",
-    "D&D 5e/Planes/Inner Planes/Feywild.md",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir/Ipthir.md",
-    "R'ellanthas/Campaign Notes/R'Ellanthas - A Fallen City Campaign.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Hoarders.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Dwarven Ringsmiths.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Windsinger's Collective",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders/Hoarder Queen.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 09 - On the road again.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 02 - Miserable Minions and Deep Delving.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 10 - Aggressive Negotiations.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Goblin",
+    "World Building Tools/Guilds/Guild Structures.md",
+    "Aothir/Aothir.md",
+    "World Building Tools/Guilds/Guild Types.md",
+    "World Building Tools/Guilds/Guild Names.md",
+    "World Building Tools/Guilds/Guild Hierarchy.png",
+    "World Building Tools/Guilds/Guild Hierarchy.canvas",
+    "World Building Tools/Guilds",
+    "World Building Tools",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Hoarders.md",
+    "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir/Cities and Towns/Bray.md",
+    "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir/Ipthir.md",
+    "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir/Cities and Towns",
+    "Aothir/Planes/Material Plane/Aothir/Continents/Ministries/Order of the Weave.md",
+    "Aothir/Planes/Material Plane/Aothir/Continents/Ministries/Order of the Quill.md",
+    "Aothir/Planes/Material Plane/Aothir/Continents/Underdark.md",
+    "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir",
+    "Aothir/Planes/Material Plane/Aothir/Continents/Ministries",
+    "Aothir/Planes/Material Plane/Aothir/Continents",
+    "Aothir/Planes/Material Plane/Aothir",
+    "Aothir/Planes/Feywild/Aothiran Feywild.md",
     "Aothir/Planes/Material Plane",
+    "Aothir/Planes/Aothir Planar Universe.md",
     "Aothir/Planes/Feywild",
+    "Aothir/Names/Dwarven Names.md",
+    "Aothir/Names/Human Names.md",
+    "Aothir/Names/Elvish Names.md",
+    "Aothir/Factions/Guilds/The Gilded Hands.md",
+    "Aothir/Factions/Guilds/The Gilded Hand Syndicate.md",
+    "Aothir/Campaign Ideas/Character Ideas/Azreal Lorfus.md",
+    "Aothir/Campaign Ideas/Quest Line Ideas.md",
+    "Aothir/Campaign Ideas/Campaign Beginning Ideas.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr 2.png",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr.png",
