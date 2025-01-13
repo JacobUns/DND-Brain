@@ -1,4 +1,9 @@
-[[Oh, Air Genasi|Oh]] explains that she was taken from her parents at a couple of months old. She was taken to the monastery and referred to as "Oracle" from that point on. She lived there for 19 years, from that point on.
+---
+tags:
+  - sessionnote
+  - combat
+---
+ [[Oh, Air Genasi|Oh]] explains that she was taken from her parents at a couple of months old. She was taken to the monastery and referred to as "Oracle" from that point on. She lived there for 19 years, from that point on.
 
 [[Oh, Air Genasi|Oh]] uses the first instance of Augury with [[Kayn, Light's Bane|Kayn]]'s question of "Would we find the source of the explosion by following the water?". The answer is "Wheel and Woe", leading to a neutral answer. The group investigate a bit to find possible exits and come to a crossroad.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - sessionnote
+---
 Away from goblin village [[Kayn, Light's Bane|Kayn]] sees some markings low down similar to the Dwarvish symbols. One near the goblin village we interpret to be danger, down the dwarven appears to be one that says safety.
 
 Travel Checks

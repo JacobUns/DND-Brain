@@ -1,3 +1,8 @@
+---
+tags:
+  - sessionnote
+  - combat
+---
 The first set of dwarves jump from the tunnel and unstealthily land just before the remaining members of the group step off the edge to join. The first group dash off to secure the door as the tunnels explode as planned. [[Amnur & Beldren]] dash off to the other tunnel to cave it in as [[Kayn, Light's Bane|Kayn]] dashes off and dispatches two goblins.
 
 [[Oh, Air Genasi|Oh]] dispatches two quickly, while [[Maria Ravenloft|Maria]] lights up and starts using her pike to take out goblins as they enter her range. [[Maria Ravenloft|Maria]] manages to get off a blindness spell on the two snipers and they proceed to shoot arrows into the walls. The battle rages and the Goblin underboss screams more and more as the battle turns. Magdal manages to get the Arcane Lock off on the front door and [[Amnur & Beldren]] make it into the tunnel across the hall leading down further into the depths. [[Oh, Air Genasi|Oh]] manages to sleep the Underboss, Cursespitter and one of the warriors while [[Maria Ravenloft|Maria]] and [[Kayn, Light's Bane|Kayn]] continue to clean up minions.

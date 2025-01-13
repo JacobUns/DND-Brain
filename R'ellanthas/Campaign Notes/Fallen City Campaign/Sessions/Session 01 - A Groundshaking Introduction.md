@@ -1,3 +1,7 @@
+---
+tags:
+  - sessionnote
+---
 Game starts at [[Liashton]] sitting in the middle of the [[Lake Liash]] near the dwarven city of [[Bal Toruhm]], the great city.
 
 [[Maria Ravenloft|Maria]] and [[Kayn, Light's Bane|Kayn]] Travelling through the [[Enlightened Kingdom]] come to the entry to the town across a wooden bridge that sways with the water. Loose guard of town watch at the arched ceremonial gates to the town.

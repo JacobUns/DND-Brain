@@ -1,3 +1,7 @@
+---
+tags:
+  - sessionnote
+---
 Starting craft: 44hr
 
 -8hrs day 1
@@ -8,7 +12,7 @@ Total: 14hrs
 Remaining: 28hrs
 Total: 22hrs
 
-Crafting complete on mundane - 10 roll, created a passable but not fine item. Will probably require a new item to be crafted to use in future crafting.
+***Crafting complete on mundane*** - Roll of **10**. *Created a passable but not fine item. Will probably require a new item to be crafted to use in future crafting.*
 
 Will finding the king benefit us? Wheel
 Would seeking out the goblin tunnels help us find the source of the explosion? Wheel

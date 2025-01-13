@@ -1,3 +1,7 @@
+---
+tags:
+  - sessionnote
+---
 The group scout the area around the mansion for pathways that might represent that shown on the map. We continue past the mansion and find the corridor leading to a goblin tunnel that appears to disappear into the depths. The group discusses whether to continue on the path they had been or to explore the new path. After a discussion, they go down the goblin path which descends rapidly in a spiral. With a difficult descent, the group find they've dropped about 100ft rapidly further underground. The path levels off and eventually emerges back onto a dwarven corridor. To the right path is a rubble filled path that seems to connect onto another goblin path. To the left is a dwarven corridor with two humanoid figures approaching quickly. Nix buzzes past them and one attempts to throw a dagger which misses. She continues down the path as the group turn right.
 
 Two rough and ready humanoids in cloaks and leathers, worn with age and use with functional footwear for sneaking. Both men, humans around 6ft, both have rapiers drawn. [[Kayn, Light's Bane|Kayn]] casts dancing lights above them, spot lighting them in place. They freeze in place and we exchange words. They put their swords away and the groups convene in the middle.

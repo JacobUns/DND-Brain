@@ -1,3 +1,7 @@
+---
+tags:
+  - sessionnote
+---
 The battle commences, and the troll strides through the door with a swarm of goblins. The battlelines are drawn, with six Dwarves holding the door with [[Oh, Air Genasi|Oh]] and [[Maria Ravenloft|Maria]], and [[Kayn, Light's Bane|Kayn]] tackling the Troll with 4 other Dwarves. Through the course of the fight [[Kayn, Light's Bane|Kayn]] takes substantial damage from the troll charging him down, but is healed by a combination of [[Oh, Air Genasi|Oh]] and [[Maria Ravenloft|Maria]].
 
 [[Kayn, Light's Bane|Kayn]] kills 20-30 goblins w/ Fireballs, and ends up catching a Dwarf on the edge of the range. The Dwarf fails its Dex save and takes substantial damage, but is then swarmed by goblins and falls.

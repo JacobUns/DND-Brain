@@ -1,3 +1,7 @@
+---
+tags:
+  - sessionnote
+---
 The group is set upon by a group of goblins, including 2 snipers, 2 warriors and a group of goblin [[Homebrew Rules#Minions|minions]]. [[Oh, Air Genasi|Oh]] sleeps 3 of the targets, while [[Maria Ravenloft|Maria]] runs around with her pike alight skewering minions in their droves and proclaiming it as being on behalf of the light. [[Kayn, Light's Bane|Kayn]] shows his first use of magic by using his Blade Song and Shadow Blade combination. The 
 
 Stretching into the distance of the opening is a long second entryway. The door we entered appears to be some kind of an anti-chamber for the great city. Down a path from the anti-chamber are an ornate set of doors. The walls are covered in goblin scrawling and nests. The nests seem to have been there a while, undisturbed. The nests seem to be fairly old and long bedded into. [[Kayn, Light's Bane|Kayn]] finds 6 dwarven gold pieces.

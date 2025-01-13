@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 12 - Something skittering this way comes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 11 - Off the rails"
+              "title": "Session 12 - Something skittering this way comes"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building Tools/Guilds/Guild Structures.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Maria Ravenloft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guild Structures"
+              "title": "Maria Ravenloft"
             }
           }
         ]
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 12 - Something skittering this way comes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 11 - Off the rails"
+              "title": "Outgoing links from Session 12 - Something skittering this way comes"
             }
           },
           {
@@ -223,15 +223,27 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "0a6f9b665ede3b7a",
+  "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders/Hoarder Queen.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 09 - On the road again.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 12 - Something skittering this way comes.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Maria Ravenloft.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 10 - Aggressive Negotiations.md",
     "World Building Tools/Guilds/Guild Structures.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Oh, Air Genasi.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01 - A Groundshaking Introduction.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 08 - Scorched and Sundered.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 07 - Craft or Death.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 06 - Battle of the Citadel.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 05 - Sticky Scouting.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 04 - Scouting for Scouts.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 02 - Miserable Minions and Deep Delving.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Untitled",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders/Hoarder Queen.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders",
     "Aothir/Aothir.md",
     "World Building Tools/Guilds/Guild Types.md",
     "World Building Tools/Guilds/Guild Names.md",
@@ -250,19 +262,7 @@
     "Aothir/Planes/Material Plane/Aothir/Continents/Ministries",
     "Aothir/Planes/Material Plane/Aothir/Continents",
     "Aothir/Planes/Material Plane/Aothir",
-    "Aothir/Planes/Feywild/Aothiran Feywild.md",
     "Aothir/Planes/Material Plane",
-    "Aothir/Planes/Aothir Planar Universe.md",
-    "Aothir/Planes/Feywild",
-    "Aothir/Names/Dwarven Names.md",
-    "Aothir/Names/Human Names.md",
-    "Aothir/Names/Elvish Names.md",
-    "Aothir/Factions/Guilds/The Gilded Hands.md",
-    "Aothir/Factions/Guilds/The Gilded Hand Syndicate.md",
-    "Aothir/Campaign Ideas/Character Ideas/Azreal Lorfus.md",
-    "Aothir/Campaign Ideas/Quest Line Ideas.md",
-    "Aothir/Campaign Ideas/Campaign Beginning Ideas.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr 2.png",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr.png",

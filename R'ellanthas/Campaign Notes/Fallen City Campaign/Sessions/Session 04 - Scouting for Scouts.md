@@ -1,3 +1,7 @@
+---
+tags:
+  - sessionnote
+---
 [[Tassora]] informs us that the scouts often leave runes inscribed on walls to help show where they've been or locations that are safe. She provides us the runes for "Safe Passage" and "Tread Carefully".
 
 The group starts off into the tunnels looking out for runes. Between us, we manage to pick out the signs of scouts that seems to lead a trail towards [[The Citadel of the Ringsmiths]]. The track leads down into some more interesting terrain. The runes indicate the scouts went a different direction than the main corridor. [[Oh, Air Genasi|Oh]] communes with the gods and is told we won't find the scouts by following the main path towards [[The Citadel of the Ringsmiths]]. The smaller path is 10-feet wide and leads to stairs heading up about 50-feet. After another half hour of walking, we find a low balcony that seems to overlook a void of darkness.

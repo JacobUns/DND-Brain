@@ -1,3 +1,7 @@
+---
+tags:
+  - sessionnote
+---
 Stone hands hold a ring upon each hand in glass cases
 In the centre of the circle of hands is a dwarven bust with a crown upon it
 

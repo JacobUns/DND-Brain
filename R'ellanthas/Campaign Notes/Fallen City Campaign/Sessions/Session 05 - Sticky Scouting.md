@@ -1,3 +1,7 @@
+---
+tags:
+  - sessionnote
+---
 Heading down the medium sized corridor, the group isn't the most stealthy. The footsteps echo down the corridor making the group somewhat paranoid about being heard. Nix alerts at the sight of cobwebs around the edges of the corridor, and then again at the sight of a cobweb covered entryway. [[Amnur & Beldren|Beldren]] and [[Kayn, Light's Bane|Kayn]] creep closer to the entryway while the remaining group hang back towards the point at which the cobwebs start to cover the edges of the cavern.
 
 [[Kayn, Light's Bane|Kayn]] plucks some of the web on the floor after [[Amnur & Beldren|Beldren]] points out a figure in the distance with legs hanging over the edge of the cave entrance. The shadowy figure of a massive spider quickly starts skittering down the corridor towards the group. [[Kayn, Light's Bane|Kayn]] and [[Amnur & Beldren|Beldren]] back up to get closer to the group whilst casting Grease to trip the spider on its approach. The spider slips and falls prone, and the group pounce.
