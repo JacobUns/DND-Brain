@@ -14,6 +14,21 @@ Created by Andy Hall for his games to exist within, this homebrew world sees a m
 ## World Building
 ### Pantheon
 The [[Pantheon of R'Ellanthas]], which was originally from the [World Anvil](https://www.worldanvil.com/w/r-ellanthas-hidden-town-gm) page, has been heavily adapted by Jacob in agreement with Andy to aid in the ability for Jacob's character [[Aolani]] to be able to provide information to the party when necessary. What started as a small project has turned into a large effort that will continue to expand over time. The associated progress can be seen below. 
+
+
+## Campaign Notes
+- [[R'Ellanthas - A Fallen City Campaign]]
+## Major Locations
+- [[Bal Toruhm]]
+	- Ground Level
+		- [[Caves of Thistlebeard]]
+		- [[Chamber of Mazarbul]]
+		- [[The Citadel of the Ringsmiths|Citadel of the Ringsmiths]]
+		- [[Fortress of Malech]]
+		- [[King's Hall]]
+		- [[Vault of Tharbun]]
+	- Upper Levels
+		- [[Mountain Galleries]]
 #### To Dos
 - [x] Finish [[Pantheon of R'Ellanthas#The Corruption|The Corruption]]
 - [x] Finish [[Pantheon of R'Ellanthas#The Ascension|The Ascension]]
@@ -128,8 +143,3 @@ The [[Pantheon of R'Ellanthas]], which was originally from the [World Anvil](htt
 - [ ] Content around Dwarven Pantheon
 - [ ] Create tag and alias structure
 - [ ] Move Keyword Glossary into own file
-
-## Campaign Notes
-- [[R'Ellanthas - A Fallen City Campaign]]
-## Major Locations
-- [[Bal Toruhm]]

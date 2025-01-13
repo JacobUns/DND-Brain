@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 12 - Something skittering this way comes.md",
+                "file": "R'ellanthas/Campaign Notes/R'Ellanthas - A Fallen City Campaign.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 12 - Something skittering this way comes"
+              "title": "R'Ellanthas - A Fallen City Campaign"
             }
           }
         ]
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 12 - Something skittering this way comes.md",
+                "file": "R'ellanthas/Campaign Notes/R'Ellanthas - A Fallen City Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 12 - Something skittering this way comes"
+              "title": "Outgoing links from R'Ellanthas - A Fallen City Campaign"
             }
           },
           {
@@ -225,7 +225,10 @@
   },
   "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
+    "R'ellanthas/R'Ellanthas.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 09 - On the road again.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 08 - Scorched and Sundered.md",
+    "R'ellanthas/Campaign Notes/R'Ellanthas - A Fallen City Campaign.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 12 - Something skittering this way comes.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Maria Ravenloft.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
@@ -234,7 +237,6 @@
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Oh, Air Genasi.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01 - A Groundshaking Introduction.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 08 - Scorched and Sundered.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 07 - Craft or Death.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 06 - Battle of the Citadel.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 05 - Sticky Scouting.md",
@@ -256,8 +258,6 @@
     "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir/Ipthir.md",
     "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir/Cities and Towns",
     "Aothir/Planes/Material Plane/Aothir/Continents/Ministries/Order of the Weave.md",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ministries/Order of the Quill.md",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Underdark.md",
     "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir",
     "Aothir/Planes/Material Plane/Aothir/Continents/Ministries",
     "Aothir/Planes/Material Plane/Aothir/Continents",

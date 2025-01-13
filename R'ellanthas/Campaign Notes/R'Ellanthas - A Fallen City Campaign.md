@@ -16,6 +16,8 @@
 - [[Session 08 - Scorched and Sundered]]
 - [[Session 09 - On the road again]]
 - [[Session 10 - Aggressive Negotiations]]
+- [[Session 11 - Off the rails]]
+- [[Session 12 - Something skittering this way comes]]
 ## Characters
 ### Player Characters
 [[Kayn, Light's Bane|Kayn]] - Jacob
