@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Merchants/Alchemists/The Prismatic Phial.md",
+                "file": "Aothir/Aothir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Prismatic Phial"
+              "title": "Aothir"
             }
           },
           {
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aothir/Merchants/Alchemists/The Prismatic Phial.md",
+                "file": "Aothir/Aothir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Prismatic Phial"
+              "title": "Backlinks for Aothir"
             }
           },
           {
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aothir/Merchants/Alchemists/The Prismatic Phial.md",
+                "file": "Aothir/Aothir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Prismatic Phial"
+              "title": "Outgoing links from Aothir"
             }
           },
           {
@@ -159,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aothir/Merchants/Alchemists/The Prismatic Phial.md"
+                "file": "Aothir/Aothir.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Prismatic Phial"
+              "title": "Outline of Aothir"
             }
           },
           {
@@ -192,8 +192,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,13 +210,26 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ad13a31820dc0bc4",
+  "active": "ba4949523c90bf1b",
   "lastOpenFiles": [
-    "Aothir/Merchants/Alchemists/Serpent's Secrets.md",
-    "Aothir/Merchants/Alchemists/Ember & Essence.md",
-    "Aothir/Merchants/Alchemists/Moondew Mystics.md",
-    "Aothir/Merchants/Alchemists/The Bubbling Cauldron.md",
+    "Aothir/Factions/Guilds/Aothir Merchants Guilds.md",
+    "Aothir/Factions/Guilds/Aothir Guilds.md",
+    "World Building Tools/Guilds/Guild Types.md",
+    "Aothir/Merchants/Aothir Merchants.md",
+    "Aothir/Aothir.md",
+    "Aothir/Factions/Guilds/Artisan",
+    "Aothir/Factions/Guilds/Thieves",
+    "Aothir/Merchants/Blacksmithing/Blacksmithing Stores.md",
+    "Aothir/Merchants/Magic/Magic Stores.md",
+    "Aothir/Merchants/Silversmiths/Silversmith Stores.md",
+    "Aothir/Merchants/Silversmiths",
     "Aothir/Merchants/Alchemists/The Prismatic Phial.md",
+    "Aothir/Merchants/Blacksmithing",
+    "Aothir/Merchants/Magic",
+    "Aothir/Merchants/Alchemists/The Bubbling Cauldron.md",
+    "Aothir/Merchants/Alchemists/Serpent's Secrets.md",
+    "Aothir/Merchants/Alchemists/Moondew Mystics.md",
+    "Aothir/Merchants/Alchemists/Ember & Essence.md",
     "Aothir/Merchants/Alchemists/Alchemist Stores.md",
     "Aothir/Merchants/Alchemists",
     "World Building Tools/Merchants/Alchemists.md",
@@ -231,24 +243,11 @@
     "R'ellanthas/Campaign Notes/Main Campaign/Sessions",
     "R'ellanthas/Factions/Guardians of Il'Mondum.md",
     "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
-    "R'ellanthas/Factions",
     "R'ellanthas/Locations/Regions/Enlightened Empire.md",
-    "R'ellanthas/Locations/Regions",
     "R'ellanthas/Campaign Notes/Main Campaign/Characters/Aolani.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters",
     "R'ellanthas/R'Ellanthas.md",
     "Aothir/World To Do.md",
-    "Aothir/Factions/Guilds/The Gilded Hand Syndicate.md",
-    "Aothir/Factions/Guilds/The Gilded Hands.md",
-    "Aothir/Scales of Economy.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 12 - Something skittering this way comes.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
-    "World Building Tools/Guilds/Guild Names.md",
-    "World Building Tools/Guilds/Guild Types.md",
-    "Aothir/Factions/Guilds",
-    "Aothir/Factions",
-    "World Building Tools/Guilds/Guild Structures.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
+    "Aothir/Factions/Guilds/Thieves/The Gilded Hand Syndicate.md",
     "World Building Tools/Guilds/Guild Hierarchy.png",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",

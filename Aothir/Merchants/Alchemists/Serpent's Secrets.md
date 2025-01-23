@@ -1,3 +1,9 @@
+---
+tags:
+  - alchemy
+  - merchant
+  - store
+---
 # Nylira Venomshade
 Nylira, a female Yuan-ti Pureblood, is elegant and enigmatic, with piercing green eyes and a faintly scaled complexion. Her shop is known for exotic poisons, antidotes, and alchemical concoctions tailored to rogues and spies.
 # Speciality

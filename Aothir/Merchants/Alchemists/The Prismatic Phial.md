@@ -1,3 +1,9 @@
+---
+tags:
+  - alchemy
+  - merchant
+  - store
+---
 # Zyxil "Fizz" Tinkertwist
 Fizz, a non-binary Gnome, is a cheerful, eccentric gnome with goggles perpetually perched on their forehead. Their shop is a riot of color, offering potions that change hues, smells, or effects based on the whims of chaos magic.
 # Speciality
@@ -10,4 +16,4 @@ Fizz's potions are unpredictable yet delightful. They brew draughts that shift e
 ## Utility Options
 1. **Mirthful Mist Draught**: Causes uncontrollable laughter in everyone nearby, disarming tension but potentially attracting enemies.
 2. **Luckbreaker Elixir**: Instantly reverses a failed roll or action but causes minor confusion afterward.
-3. **Chaosvision Potion**: Grants true sight for one minute, but afterward makes everything appear distorted for five minutes.
+3. **Chaos-vision Potion**: Grants true sight for one minute, but afterward makes everything appear distorted for five minutes.

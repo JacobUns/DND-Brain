@@ -1,3 +1,9 @@
+---
+tags:
+  - alchemy
+  - merchant
+  - store
+---
 # Quenla Tinkerbrew
 Quenla is a cheerful female halfling with curly auburn hair and an apron perpetually dusted with powders and herbs. Her shop is warm and inviting, filled with bubbling cauldrons and shelves lined with colourful bottles. Her potions are reliable but sometimes come with quirky, unexpected side effects.
 # Speciality

@@ -11,6 +11,8 @@
 	- [[#Swordsmith]]
 	- [[#Masons]]
 - [[#Social]]
+	- [[#Merchant]]
+	- [[#Thieves]]
 # Adventuring
 # Craftsmanship
 Guilds of people proficient in the creation of all manner of material and arcane items come together to learn from each other and to ensure a constant stream of commissions.
@@ -37,3 +39,6 @@ Craftsman following the silversmithing profession may start by simply polishing 
 ## Swordsmith
 ## Masons
 # Social
+## Merchant
+Merchants guilds provide young entrepreneurs a place to hone their skills under master merchants. An apprentice merchant can often be found on the cart or ship of their master learning the skills of negotiation, relationship building and cultural understanding that make for profitable business.
+## Thieves
