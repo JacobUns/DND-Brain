@@ -5,4 +5,7 @@
 - [ ] Identify lair locations for each in the world
 - [ ] Create adventuring factions names
 	- [ ] Move the hierarchy of an adventuring guild
-- [ ] 
+- [ ] Coven of hags that live on the streets of major cities
+	- [ ] Hags use the streets as a way of finding unsuspecting people to prey upon
+	- [ ] Hags provide favours but take in return
+	- [ ] Pose as beggars to blend in

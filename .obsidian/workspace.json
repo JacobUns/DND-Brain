@@ -6,7 +6,6 @@
       {
         "id": "1426d9782dd21701",
         "type": "tabs",
-        "dimension": 49.358974358974365,
         "children": [
           {
             "id": "ad13a31820dc0bc4",
@@ -14,33 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/R'Ellanthas - A Fallen City Campaign.md",
+                "file": "Aothir/Merchants/Alchemists/The Prismatic Phial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R'Ellanthas - A Fallen City Campaign"
+              "title": "The Prismatic Phial"
             }
-          }
-        ]
-      },
-      {
-        "id": "721e4a63e42e214c",
-        "type": "tabs",
-        "dimension": 50.641025641025635,
-        "children": [
+          },
           {
             "id": "f53a7a8c12a9e902",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Maria Ravenloft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maria Ravenloft"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -125,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Homebrew Universe/Playable Races.md",
+                "file": "Aothir/Merchants/Alchemists/The Prismatic Phial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Playable Races"
+              "title": "Backlinks for The Prismatic Phial"
             }
           },
           {
@@ -144,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/R'Ellanthas - A Fallen City Campaign.md",
+                "file": "Aothir/Merchants/Alchemists/The Prismatic Phial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from R'Ellanthas - A Fallen City Campaign"
+              "title": "Outgoing links from The Prismatic Phial"
             }
           },
           {
@@ -171,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 10 - Aggressive Negotiations.md"
+                "file": "Aothir/Merchants/Alchemists/The Prismatic Phial.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 10 - Aggressive Negotiations"
+              "title": "Outline of The Prismatic Phial"
             }
           },
           {
@@ -205,11 +193,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,44 +213,44 @@
   },
   "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
+    "Aothir/Merchants/Alchemists/Serpent's Secrets.md",
+    "Aothir/Merchants/Alchemists/Ember & Essence.md",
+    "Aothir/Merchants/Alchemists/Moondew Mystics.md",
+    "Aothir/Merchants/Alchemists/The Bubbling Cauldron.md",
+    "Aothir/Merchants/Alchemists/The Prismatic Phial.md",
+    "Aothir/Merchants/Alchemists/Alchemist Stores.md",
+    "Aothir/Merchants/Alchemists",
+    "World Building Tools/Merchants/Alchemists.md",
+    "World Building Tools/Merchants",
+    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Nuvrin/Duchess Cho Nuvrin.md",
+    "Aothir/Merchants",
+    "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Session 01 - Shady dealings.md",
+    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Nuvrin/Professor Sikud.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Dwarves/Gulnur, the Ringwright.md",
+    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Nuvrin",
+    "R'ellanthas/Campaign Notes/Main Campaign/Sessions",
+    "R'ellanthas/Factions/Guardians of Il'Mondum.md",
+    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
+    "R'ellanthas/Factions",
+    "R'ellanthas/Locations/Regions/Enlightened Empire.md",
+    "R'ellanthas/Locations/Regions",
+    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Aolani.md",
+    "R'ellanthas/Campaign Notes/Main Campaign/Characters",
     "R'ellanthas/R'Ellanthas.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 09 - On the road again.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 08 - Scorched and Sundered.md",
-    "R'ellanthas/Campaign Notes/R'Ellanthas - A Fallen City Campaign.md",
+    "Aothir/World To Do.md",
+    "Aothir/Factions/Guilds/The Gilded Hand Syndicate.md",
+    "Aothir/Factions/Guilds/The Gilded Hands.md",
+    "Aothir/Scales of Economy.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 12 - Something skittering this way comes.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Maria Ravenloft.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 10 - Aggressive Negotiations.md",
-    "World Building Tools/Guilds/Guild Structures.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Oh, Air Genasi.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01 - A Groundshaking Introduction.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 07 - Craft or Death.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 06 - Battle of the Citadel.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 05 - Sticky Scouting.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 04 - Scouting for Scouts.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 02 - Miserable Minions and Deep Delving.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Untitled",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders/Hoarder Queen.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Hoarders",
-    "Aothir/Aothir.md",
-    "World Building Tools/Guilds/Guild Types.md",
     "World Building Tools/Guilds/Guild Names.md",
+    "World Building Tools/Guilds/Guild Types.md",
+    "Aothir/Factions/Guilds",
+    "Aothir/Factions",
+    "World Building Tools/Guilds/Guild Structures.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
     "World Building Tools/Guilds/Guild Hierarchy.png",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
-    "World Building Tools/Guilds",
-    "World Building Tools",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Hoarders.md",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir/Cities and Towns/Bray.md",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir/Ipthir.md",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir/Cities and Towns",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ministries/Order of the Weave.md",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ipthir",
-    "Aothir/Planes/Material Plane/Aothir/Continents/Ministries",
-    "Aothir/Planes/Material Plane/Aothir/Continents",
-    "Aothir/Planes/Material Plane/Aothir",
-    "Aothir/Planes/Material Plane",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr 2.png",
     "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr.png",
