@@ -1,0 +1,5 @@
+---
+tags:
+  - npc
+affiliates: "[[Croesus]]"
+---

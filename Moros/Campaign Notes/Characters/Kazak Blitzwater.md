@@ -1,6 +1,0 @@
----
-aliases:
-  - Kazak
-tags:
-  - playercharacter
----

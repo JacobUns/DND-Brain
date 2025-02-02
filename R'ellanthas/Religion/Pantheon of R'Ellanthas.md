@@ -1,5 +1,5 @@
 # World Theology
-The history of the pantheon is fairly well established and agreed amongst theologians of the council. Priests and Temple officials from across the continent gathered after the Ending War to identify the doctrine that would be permitted following the fall of Elves and Dragons, ensuring any teachings that may have contributed to this war over millennia would not come to be taught again. As a result, following the Ending War the council, through their actions, implied two groups of deities; They would come to be known as [[#The Sovereign Host]] and [[#The Dark Six]].
+The history of the pantheon is fairly well established and agreed amongst theologians of the council. Priests and Temple officials from across the continent gathered after the [[Ending War]] to identify the doctrine that would be permitted following the fall of Elves and Dragons, ensuring any teachings that may have contributed to this war over millennia would not come to be taught again. As a result, following the [[Ending War]] the council, through their actions, implied two groups of deities; They would come to be known as [[#The Sovereign Host]] and [[#The Dark Six]].
 
 Throwing their full resources behind The Sovereign Host, the council employed architects, builders guilds, craftsmen and their chosen officials to begin tearing down the iconography of those gods and idols of the elves and dragons, replacing them with sanctioned iconography.
 
@@ -159,7 +159,7 @@ To anyone outside of the dwarven culture, the pantheon represented and worshippe
 ##### Gods
 It is theorised that Gods or Idols were created through the use of [[Arawai]]'s power, but as worship of the Draconic faiths has fallen to disrepute so too has the common knowledge of who or what these [[#Deity|deities]] may have been. Scraps of history shared by the Arcandor Academy seem to indicate at least one name of a Draconic [[#Deity]]; [[Vol, the Deathless Martyr]]. It is secretly theorised that [[Erador]] may have had a hand in the creation of a new god with [[Arawai]] and that they therefore may continue to exist.
 ##### Faiths
-With the destruction of the Draconic race during The Ending War, the faiths associated were banned from being practised by the races that remained. Any worship of these faiths is subject to discipline by the [[Guardians of Il'Mondum]].
+With the destruction of the Draconic race during The [[Ending War]], the faiths associated were banned from being practised by the races that remained. Any worship of these faiths is subject to discipline by the [[Guardians of Il'Mondum]].
 ###### Summary
 
 | **Faith Name**                | **Tenants, Principles and Values** | **Suggested Domain(s)**                                                                       | Suggested Oath(s)                      | **Common Symbol**            | Type           |
@@ -168,7 +168,7 @@ With the destruction of the Draconic race during The Ending War, the faiths asso
 | [[Cults of the Dragon Below]] | Madness                            | [[Cleric Domains#Trickery\|Trickery]]                                                         | [[Paladin Oaths#Glory\|Glory]]         | Varies dependant on the Cult | [[#Idol]]      |
 | [[Vol, the Deathless Martyr]]     | Sacrifice, Masochism               |                                                                                               |                                        |                              | [[#Ascendent]] |
 #### Elven
-With the destruction of the Elven race during The Ending War, the faiths associated were banned from being practised by the races that remained. Any worship of these faiths is subject to discipline by the Guardians of Il'Mondum.
+With the destruction of the Elven race during The [[Ending War]], the faiths associated were banned from being practised by the races that remained. Any worship of these faiths is subject to discipline by the Guardians of Il'Mondum.
 ##### Gods
 | **God Name**        | **Tenants, Principles and Values**        | **Suggested Domain(s)**                                            | Suggested Oath(s) | **Common Symbol**      | Type                          |
 | ------------------- | ----------------------------------------- | ------------------------------------------------------------------ | ----------------- | ---------------------- | ----------------------------- |

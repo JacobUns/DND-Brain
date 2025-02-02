@@ -1,6 +1,0 @@
----
-aliases:
-  - Brannick
-tags:
-  - playercharacter
----

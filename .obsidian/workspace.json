@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Aothir.md",
+                "file": "Moros/Campaign Notes/Frontierlands/Characters/Arabella.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aothir"
+              "title": "Arabella"
             }
           },
           {
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aothir/Aothir.md",
+                "file": "Moros/Campaign Notes/Frontierlands/Characters/Arabella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aothir"
+              "title": "Backlinks for Arabella"
             }
           },
           {
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aothir/Aothir.md",
+                "file": "Moros/Campaign Notes/Frontierlands/Characters/Arabella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aothir"
+              "title": "Outgoing links from Arabella"
             }
           },
           {
@@ -192,7 +192,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,44 +211,44 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ba4949523c90bf1b",
+  "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
-    "Aothir/Factions/Guilds/Aothir Merchants Guilds.md",
-    "Aothir/Factions/Guilds/Aothir Guilds.md",
-    "World Building Tools/Guilds/Guild Types.md",
-    "Aothir/Merchants/Aothir Merchants.md",
-    "Aothir/Aothir.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Kazak Blitzwater.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Victor Dimmelwald.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Karrik Sylvari, last of the Aurora'lyn.md",
+    "Moros/Events/Vale Sundering.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Brannick Coldrock.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Arabella.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Pefergee/Tannentraus.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Pefergee/Sandun Siwan.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Pefergee/Mirella & Sylas.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Pefergee/Earlian Dimmelwald.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 11 - Streets of marble and gold.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Feywild/Araleth Sylvari.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Feywild/Mialai.md",
+    "Moros/Locations/Fey Realm/Ellerythia.md",
+    "Moros/Locations/Fey Realm/Untitled.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Feywild/High Priestess Cassandra.md",
+    "Moros/Campaign Notes/Frontierlands",
+    "R'ellanthas/Events/Ending War.md",
+    "R'ellanthas/Events",
+    "Moros/Events",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 09 - Temporal Revelations.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Feywild",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 10 - I believe I can fly.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 08 - Into the Feywild.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 07 - Family Reunion.md",
+    "Moros/Locations/Southern Empire/Anampur.md",
+    "Moros/Locations/Southern Empire/Lashen.md",
+    "Moros/Factions/Norther Provinces/Moon Church.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 06 - A difficult choice.md",
     "Aothir/Factions/Guilds/Artisan",
     "Aothir/Factions/Guilds/Thieves",
-    "Aothir/Merchants/Blacksmithing/Blacksmithing Stores.md",
-    "Aothir/Merchants/Magic/Magic Stores.md",
-    "Aothir/Merchants/Silversmiths/Silversmith Stores.md",
     "Aothir/Merchants/Silversmiths",
-    "Aothir/Merchants/Alchemists/The Prismatic Phial.md",
     "Aothir/Merchants/Blacksmithing",
     "Aothir/Merchants/Magic",
-    "Aothir/Merchants/Alchemists/The Bubbling Cauldron.md",
-    "Aothir/Merchants/Alchemists/Serpent's Secrets.md",
-    "Aothir/Merchants/Alchemists/Moondew Mystics.md",
-    "Aothir/Merchants/Alchemists/Ember & Essence.md",
-    "Aothir/Merchants/Alchemists/Alchemist Stores.md",
     "Aothir/Merchants/Alchemists",
-    "World Building Tools/Merchants/Alchemists.md",
-    "World Building Tools/Merchants",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Nuvrin/Duchess Cho Nuvrin.md",
-    "Aothir/Merchants",
-    "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Session 01 - Shady dealings.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Nuvrin/Professor Sikud.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Dwarves/Gulnur, the Ringwright.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Nuvrin",
-    "R'ellanthas/Campaign Notes/Main Campaign/Sessions",
-    "R'ellanthas/Factions/Guardians of Il'Mondum.md",
-    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
-    "R'ellanthas/Locations/Regions/Enlightened Empire.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Aolani.md",
-    "R'ellanthas/R'Ellanthas.md",
-    "Aothir/World To Do.md",
-    "Aothir/Factions/Guilds/Thieves/The Gilded Hand Syndicate.md",
     "World Building Tools/Guilds/Guild Hierarchy.png",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",

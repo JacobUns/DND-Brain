@@ -1,6 +1,0 @@
----
-aliases:
-  - Victor
-tags:
-  - playercharacter
----

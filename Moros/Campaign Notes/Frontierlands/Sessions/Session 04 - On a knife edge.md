@@ -1,0 +1,23 @@
+---
+tags:
+  - sessionnote
+session date: 2022-06-26
+session location:
+  - Frindharben Cathedral
+  - "[[Tourelle]]"
+---
+[[Karrik Sylvari, last of the Aurora'lyn|Karrik]], [[Kazak Blitzwater|Kazak]] and [[Victor Dimmelwald|Victor]] are swarmed by guards & dragged out of the cathedral tent, hooded, and forced to walk for a short period. The three are tied to polls & left with an unknown stranger; a slender man with dirty blonde hair and no eyes. The guards bring out a noxious salt mixture, and the three captives are put to sleep.
+
+[[Brannick Coldrock|Brannick]] and [[Arabella]], on the outskirts of the camp realising that not every ran as they did, receive a message, via ***Screech***, that reads "Get them drunk". The pair make their way back to [[Tourelle#The Wet Whistle Tavern|the Wet Whistle]] and are directed to a man named ***Pietro***, a recluse on the edge of the town, for spirits.
+
+[[Kazak Blitzwater|Kazak]], in a tent within the [[Knights of Arduum|Knight]] encampment, snaps awake still tied up and finds [[Karrik Sylvari, last of the Aurora'lyn|Karrik]] and [[Victor Dimmelwald|Victor]] with him. The thin man, wearing white and carrying a wooden box, walks into the tent. [[Karrik Sylvari, last of the Aurora'lyn|Karrik]], reaching out with his foot to touch [[Kazak Blitzwater|Kazak]], fey steps him next to the man, and instinctively [[Kazak Blitzwater|Kazak]] grapples him. Not struggling against the grapple, the man enchants scalpels that are held within the case and they fly to press against [[Victor Dimmelwald|Victor]] and [[Karrik Sylvari, last of the Aurora'lyn|Karrik]]'s necks. 
+
+[[Brannick Coldrock|Brannick]] & [[Arabella]] stealth into ***Pietro's*** shack and take 2 large containers, containing a liquid of some kind, and leave two gold pieces. Coming out of the shabby house, the two find three [[Knights of Arduum|Knights]] facing them. [[Arabella]] casts Hard Spirit Haze on him, and the [[Knights of Arduum|Knight]] spasms falling to the ground foaming at the mouth. The other [[Knights of Arduum|Knights]] drag their fallen comrade away.
+
+[[Kazak Blitzwater|Kazak]] releases the interrogator. For the insolence, he is told to make a choice as penance; lose an appendage, another part of his choice, or die. [[Brannick Coldrock|Brannick]] and Arabelle return to the camp carrying their alcohol retrieved from ***Pietro's***. They cause a distraction that leads the man holding their three companions hostage to retreat and investigate. In the confusion, the group regroup and manage to escape the camp once again and retreat to the safety of the forest.
+
+After a short walk into the tree line, the group hear crying. Venturing quietly to the edge, they find three [[Knights of Arduum|Knights]]. [[Brannick Coldrock|Brannick]] and [[Arabella]] realise that the three are the same men that came to ***Pietro's***, but now appear to no longer be controlled by whatever crustacean the creature in the camp. The group approach the men to learn more and the men introduce themselves as [[Fornalth, Victor & Yonrick]]. [[Fornalth, Victor & Yonrick|Fornalth]] explains that after one was affected by the Hard Spirit Haze spell the remaining two took to the forest with their companion. While waiting for the affliction to wear off, the two remaining men ate a fruit from the forest that tasted odd and they too had dropped to the ground. Shortly after waking, they found they had control over their emotions again.
+
+Wearily, the group ask the former [[Knights of Arduum|Knights]] about how they came to be involved with the [[Knights of Arduum]]. [[Fornalth, Victor & Yonrick|Fornalth]] explains that he signed up willingly the join their ranks, but shortly after he had become controlled by the creature through a ritual of some kind. The ritual involved the member being forced to watch the death of someone & that suddenly they saw a white light flashed from the victim's eyes and flew into the eyes of the person being inducted into the group.
+
+He goes on to explain the creature had taken the name [[Shelldrick]] and had been in the area longer than the [[Knights of Arduum]] had been in the area. Finally, he goes on to talk about the green orbs used to attract the creatures of the forest. The orbs were created and deposited by the creature and that they would be used to attract food sources that would help to grow [[Shelldrick]].[[Fornalth, Victor & Yonrick|Fornalth]] understands that the creature originally was the size of a lamb and had grown to the size of a house within a 10-month period.

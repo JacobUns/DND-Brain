@@ -1,6 +1,8 @@
 ---
 tags:
+  - npc
   - questgiver
 aliases:
-  - Earlian
+  - Sylas
+  - Mirella
 ---
