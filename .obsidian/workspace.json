@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moros/Campaign Notes/Frontierlands/Characters/Arabella.md",
+                "file": "Moros/Campaign Notes/Frontierlands/Characters/Victor Dimmelwald.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arabella"
+              "title": "Victor Dimmelwald"
             }
           },
           {
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moros/Campaign Notes/Frontierlands/Characters/Arabella.md",
+                "file": "Moros/Campaign Notes/Frontierlands/Characters/Victor Dimmelwald.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Arabella"
+              "title": "Backlinks for Victor Dimmelwald"
             }
           },
           {
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moros/Campaign Notes/Frontierlands/Characters/Arabella.md",
+                "file": "Moros/Campaign Notes/Frontierlands/Characters/Victor Dimmelwald.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Arabella"
+              "title": "Outgoing links from Victor Dimmelwald"
             }
           },
           {
@@ -214,12 +214,13 @@
   "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
     "Moros/Campaign Notes/Frontierlands/Characters/Kazak Blitzwater.md",
-    "Moros/Campaign Notes/Frontierlands/Characters/Victor Dimmelwald.md",
     "Moros/Campaign Notes/Frontierlands/Characters/Karrik Sylvari, last of the Aurora'lyn.md",
-    "Moros/Events/Vale Sundering.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
     "Moros/Campaign Notes/Frontierlands/Characters/Brannick Coldrock.md",
+    "Moros/Events/Vale Sundering.md",
+    "Moros/Locations/Fey Realm/Ellerythia.md",
     "Moros/Campaign Notes/Frontierlands/Characters/Arabella.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Victor Dimmelwald.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
     "Moros/Campaign Notes/Frontierlands/Characters/Pefergee/Tannentraus.md",
     "Moros/Campaign Notes/Frontierlands/Characters/Pefergee/Sandun Siwan.md",
     "Moros/Campaign Notes/Frontierlands/Characters/Pefergee/Mirella & Sylas.md",
@@ -227,7 +228,6 @@
     "Moros/Campaign Notes/Frontierlands/Sessions/Session 11 - Streets of marble and gold.md",
     "Moros/Campaign Notes/Frontierlands/Characters/Feywild/Araleth Sylvari.md",
     "Moros/Campaign Notes/Frontierlands/Characters/Feywild/Mialai.md",
-    "Moros/Locations/Fey Realm/Ellerythia.md",
     "Moros/Locations/Fey Realm/Untitled.md",
     "Moros/Campaign Notes/Frontierlands/Characters/Feywild/High Priestess Cassandra.md",
     "Moros/Campaign Notes/Frontierlands",
