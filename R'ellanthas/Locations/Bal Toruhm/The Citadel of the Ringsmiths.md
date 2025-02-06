@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Citadel
   - Citadel of the Ringsmiths
 tags:
   - Dwarven

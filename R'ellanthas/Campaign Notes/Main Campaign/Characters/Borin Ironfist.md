@@ -1,7 +1,6 @@
 ---
 tags:
-  - aasimar
   - playercharacter
 aliases:
-  - Ao
+  - Borin
 ---

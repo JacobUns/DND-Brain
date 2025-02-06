@@ -1,7 +1,5 @@
 ---
 tags:
-  - aasimar
+  - dwarven
   - playercharacter
-aliases:
-  - Ao
 ---

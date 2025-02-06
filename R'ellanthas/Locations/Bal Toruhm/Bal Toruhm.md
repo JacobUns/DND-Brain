@@ -1,3 +1,8 @@
+---
+tags:
+  - dwarven
+  - city
+---
 Western Gate - Not been opened in years
 Eastern Gate
 Warzone - Goblin and Dwarven war rages on in the city
