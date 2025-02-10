@@ -13,7 +13,7 @@
 - [[Session 04 - Fishy Cultists]]
 - [[Session 05 - Into the Capital]]
 - [[Session 06 - The roots run deep]]
-- [[Session 07 -]]
+- [[Session 07 - Finery and Fierce Pursuit]]
 # Characters
 ## Player Characters
 - [[Aolani]]
