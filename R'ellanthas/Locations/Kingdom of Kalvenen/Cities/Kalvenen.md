@@ -9,5 +9,6 @@ The seat of power for the [[Kingdom of Kalvenen]]. Governed by royal family of [
 ## Redbark Hill
 
 # Locations
-## Xuan's Books
 ## Herquens Auction House
+## Kalvenen University
+## Xuan's Books

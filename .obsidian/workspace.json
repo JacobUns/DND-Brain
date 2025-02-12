@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Session 07 - Finery and Fierce Pursuit.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 07 - Finery and Fierce Pursuit"
+              "title": "Aolani"
+            }
+          },
+          {
+            "id": "e028b5df821865b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building Tools/Religion/Clerical Structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clerical Structures"
+            }
+          },
+          {
+            "id": "fd40d76b33eb4b27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pantheon of R'Ellanthas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Boldbottom's",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Session 07 - Finery and Fierce Pursuit.md",
+                "file": "R'ellanthas/Campaign Notes/Main Campaign/R'Ellanthas - The Dragon Stone Chronicles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 07 - Finery and Fierce Pursuit"
+              "title": "Backlinks for R'Ellanthas - The Dragon Stone Chronicles"
             }
           },
           {
@@ -122,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Session 07 - Finery and Fierce Pursuit.md",
+                "file": "World Building Tools/Religion/Clerical Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 07 - Finery and Fierce Pursuit"
+              "title": "Outgoing links from Clerical Structures"
             }
           },
           {
@@ -149,10 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Session 07 - Finery and Fierce Pursuit.md"
+                "file": "World Building Tools/Religion/Clerical Structures.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 07 - Finery and Fierce Pursuit"
+              "title": "Outline of Clerical Structures"
             }
           },
           {
@@ -183,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,48 +234,48 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ad13a31820dc0bc4",
+  "active": "e028b5df821865b9",
   "lastOpenFiles": [
+    "World Building Tools/Religion/Orders/Light Domain.md",
+    "World Building Tools/Religion/Clerical Structures.md",
+    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
+    "World Building Tools/Religion/Orders",
+    "World Building Tools/Religion",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Tiscordin.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Lumen Keijo.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Brezek.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Borin Ironfist.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Dohko Nog.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Eshin Himed.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Harra Narozana.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Kimvac Xuan.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Professor Zalkin Glowseeker.md",
     "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Kalvenen.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Session 07 - Finery and Fierce Pursuit.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Nuvrin.md",
     "R'ellanthas/Characters/Duchess Cho Nuvrin.md",
     "R'ellanthas/Characters/Duke Kai Oda.md",
     "R'ellanthas/Characters/Duke Lakeo Visceri.md",
     "R'ellanthas/Characters/Duke Udavon Windfall.md",
     "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Windfall.md",
     "R'ellanthas/Characters/Duke Castac Cindervale.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Kalvenen/Professor Zalkin Glowseeker.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Kalvenen/Eshin Himed.md",
     "Vaxalin Statues.png",
-    "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Session 06 - The roots run deep.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Session 05 - Into the Capital.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Tiscordin.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 06 - The roots run deep.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 05 - Into the Capital.md",
     "R'ellanthas/Characters/Duchess Joci Bellowfern.md",
-    "R'ellanthas/Characters/King Caladeth Kalvenen.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Images/Vaxalin Statues-2.png",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Vaxalin.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/R'Ellanthas - The Dragon Stone Chronicles.md",
-    "R'ellanthas/R'Ellanthas.md",
-    "R'ellanthas/Religion/Religion - To Do.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Milanalin.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Milanilin.md",
-    "R'ellanthas/Factions/Orphus.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Kalvenen/Dohko Nog.md",
-    "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Session 04 - Fishy Cultists.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Oda.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Towns/Bellowfern/Westfield.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Images/Vaxalin Statues-2.png",
     "R'ellanthas/Locations/Kingdom of Kalvenen/Towns/Bellowfern",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Kalvenen",
-    "R'ellanthas/Campaign Notes/Main Campaign/Merchants",
-    "R'ellanthas/Campaign Notes/Main Campaign/Characters/Dragons",
-    "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Images/Dragon Room - Rupgen.png",
-    "R'ellanthas/Campaign Notes/Main Campaign/Sessions/Images",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Merchants",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Dragons",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Images/Dragon Room - Rupgen.png",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Images",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams",
     "R'ellanthas/Characters",
     "R'ellanthas/Locations/Kingdom of Kalvenen/Towns",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities",
     "World Building Tools/Guilds/Guild Hierarchy.png",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",

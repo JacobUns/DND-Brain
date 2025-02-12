@@ -18,7 +18,7 @@ Eventually, [[Professor Zalkin Glowseeker|Professor Glowseeker]] finishes his st
 
 Regrouping, we head to [[Kalvenen#Xuan's Books|Xuan's Books]] and ask after the Druid Grove. [[Kimvac Xuan|Kimvac]] informs us that the grove is north of the city following the river. [[Dubas Nicade]], political advisor to [[Duchess Cho Nuvrin|Cho]], meets us at the bookstore and gives us some information on the dukes [[Duke Castac Cindervale|Cindervale]], [[Duke Udavon Windfall|Windfall]], [[Duke Lakeo Visceri|Visceri]] and [[Duke Kai Oda|Oda]]. All of the nobility have standing military assets, but theoretically they all belong to the [[King Caladeth Kalvenen|King]]. Any personal guard then is self funded and acts as a protection force. [[Dubas Nicade|Dubas]] also informs us that the nobility will enter and exit the ball from a different entry than the commoners.
 
-[[Aolani|Ao]] decides to pop the canvas from its frame, gently cutting the tape that holds it in place. He finds an annotation that says "Mossbreak - [[Windfall]]" on the back. [[Brezek]] uses mending and returns the frame to its previous state, canvas intact. [[Brezek]] is concerned that he may become violent with the nobility if they don't appreciate the plight of the Dwarves
+[[Aolani|Ao]] decides to pop the canvas from its frame, gently cutting the tape that holds it in place. He finds an annotation that says "[[Mossbreak]] - [[Windfall]]" on the back. [[Brezek]] uses mending and returns the frame to its previous state, canvas intact. [[Brezek]] is concerned that he may become violent with the nobility if they don't appreciate the plight of the Dwarves
 
 We arrive at the ball and notice a large contingent of guards, all looking almost identical. Some have ribbons or crests that denote their rank. [[Brezek]] elects to stay outside with the cart while the rest of the group go up the three tiers of stairs to the entry. Wood and gold filigree ornate the decorations with portraits of former kings lining the walls. Chandeliers ornament the ceilings and guards mike it obvious where patrons should go. Finely dressed people queue to get in with a checkpoint setup to search people before they enter. As guests enter, an announcer greets them and asks if they wish to be introduced, and most provide an introduction to be called as they enter the great hall.
 
@@ -67,17 +67,17 @@ Finally, [[Aolani|Ao]] moves to [[Egglock Swiftcarver nola Kithilin|Egglock]] an
 Reunited after the party and in their rooms at their inn, [[Aolani|Ao]] approaches [[Lumen Keijo|Lumen]] and [[Tiscordin]] to discuss the evening. [[Lumen Keijo|Lumen]] says he planted letters on two people, one of which was [[Sander Ûn]], the second in command of [[Duke Kai Oda|Duke Oda]]. He also reveals that he has a dragon stone, and based on knowledge from previous encounters pieces together who [[Lumen Keijo|Lumen]] really is. He says he's connected to the will of [[Gerunuth, the Death Lord|Gerunuth]], and that it happen from touching the stone. [[Aolani|Ao]] goes to touch the stone, and [[Tiscordin]] briefly stops him to cast Intellect Fortress on him. After doing so, [[Aolani|Ao]] picks up the stone and inspects it. They tell him that, before [[Aolani|Ao]] joined the group, they found a mages that was under its power and had enthralled an entire village. After connecting with the dragon's will, it agreed to help [[Lumen Keijo|Lumen]] achieve his goals if [[Lumen Keijo|Lumen]] helped it to achieve its. The assumption being that the dragon wants to be released from its imprisonment.
 
 Before they sleep for the night, the three review their threads:
-- Plants grouping through the city that feed on Arc Cells - Kalvenen
-- Thieves Guid boss arrival - Kalvenen
+- Plants grouping through the city that feed on Arc Cells - [[Kalvenen]]
+- Thieves Guid boss arrival - [[Kalvenen]]
 - Blue Cloak from the Ball - Will find us
 - Help for the war against the goblins - Site B
-- Celestial Alignment event to occur - Windfall (25 days + Travel)
-- Investigate any significance of the Starry Night to the Elves - Nuvrin
-- Dealer collecting Arc Cells on Mass - near Vasceri
-- Information about Ao's heritage and potential lineage - TBC
-- Meeting with Cho following the ball - Kalvenen (Tomorrow)
-- Elven Ruin near Bellowfern - Bellowfern
-- Investigate Site E - In the Enlightened Empire
+- Celestial Alignment event to occur - [[Windfall]] (25 days + Travel)
+- Investigate any significance of the Starry Night to the Elves - [[Nuvrin]]
+- Dealer collecting Arc Cells on Mass - near [[Vasceri]]
+- Information about [[Aolani|Ao]]'s heritage and potential lineage - TBC
+- Meeting with [[Duchess Cho Nuvrin|Cho]] following the ball - [[Kalvenen]] (Tomorrow)
+- Elven Ruin near [[Bellowfern]] - [[Bellowfern]]
+- Investigate Site E - In the [[Enlightened Empire]]
 - Investigations about the impending coup against the monarchy - TBC
 - [[Count Luvak Falrath]] seeming dark
-- Enlightened Empire cleric preaching in the north of Kalvenen - Kalvenen
+- [[Enlightened Empire]] cleric preaching in the north of [[Kalvenen]] - [[Kalvenen]]
