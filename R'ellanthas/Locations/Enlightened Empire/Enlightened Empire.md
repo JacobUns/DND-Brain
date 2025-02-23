@@ -2,3 +2,4 @@
 
 # Locations
 ## Great Library
+## Tower

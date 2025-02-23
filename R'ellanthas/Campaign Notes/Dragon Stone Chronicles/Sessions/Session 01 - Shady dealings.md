@@ -45,7 +45,7 @@ In the morning, the group head to [[Boldbottom's Boutique|Boldbottom's]] to buy 
 
 The group head out of the city towards [[Duchess Cho Nuvrin]]'s estate. On the way, those new to [[Nuvrin]] note it appears to be a well kept city, with no slums to be seen anywhere. After a short period of travel, the group realise there are four people who have seemingly followed them out of the city gates. The group stops at the side of the road and confronts their pursuers. They claim they want the letter back that the thugs had been carrying, which has apparently already been burnt by [[Tiscordin]]. After being intimidated by the group, they run.
 
-At the [[Duchess Cho Nuvrin|Duchess's]] mansion, [[Borin Ironfist|Borin]] asks for aid for his people in the form of military backing. She agrees so long as [[Borin Ironfist|Borin]] can prove his usefulness to the kingdom. She believes there is a plot to overthrow the [[Kalvenen]] monarchy. She claims there are definitely four of the Dukedoms that are involved in the coup.
+At the [[Duchess Cho Nuvrin|Duchess's]] mansion, [[Borin Ironfist|Borin]] asks for aid for his people in the form of military backing. She agrees so long as [[Borin Ironfist|Borin]] can prove his usefulness to the kingdom. She believes there is a plot to overthrow the [[Kalvanen]] monarchy. She claims there are definitely four of the Dukedoms that are involved in the coup.
 
 [[Duchess Cho Nuvrin|Cho]] has knowledge of Artifact locations through a [[Professor Sikud]], a unique older lived individual that doesn't see time the same way as others. She declines to elaborate on what that means, only to say it will be obvious. She also identifies a symbol on a wax seal as part of the coup plot.
 

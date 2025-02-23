@@ -1,5 +1,5 @@
 # Cities
-- [[Kalvenen]]
+- [[Kalvanen]]
 - [[Nuvrin]]
 - [[Rupgen]]
 # Elven Ruins

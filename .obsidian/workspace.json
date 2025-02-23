@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building Tools/Religion/Clerical Structures.md",
+                "file": "Aothir/Religious Orders/Order of Light/Order of Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clerical Structures"
+              "title": "Order of Light"
             }
           },
           {
@@ -48,9 +48,22 @@
               "icon": "lucide-file",
               "title": "Pantheon of R'Ellanthas"
             }
+          },
+          {
+            "id": "5ba6721c33cccc0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building Tools/Religion/Orders/Light Domain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Light Domain"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Main Campaign/R'Ellanthas - The Dragon Stone Chronicles.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for R'Ellanthas - The Dragon Stone Chronicles"
+              "title": "Backlinks for Aolani"
             }
           },
           {
@@ -152,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building Tools/Religion/Clerical Structures.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Clerical Structures"
+              "title": "Outgoing links from Aolani"
             }
           },
           {
@@ -179,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building Tools/Religion/Clerical Structures.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Clerical Structures"
+              "title": "Outline of Aolani"
             }
           },
           {
@@ -216,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,48 +247,48 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e028b5df821865b9",
+  "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
-    "World Building Tools/Religion/Orders/Light Domain.md",
-    "World Building Tools/Religion/Clerical Structures.md",
-    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
+    "R'ellanthas/Factions/The Silent Ledger.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Veylen \"The Gilded Fang\" Kaelthorne.md",
+    "R'ellanthas/Factions/Orphus.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
+    "Dor Gairn.md",
+    "R'ellanthas/Locations/Continents/Tarador.md",
+    "R'ellanthas/Locations/Enlightened Empire/Enlightened Empire.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Kalvanen.md",
+    "R'ellanthas/Characters/King Caladeth Kalvanen.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Kingdom of Kalvanen.md",
+    "R'ellanthas/Locations/Continents/Alornis.md",
+    "R'ellanthas/Locations/Continents",
+    "R'ellanthas/R'Ellanthas.md",
+    "Aothir/Religious Orders/Order of Light/Ashen Confessors.md",
+    "Aothir/Religious Orders/Order of Light/Order of Light.md",
+    "Untitled.md",
+    "World Building Tools/Religion/Orders/Light Domain.md",
+    "Aothir/Religious Orders/Order of Light/Dusklord Malrik Duskveil.md",
+    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
+    "Aothir/Religious Orders/Order of Light",
+    "World Building Tools/Religion/Clerical Structures.md",
+    "Aothir/Religious Orders",
+    "World Building Tools/Religion/Orders/Light Domain",
+    "D&D 5e/Races/Aasimar.md",
+    "D&D 5e/Races",
+    "World Building Tools/Countries, Cities and Towns/City Ideation Tools.md",
+    "R'ellanthas/Locations/Free Cities/Dor-Gairn.md",
+    "World Building Tools/Countries, Cities and Towns",
+    "R'ellanthas/Locations/Bal Toruhm/Bal Toruhm.md",
+    "R'ellanthas/Locations/Free Cities",
+    "R'ellanthas/Locations/Enlightened Empire",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
     "World Building Tools/Religion/Orders",
     "World Building Tools/Religion",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Tiscordin.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Lumen Keijo.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Brezek.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Borin Ironfist.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Dohko Nog.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Eshin Himed.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Harra Narozana.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Kimvac Xuan.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Professor Zalkin Glowseeker.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Kalvenen.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Nuvrin.md",
-    "R'ellanthas/Characters/Duchess Cho Nuvrin.md",
-    "R'ellanthas/Characters/Duke Kai Oda.md",
-    "R'ellanthas/Characters/Duke Lakeo Visceri.md",
-    "R'ellanthas/Characters/Duke Udavon Windfall.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Windfall.md",
-    "R'ellanthas/Characters/Duke Castac Cindervale.md",
     "Vaxalin Statues.png",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 06 - The roots run deep.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 05 - Into the Capital.md",
-    "R'ellanthas/Characters/Duchess Joci Bellowfern.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Images/Vaxalin Statues-2.png",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Towns/Bellowfern",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Merchants",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Dragons",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Images/Dragon Room - Rupgen.png",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Images",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
-    "R'ellanthas/Campaign Notes/Main Campaign/Diagrams",
-    "R'ellanthas/Characters",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Towns",
     "World Building Tools/Guilds/Guild Hierarchy.png",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
