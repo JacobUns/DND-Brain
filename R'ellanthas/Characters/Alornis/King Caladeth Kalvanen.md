@@ -2,9 +2,9 @@
 tags:
   - npc
 aliases:
-  - King Kalvenen
   - King Caladeth
-  - King of Kalvenen
+  - King Kalvanen
+  - Kalvanen Caladeth
 ---
 # About
 Patriarch to the royal family of Kalvanen and ruler of the [[Kingdom of Kalvanen]]. 

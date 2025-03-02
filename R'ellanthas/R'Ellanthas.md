@@ -17,18 +17,6 @@ The [[Pantheon of R'Ellanthas]], which was originally from the [World Anvil](htt
 # Campaign Notes
 - [[R'Ellanthas - A Fallen City Campaign]]
 - [[R'Ellanthas - The Dragon Stone Chronicles]]
-# Major Locations
-## Continents
+# Continents
 - [[Alornis]]
-## Fallen City Campaign
-- [[Bal Toruhm]]
-## Dragon Stone Chronicles
-- [[Kingdom of Kalvanen]]
-	- [[Bellowfern]]
-	- [[Cindervale]]
-	- [[Kalvanen]]
-	- [[Kosrias]]
-	- [[Nuvrin]]
-	- [[Vasceri]]
-	- [[Oda]]
-	- [[Windfall]]
+- [[Tarador]]

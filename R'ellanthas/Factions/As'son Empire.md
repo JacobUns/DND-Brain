@@ -1,0 +1,1 @@
+Located in the South of [[Fer'win]], the As'son were once a Sand tribe who have put down roots and started to build cities. They newest member to [[the Great Council]].

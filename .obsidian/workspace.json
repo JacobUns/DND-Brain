@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+                "file": "R'ellanthas/Locations/Free Cities/Dor-Gairn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aolani"
+              "title": "Dor-Gairn"
+            }
+          },
+          {
+            "id": "2bab30cbf73069d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R'ellanthas/Characters/Tarador/Dor-Gairn/Zahmir el-Rahn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zahmir el-Rahn"
+            }
+          },
+          {
+            "id": "cab61ec5012ef5ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R'ellanthas/Factions/Alliance of Vennar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alliance of Vennar"
             }
           },
           {
@@ -83,7 +111,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -146,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+                "file": "R'ellanthas/Locations/Free Cities/Dor-Gairn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +184,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aolani"
+              "title": "Backlinks for Dor-Gairn"
             }
           },
           {
@@ -165,12 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+                "file": "R'ellanthas/Locations/Free Cities/Dor-Gairn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aolani"
+              "title": "Outgoing links from Dor-Gairn"
             }
           },
           {
@@ -192,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+                "file": "R'ellanthas/Locations/Free Cities/Dor-Gairn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aolani"
+              "title": "Outline of Dor-Gairn"
             }
           },
           {
@@ -229,7 +257,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -249,55 +277,55 @@
   },
   "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
-    "R'ellanthas/Factions/The Silent Ledger.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Veylen \"The Gilded Fang\" Kaelthorne.md",
-    "R'ellanthas/Factions/Orphus.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
-    "Dor Gairn.md",
-    "R'ellanthas/Locations/Continents/Tarador.md",
-    "R'ellanthas/Locations/Enlightened Empire/Enlightened Empire.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Kalvanen.md",
-    "R'ellanthas/Characters/King Caladeth Kalvanen.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Kingdom of Kalvanen.md",
-    "R'ellanthas/Locations/Continents/Alornis.md",
-    "R'ellanthas/Locations/Continents",
-    "R'ellanthas/R'Ellanthas.md",
-    "Aothir/Religious Orders/Order of Light/Ashen Confessors.md",
-    "Aothir/Religious Orders/Order of Light/Order of Light.md",
-    "Untitled.md",
-    "World Building Tools/Religion/Orders/Light Domain.md",
-    "Aothir/Religious Orders/Order of Light/Dusklord Malrik Duskveil.md",
-    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
-    "Aothir/Religious Orders/Order of Light",
-    "World Building Tools/Religion/Clerical Structures.md",
-    "Aothir/Religious Orders",
-    "World Building Tools/Religion/Orders/Light Domain",
-    "D&D 5e/Races/Aasimar.md",
-    "D&D 5e/Races",
-    "World Building Tools/Countries, Cities and Towns/City Ideation Tools.md",
+    "R'ellanthas/Characters/Tarador/Dor-Gairn/Naima Ashkari.md",
     "R'ellanthas/Locations/Free Cities/Dor-Gairn.md",
-    "World Building Tools/Countries, Cities and Towns",
-    "R'ellanthas/Locations/Bal Toruhm/Bal Toruhm.md",
-    "R'ellanthas/Locations/Free Cities",
-    "R'ellanthas/Locations/Enlightened Empire",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
-    "World Building Tools/Religion/Orders",
-    "World Building Tools/Religion",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Tiscordin.md",
-    "Vaxalin Statues.png",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Images/Vaxalin Statues-2.png",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Images/Dragon Room - Rupgen.png",
+    "R'ellanthas/Characters/Tarador/Dor-Gairn/Orrik Copperquill.md",
+    "R'ellanthas/Characters/Tarador/Dor-Gairn/Mahtali Xicoyatl.md",
+    "R'ellanthas/Characters/Tarador/Dor-Gairn/Zahmir el-Rahn.md",
+    "R'ellanthas/Characters/Alornis/Duchess Dalaia Kosrias.md",
+    "R'ellanthas/Characters/Alornis/Duchess Cho Nuvrin.md",
+    "R'ellanthas/Characters/Tarador/Dor-Gairn",
+    "R'ellanthas/Characters/Tarador",
+    "R'ellanthas/Characters/Alornis",
+    "R'ellanthas/Locations/Free Cities/Images/The Sand's Jewel.png",
+    "R'ellanthas/Locations/Free Cities/Images/Temple of Dol Arrah.png",
+    "R'ellanthas/Locations/Free Cities/Images/The Sand's Jewel.jpg",
+    "R'ellanthas/Factions/Dor-Gairn/The Jade Sentinels.md",
+    "R'ellanthas/Factions/Alliance of Vennar.md",
+    "R'ellanthas/Factions/Dor-Gairn/The Sunfire Guard.md",
+    "R'ellanthas/Factions/Dor-Gairn/Images/Sunfire Armour.png",
+    "R'ellanthas/Factions/Dor-Gairn/Images",
+    "R'ellanthas/Factions/Dor-Gairn/Images/Couatl Helm.png",
+    "R'ellanthas/Factions/Dor-Gairn/Images/Couatl Armour.png",
+    "R'ellanthas/Locations/Enlightened Empire/Enlightened Empire.md",
+    "R'ellanthas/Factions/Dor-Gairn",
+    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Dol Arrah.md",
+    "World Building Tools/Guilds/Guild Types.md",
+    "World Building Tools/Guilds/Guild Structures.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 08 - Scorched and Sundered.md",
+    "Untitled.md",
+    "R'ellanthas/Locations/Free Cities/Images",
+    "R'ellanthas/Locations/Free Cities/Images/Dor-Gairn City.png",
+    "R'ellanthas/Locations/Enlightened Empire/Images/Tower of Light.png",
+    "R'ellanthas/Locations/Enlightened Empire/Images/magicstudio-art-6.jpg",
+    "R'ellanthas/Locations/Enlightened Empire/Images/The Great Library.png",
+    "R'ellanthas/Locations/Enlightened Empire/Images",
+    "R'ellanthas/Factions/The Great Council.md",
+    "R'ellanthas/Religion/Pantheon Members/Other Faiths/Active/The Path of Light.md",
+    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
+    "R'ellanthas/Factions/As'son Empire.md",
+    "R'ellanthas/Factions/Arcandor Academy.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/R'Ellanthas - A Fallen City Campaign.md",
+    "R'ellanthas/Events/Ending War.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 01 - Shady dealings.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 02 - Ancient Returns.md",
+    "R'ellanthas/Locations/Continents",
+    "Aothir/Religious Orders/Order of Light",
+    "Aothir/Religious Orders",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
-    "World Building Tools/Guilds/Guild Hierarchy.png",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
-    "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr 2.png",
-    "R'ellanthas/Religion/Other Faith Images/Vol, Deathless Martyr.png",
-    "R'ellanthas/Religion/Other Faith Images/The Undying Court 2.png",
-    "R'ellanthas/Religion/Other Faith Images/The Undying Court.png",
-    "R'ellanthas/Religion/Other Faith Images/The Spirits of the Past.png",
-    "R'ellanthas/Religion/Other Faith Images/The Silver Flame.png",
     "Untitled.canvas"
   ]
 }

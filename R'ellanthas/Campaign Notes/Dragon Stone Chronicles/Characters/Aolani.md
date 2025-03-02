@@ -14,10 +14,24 @@ A tall figure with human features, something isn't quite normal about the man in
 **Hair Colour**: Pale Blonde - Almost White, with a 2'' thick black stripe
 **Physical Description**: Though not overtly strong, his quiet confidence and broad shoulders portray a man who is undeniably powerful - as if honed through years of relentless training. Tight, sinewy muscles speak not of brute strength but of efficiency and elegance, his skin baring the scars of his training. Not imposing in sheer size, there is an unmistakable intensity in his stance and stride that commands the attention of those around him.
 # Personal Quest Log
-## Complete the Trial of Cinders
+### Main Quest - Complete the Trial of Cinders
 To become an [[Ashen Confessors|Ashen Confessor]], Ao must complete his [[Ashen Confessors#The Ordeal of Fire|Ordeal of Fire]] and [[Ashen Confessors#The Purging of Weakness|Purifying ceremony]]. To achieve this, he must:
 - Find the information on his lineage, and the darkness within him
 - Return to the Temple with his findings
+### Side Quest - Deliver the "Starry Night" painting to [[The Silent Ledger]]
+[[#Howie]] has approached Ao telling him the job being requested by the boss is to steal a painting by an artist called [[Eshin Himed]] that is being sold at the [[Kalvanen#Herquens Auction House|Auction House]] in the coming weeks.
+- ~~Steal the Starry Night painting from the Auction House~~
+- Return it to the thieves guild
+#### Optional Path
+- As payment for procuring the painting from the auction house, [[Duchess Cho Nuvrin|Duchess Cho]] has requested the group kill the head of [[The Silent Ledger]], [[Veylen "The Gilded Fang" Kaelthorne|Veylen Kaelthorne]].
+### Main Quest - Investigate the coup in the [[Kingdom of Kalvanen|Kalvanen Nobility]]
+[[Duchess Cho Nuvrin|Duchess Cho]] has uncovered information that implies some of the nobility are planning a coup against [[King Caladeth Kalvanen|King Kalvanen]]. 
+- ~~Investigate reports of a strange man in [[Rupgen]]~~
+- ~~Report back to [[Duchess Cho Nuvrin|Cho]]~~
+- ~~Attend the ball in [[Kalvanen]]~~
+- Wait to be contacted by the man in the blue cape
+- Investigate the dragon stone being worn by [[Duke Kai Oda|Duke Oda]]
+
 # Detailed Backstory
 
 > [!spoiler]- Spoilers Ahead
@@ -43,13 +57,13 @@ To become an [[Ashen Confessors|Ashen Confessor]], Ao must complete his [[Ashen 
 >
 >With his faith burning strong, Ao left the sanctuary of the temple and joined with an adventuring group traveling to the continent of [[Alornis]]. On new shores, he set out to find the largest repository of knowledge he could. Ao, operating as a mercenary healer to adventuring groups, learnt of the [[Enlightened Empire]] having an enormous library. Eventually finding a group traveling north, he went to the city of light with some hope starting to kindle within him.
 >
->A considerable amount of time passed, Ao delving deep into the library in search of information on celestials and signs that would connect to his Faith Trial. With aid from scholars there who assisted in his research, they confirmed that he was indeed likely to be an Aasimar, but for all their time they could not find an answer to his lineage. During this time he would see some of the faith of the people and it would sicken him. What initially felt like a variant of his religion quickly felt more like an intentional twisting and perversion of their tenants and beliefs. Ao had heard talk of the Enlightened Empire between [[Ashen Confessors]], and he had started to understand why. After managing to contact the temple with some of his observations using some of his remaining coin, [[Ashen Confessors#Iskiel Mourndawn|Iskiel]] would provide him information on a [[Ashen Confessors|Confessor]] outpost he could use to keep himself supplied while in the area.
+>A considerable amount of time passed, Ao delving deep into the library in search of information on celestials and signs that would connect to his Faith Trial. With aid from scholars there who assisted in his research, they confirmed that he was indeed likely to be an [[Aasimar]], but for all their time they could not find an answer to his lineage. During this time he would see some of the faith of the people and it would sicken him. What initially felt like a variant of his religion quickly felt more like an intentional twisting and perversion of their tenants and beliefs. Ao had heard talk of the [[Enlightened Empire]] between [[Ashen Confessors]], and he had started to understand why. After managing to contact the temple with some of his observations using some of his remaining coin, [[Ashen Confessors#Iskiel Mourndawn|Iskiel]] would provide him information on a [[Ashen Confessors|Confessor]] outpost he could use to keep himself supplied while in the area.
 >
 >With so much of his time being spent in the city, and his black armour being fairly inconspicuous, his presents would be noticed by opportunists. One such opportunist introduced himself to Aolani as [[#Howie]] and slowly started to build Ao's trust. [[#Howie]] learnt of Ao's skill as a healer, his time with the [[Order of Light|Order of Dol Arrah]] in [[Dor-Gairn]], and some information on what Ao was searching for without mention of the [[Ashen Confessors]] or his [[Ashen Confessors#Trial of Cinders|Trials]]. [[#Howie]] claimed to work for some people that might be able to help him if he were willing to help them. Not being entirely naive, Ao assumed there would probably be a catch, but, starting to feel desperate to find something useful, he agreed in the hopes it would expedite his search.
 >
 >Quickly, Ao would come to regret this risk. Inadvertently becoming entangled with [[The Silent Ledger]], Ao would become involved in increasingly risky and unsavoury tasks. He would be required to undertake jobs he fundamentally disagreed with while the guild boss, [[#Veylen "The Butcher" Kaelthorne]], continued to dangle having information for him as payment for "one more job". With so much invested in getting his payment, Ao was loathed to give up before his payoff. His temper would begin to fray, however, and, after confronting the guild boss, Ao would leave their halls having nearly come to blows with the man. He agreed to one more assignment, knowing that if the information was not forthcoming he would take pleasure in cleansing the mans deception from the world.
 >
->The task would take him to Nuvrin, and into a shady looking alleyway.
+>The task would take him to [[Nuvrin]], and into a shady looking alleyway.
 # Associates & Enemies
 ## Seraphine Liora
 A [[Light Domain#Radiant Watcher|Radiant Watcher]] of the [[Light Domain|Order of Dol Arrah]], Seraphine Liora took pity on Ao after he was left at the temple in [[Dor-Gairn]]. Unable to have children of her own due to the oaths taken during her ordainment, and having been raised from adolescence herself in the temple, she took to the task of raising him as best she could.

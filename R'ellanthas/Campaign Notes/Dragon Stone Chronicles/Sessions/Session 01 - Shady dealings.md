@@ -12,9 +12,9 @@ session date: 2024-01-04
 - [[Guardians of Il'Mondum]] hunt the world & deal with people that use Elven and Draconic artefacts, or enter their ruins.
 - Elves forced all other races into servitude over 7000 years ago.
 - No elves or dragons have been seen in 800 years
-- [[The Great Coucil]] is an organisation where all races are represented & make sure nothing happens like the rise of the Elves again.
+- [[The Great Council]] is an organisation where all races are represented & make sure nothing happens like the rise of the Elves again.
 - [[The Arcandor Academy]] is an organisation who take magical children & train them, then distribute them to nations. The children do not choose to attend, but are taken from their families.
-- There are 8 Duchies that advise [[The Great Coucil]]. 
+- There are 8 Duchies that advise [[The Great Council]]. 
 - The Emporer of the Enlightened Empire is known as the [[Lightbringer]]. He's perceived well by the populous but poorly by leaders. They push further into the duchies to take land by force.
 - A pact called the [[Pact of Il'Mondum]] was signed by all but the dwarves
 - [[Alliance of Vennar]] is a neutral party with the rest of the world

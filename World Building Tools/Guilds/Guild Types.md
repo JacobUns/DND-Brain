@@ -28,14 +28,18 @@ Whether painting, framing, glassblowing, sculpting or any other artistic pursuit
 ## Bowyer
 Every ranger, hunter and military needs equipment with ranged capabilities. Bowyers are masters in crafting bows and crossbows from natural materials. Any child playing with sticks and string can make something that looks like a bow, but knowing how to get the most out of the materials to increase their power, accuracy and consistency takes a masters hand.
 
-Craftsman following the bowyer profession may start by preparing bow strings, lengths of wood or feathers for arrows alongside the tutelage of a fletcher, then progress onto selecting and crafting staves, layering woods for better performance, and bending them into an appropriate shape to achieve a draw weight appropriate for their use. The more senior the bowyer the better performance will be achievable and the more beautiful carved wood will be to the customer.
+Craftsmen following the bowyer profession may start by preparing bow strings, lengths of wood or feathers for arrows alongside the tutelage of a fletcher, then progress onto selecting and crafting staves, layering woods for better performance, and bending them into an appropriate shape to achieve a draw weight appropriate for their use. The more senior the bowyer the better performance will be achievable and the more beautiful carved wood will be to the customer.
 ## Carpenter
 ## Enchanter
 ## Fletcher
+# Lapidary
+The art of crafting naturally mined gemstones into shaped and polished goods for sale or installation into jewellery by a [[#Silversmith]]. The skill is a discipline in its own right, requiring great skill to create the most beautiful stones possible, but will often be an integral part of a [[#Silversmith]] business.
+
+Craftsfmen following the path of a lapidarist will be required to learn how to cut, grind and polish a gemstone to optimise the possible return from each mined stone. Stones with perfect facets, without artefacts within, and a uniform colour fetch a high price, and will regularly be required by those that perform feats with the arcane arts. As such, there is a always a high demand for stones for [[#Enchanter|Enchanters]], [[#Silversmith|Silversmiths]] and Wizards across the world.
 ## Silversmith
 The art of crafting jewellery and gems may be undertaken by silversmiths. Responsible for crafting many types of accessory, from necklaces to rings, they craft all manners of materials into both dainty aesthetic pieces and mundane components for [[#Enchanter|Enchanting]]. Masters of detail, silversmiths may be brought in to finish the crafting of weaponry with filigree or other such ornamental decoration as well as crafting full pieces.
 
-Craftsman following the silversmithing profession may start by simply polishing and smoothing of pieces completed by a more advanced craftsman before being given projects of their own. As the craftsman progresses through the ranks, they may be given access to more expensive materials and then access to secrets of how the guild crafts the finest and most expensive of pieces.
+Craftsmen following the silversmithing profession may start by simply polishing and smoothing of pieces completed by a more advanced craftsman before being given projects of their own. As the craftsman progresses through the ranks, they may be given access to more expensive materials and then access to secrets of how the guild crafts the finest and most expensive of pieces.
 ## Swordsmith
 ## Masons
 # Social

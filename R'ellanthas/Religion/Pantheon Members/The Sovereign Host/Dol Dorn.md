@@ -5,5 +5,5 @@ tags:
   - Ascendant
   - Deity
 ---
-Depicted as Male. Patron of the Arcandor Academy
+Depicted as Male. Patron of the [[Arcandor Academy]]
 ![[Dol Dorn.png]]
