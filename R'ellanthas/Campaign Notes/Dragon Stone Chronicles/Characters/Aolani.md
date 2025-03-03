@@ -23,7 +23,7 @@ To become an [[Ashen Confessors|Ashen Confessor]], Ao must complete his [[Ashen 
 - ~~Steal the Starry Night painting from the Auction House~~
 - Return it to the thieves guild
 #### Optional Path
-- As payment for procuring the painting from the auction house, [[Duchess Cho Nuvrin|Duchess Cho]] has requested the group kill the head of [[The Silent Ledger]], [[Veylen "The Gilded Fang" Kaelthorne|Veylen Kaelthorne]].
+- As payment for procuring the painting from the auction house, [[Duchess Cho Nuvrin|Duchess Cho]] has requested the group kill the head of [[The Silent Ledger]], [[Veylen Kaelthorne|Veylen Kaelthorne]].
 ### Main Quest - Investigate the coup in the [[Kingdom of Kalvanen|Kalvanen Nobility]]
 [[Duchess Cho Nuvrin|Duchess Cho]] has uncovered information that implies some of the nobility are planning a coup against [[King Caladeth Kalvanen|King Kalvanen]]. 
 - ~~Investigate reports of a strange man in [[Rupgen]]~~
@@ -69,7 +69,7 @@ To become an [[Ashen Confessors|Ashen Confessor]], Ao must complete his [[Ashen 
 A [[Light Domain#Radiant Watcher|Radiant Watcher]] of the [[Light Domain|Order of Dol Arrah]], Seraphine Liora took pity on Ao after he was left at the temple in [[Dor-Gairn]]. Unable to have children of her own due to the oaths taken during her ordainment, and having been raised from adolescence herself in the temple, she took to the task of raising him as best she could.
 ## Howie
 An [[The Silent Ledger#Inkwraiths|Inkwraith]] of [[The Silent Ledger]] who picked out Aolani as a mark in the City of Light. A man of fairly aloof and cocky personality, he has a knack for charming his way into places he shouldn't be and finding people who don't want to be found.
-## [[Veylen "The Gilded Fang" Kaelthorne]]
-The guild boss of [[The Silent Ledger]], a former mercenary whose strategic brilliance and cold pragmatism have built the guild into an empire of wealth and power. Aolani and [[Veylen "The Gilded Fang" Kaelthorne|Veylen]] have an incredibly tense relationship, the guild boss being confident that Ao is all bluster and no bite given his position and status.
+## [[Veylen Kaelthorne]]
+The guild boss of [[The Silent Ledger]], a former mercenary whose strategic brilliance and cold pragmatism have built the guild into an empire of wealth and power. Aolani and [[Veylen Kaelthorne|Veylen]] have an incredibly tense relationship, the guild boss being confident that Ao is all bluster and no bite given his position and status.
 ## Iskiel Mourndawn
 An [[Ashen Confessors|Ashen Confessor]] of high regard, Iskiel took Ao as an apprentice and inducted him as a [[Ashen Confessors#Duskbound Initiates (Ashen Acolytes)|Duskbound Initiate]] to the inquisitorial order. Hard but fair, Iskiel led Aolani's training in martial disciplines and taught him the ways of interrogation both physically and mentally.
