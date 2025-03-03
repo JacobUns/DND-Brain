@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Veylen Kaelthorne.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 13 - Once more into the breach dear friends.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Veylen Kaelthorne"
+              "title": "Session 13 - Once more into the breach dear friends"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#travelcheck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,12 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Veylen Kaelthorne.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 13 - Once more into the breach dear friends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Veylen Kaelthorne"
+              "title": "Outgoing links from Session 13 - Once more into the breach dear friends"
             }
           },
           {
@@ -220,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Veylen Kaelthorne.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 13 - Once more into the breach dear friends.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Veylen Kaelthorne"
+              "title": "Outline of Session 13 - Once more into the breach dear friends"
             }
           },
           {
@@ -257,11 +257,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,6 +278,11 @@
   "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 12 - Something skittering this way comes.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 13 - Once more into the breach dear friends.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 09 - On the road again.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Veylen Kaelthorne.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
     "R'ellanthas/Locations/Free Cities/Dor-Gairn.md",
     "R'ellanthas/Characters/Tarador/Dor-Gairn/Sahira Veyshari.md",
@@ -309,11 +314,6 @@
     "R'ellanthas/Factions/Dor-Gairn/Images/Couatl Armour.png",
     "R'ellanthas/Locations/Enlightened Empire/Enlightened Empire.md",
     "R'ellanthas/Factions/Dor-Gairn",
-    "R'ellanthas/Religion/Pantheon Members/The Sovereign Host/Dol Arrah.md",
-    "World Building Tools/Guilds/Guild Types.md",
-    "World Building Tools/Guilds/Guild Structures.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 08 - Scorched and Sundered.md",
-    "Untitled.md",
     "R'ellanthas/Locations/Free Cities/Images",
     "R'ellanthas/Locations/Free Cities/Images/Dor-Gairn City.png",
     "R'ellanthas/Locations/Enlightened Empire/Images/Tower of Light.png",

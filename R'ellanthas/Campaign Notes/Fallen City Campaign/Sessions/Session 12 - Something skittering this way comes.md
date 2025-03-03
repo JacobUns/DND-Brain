@@ -2,6 +2,7 @@
 tags:
   - sessionnote
   - combat
+session date: 2025-01-13
 ---
 The group is faced with a giant spider being ridden by a horde of ten or more goblins on a wooden platform squealing in excitement at the chance for prey. [[Kayn, Light's Bane|Kayn]] turns heel and runs before spinning and flinging off fireball, killing all but one goblin and singeing the spider and the remaining underboss. The spider charges down [[Oh, Air Genasi|Oh]] and spews web, restraining her. It flings the remaining goblin off its back towards [[Maria Ravenloft|Maria]] who takes a strike from the creature before hitting back with radiant power. More time passes as the battle continues, until [[Maria Ravenloft|Maria]] pierces the spider with her pike and a beam of radiant light incinerates it. As it blows apart, smaller spiders swarms out of the corpse and start to attack her.
 
