@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Characters/Tarador/Dor-Gairn/Zahmir el-Rahn.md",
+                "file": "World Building Tools/Countries, Cities and Towns/City Districts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zahmir el-Rahn"
+              "title": "City Districts"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building Tools/Religion/Orders/Light Domain.md",
+                "file": "Aothir/Religious Orders/Order of Light/Order of Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Light Domain"
+              "title": "Order of Light"
             }
           }
         ]
@@ -277,11 +277,20 @@
   },
   "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
-    "R'ellanthas/Characters/Tarador/Dor-Gairn/Naima Ashkari.md",
+    "R'ellanthas/Characters/Tarador/Dor-Gairn/Sahira Veyshari.md",
     "R'ellanthas/Locations/Free Cities/Dor-Gairn.md",
+    "Aothir/Religious Orders/Order of Light/Order of Light.md",
+    "World Building Tools/Religion/Orders/Light Domain.md",
+    "World Building Tools/Countries, Cities and Towns/City Districts.md",
+    "R'ellanthas/Characters/Tarador/Dor-Gairn/Zahmir el-Rahn.md",
+    "World Building Tools/Countries, Cities and Towns/City Ideation Tools.md",
+    "Grand Vizier Sahira Veyshari.md",
+    "R'ellanthas/Characters/Tarador/Dor-Gairn/Narisa Velkaari.md",
+    "R'ellanthas/Factions/Dor-Gairn/The Sunfire Guard.md",
+    "R'ellanthas/Characters/Tarador/Dor-Gairn/Hazzin the Bronze-Hand.md",
+    "R'ellanthas/Characters/Tarador/Dor-Gairn/Naima Ashkari.md",
     "R'ellanthas/Characters/Tarador/Dor-Gairn/Orrik Copperquill.md",
     "R'ellanthas/Characters/Tarador/Dor-Gairn/Mahtali Xicoyatl.md",
-    "R'ellanthas/Characters/Tarador/Dor-Gairn/Zahmir el-Rahn.md",
     "R'ellanthas/Characters/Alornis/Duchess Dalaia Kosrias.md",
     "R'ellanthas/Characters/Alornis/Duchess Cho Nuvrin.md",
     "R'ellanthas/Characters/Tarador/Dor-Gairn",
@@ -292,7 +301,6 @@
     "R'ellanthas/Locations/Free Cities/Images/The Sand's Jewel.jpg",
     "R'ellanthas/Factions/Dor-Gairn/The Jade Sentinels.md",
     "R'ellanthas/Factions/Alliance of Vennar.md",
-    "R'ellanthas/Factions/Dor-Gairn/The Sunfire Guard.md",
     "R'ellanthas/Factions/Dor-Gairn/Images/Sunfire Armour.png",
     "R'ellanthas/Factions/Dor-Gairn/Images",
     "R'ellanthas/Factions/Dor-Gairn/Images/Couatl Helm.png",
@@ -312,14 +320,6 @@
     "R'ellanthas/Locations/Enlightened Empire/Images",
     "R'ellanthas/Factions/The Great Council.md",
     "R'ellanthas/Religion/Pantheon Members/Other Faiths/Active/The Path of Light.md",
-    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
-    "R'ellanthas/Factions/As'son Empire.md",
-    "R'ellanthas/Factions/Arcandor Academy.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/R'Ellanthas - A Fallen City Campaign.md",
-    "R'ellanthas/Events/Ending War.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 01 - Shady dealings.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 02 - Ancient Returns.md",
     "R'ellanthas/Locations/Continents",
     "Aothir/Religious Orders/Order of Light",
     "Aothir/Religious Orders",
