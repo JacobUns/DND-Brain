@@ -1,3 +1,9 @@
+---
+tags:
+  - sessionnote
+session date: 2025-01-19
+---
+
 During the two days downtime before the ball, [[Brezek]] buys a horse drawn cart to do up and attach his Mechanipig to. He spends the next couple of days making it as visually appealing as he can.
 
 [[Tiscordin]] looks for a Tailor with little presence but enough skill and time to make a custom order for him. He finds Edna Mode, an ostentatious and severe woman with a distain for capes. While there, [[Aolani|Ao]] gets some black and gold finery made to stifle how obvious his armour is and give him some more refinement for the formal ball setting. [[Lumen Keijo|Lumen]], wanting a duelists cape, is disappointed Edna won't make his request and says he'll go elsewhere. During conversation, she brings up the name of her competitor, [[Jade Wish]].

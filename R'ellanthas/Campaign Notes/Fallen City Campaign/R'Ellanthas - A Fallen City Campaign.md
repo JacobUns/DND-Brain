@@ -18,6 +18,7 @@
 - [[Session 10 - Aggressive Negotiations]]
 - [[Session 11 - Off the rails]]
 - [[Session 12 - Something skittering this way comes]]
+- [[Session 13 - Once more into the breach dear friends]]
 # Characters
 ## Player Characters
 [[Kayn, Light's Bane|Kayn]] - Jacob

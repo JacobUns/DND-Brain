@@ -1,3 +1,9 @@
+---
+tags:
+  - sessionnote
+session date: 2024-11-10
+---
+
 Delving deeper into the ruins, the group starts to think that the city of [[Kalvanen]] has been built over the top of an ancient elvish city. Cavern ceilings seem to range between ten and thirty feet high as we move between chambers. The dwarves build their citadels and cities into the cavern, but this city feels more like it has collapsed and was once above ground.
 
 The elvish city would have been known as [[Vaxalin]]. The group start to investigate the buildings and strangely start to find that, despite the lack of light, there is a soft glow being emitted by the plants. We come across a small Arc Cell that has been wrapped by plant roots, and it appears to be slowly draining the arcane energy from it. The plants are glowing with more light than the cell would provide, and we assume that it must be drawing more power from somewhere. [[Borin Ironfist|Borin]] remove the cell before we move on and finds it half drained.

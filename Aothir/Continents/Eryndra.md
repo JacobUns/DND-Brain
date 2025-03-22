@@ -1,8 +1,3 @@
----
-tags:
-  - homebrew
-  - continent
----
 # Description
 
 # Countries

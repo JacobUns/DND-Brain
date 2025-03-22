@@ -73,3 +73,16 @@ An [[The Silent Ledger#Inkwraiths|Inkwraith]] of [[The Silent Ledger]] who picke
 The guild boss of [[The Silent Ledger]], a former mercenary whose strategic brilliance and cold pragmatism have built the guild into an empire of wealth and power. Aolani and [[Veylen Kaelthorne|Veylen]] have an incredibly tense relationship, the guild boss being confident that Ao is all bluster and no bite given his position and status.
 ## Iskiel Mourndawn
 An [[Ashen Confessors|Ashen Confessor]] of high regard, Iskiel took Ao as an apprentice and inducted him as a [[Ashen Confessors#Duskbound Initiates (Ashen Acolytes)|Duskbound Initiate]] to the inquisitorial order. Hard but fair, Iskiel led Aolani's training in martial disciplines and taught him the ways of interrogation both physically and mentally.
+# Desirable Items
+## Uncommon
+Boots of Elvenkind - Accessory
+## Rare
+Necklace of Prayer Beads - Requires Attunement
+Devotee's Censor - Requires Attunement
+Ring of Spellstoring - Requires Attunement
+Duskcrusher - Requires Attunement
+## Very Rare
+Tome of Understanding
+## Artifact
+Book of Exalted Deeds
+[Armour of the Valiant Soul](https://www.dndbeyond.com/magic-items/7170909-armor-of-the-valiant-soul) - Requires Attunement

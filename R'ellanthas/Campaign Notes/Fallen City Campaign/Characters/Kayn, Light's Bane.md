@@ -92,3 +92,23 @@ Slightly under average height for a human, his stature speaks to one who's nimbl
 **Piper** - Human, looks to be in his late 50s but seems to hold knowledge beyond his years. Tall but slender, almost to a sickly level. His fingers flicked with unnatural dexterity and accuracy. Powerful wizard able to easily defend against the futile efforts.
 
 **Gorbrimdal** - Jealous Dwarven apprentice adventurer. Had been lining himself up to be mentored by Brom.
+# Desired Items
+## Evolving
+- [Dragons Wrath Weapon](https://www.dndbeyond.com/magic-items/4047217-dragons-wrath-weapon) - Requires Attunement
+- [Dragon Touched Focus](https://www.dndbeyond.com/magic-items/4047194-dragon-touched-focus) - Requires Attunement
+## Sourcebook
+- [Cloak of Displacement](https://www.dndbeyond.com/magic-items/9228407-cloak-of-displacement) - Requires Attunement
+- [Immovable Rod](https://www.dndbeyond.com/magic-items/9228785-immovable-rod)
+- [Fool's Blade](https://www.dndbeyond.com/magic-items/7526677-fools-blade) - Requires Attunement
+- [Platinum Scarf](https://www.dndbeyond.com/magic-items/4047221-platinum-scarf) - Requires Attunement
+- [Shard of Solitaire](https://www.dndbeyond.com/magic-items/6256184-shard-solitaire) - Requires Attunement
+## Crafted
+### Ryoko's Guide to the Yokai Realms
+- Windweaver ([Uncommon](https://www.dndbeyond.com/magic-items/9799406-windweaver-uncommon), [Rare](https://www.dndbeyond.com/magic-items/9799549-windweaver-rare), [Very Rare](https://www.dndbeyond.com/magic-items/9799621-windweaver-very-rare))
+- Helping Hand ([Uncommon](https://www.dndbeyond.com/magic-items/9799840-helping-hand-uncommon), [Rare](https://www.dndbeyond.com/magic-items/9799862-helping-hand-rare), [Very Rare](https://www.dndbeyond.com/magic-items/9799883-helping-hand-very-rare))
+- Hakuja-To ([Uncommon](https://www.dndbeyond.com/magic-items/9799992-hakuja-to-uncommon), [Rare](https://www.dndbeyond.com/magic-items/9803130-hakuja-to-rare), [Very Rare](https://www.dndbeyond.com/magic-items/9803135-hakuja-to-very-rare))
+- Onikiri, Demon Cutter ()
+- Shisui, Water Slasher ()
+- Jishin, Earth Render ()
+- Kitsune Mask ()
+- Mask of the Oni ()

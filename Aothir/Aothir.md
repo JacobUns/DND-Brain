@@ -12,6 +12,14 @@ The [[Aothir Planar Universe]] is a multi-planar structure. The players will pri
 
 The world is multiracial and cultural, pulling inspiration from real-world cultures and races for a multitude of source materials. The races of the world are wildly diverse, but there are recommended [[playable races]] with inspiration for background choices.
 # Life on Aothir
-In line with the traditional high fantasy setting, life on Aothir is similar to that of the medieval era. The existence of magic improves the general quality of life for the general populous, but working life is driven by the existence of its [[Aothir Guilds|guilds]] and [[Aothir Merchants|merchants]] in towns or agriculture in rural areas.
+In line with the traditional high fantasy setting, life on Aothir is similar to that of the medieval era. The existence of magic improves the general quality of life in some areas  for the general populous, but working life is driven by the existence of its [[Aothir Guilds|guilds]] and [[Aothir Merchants|merchants]] in towns, or agriculture in rural areas, and the distribution of wealth dependant on the greed or generosity of its rulers.
 
 Most enjoy a simple and modest life, but the welfare of a country's citizens varies greatly at its extremes. From the glistening streets of wealth and plenty for some to the squaller and brutal existence of life in a pirate cove, many consider their lives adequate even if they are not of the elite.
+# Continents
+## Poles
+The northern pole of Aothir, [[Solrath]] stands like a pock marked scar on the world. Covered in volcanic mountains that regularly spew clouds of ash over the landscape, the atmospheric cover causing odd weather patterns and snowy peaks at the central most point. The land is harsh, and those who call it home are hardy people.
+
+[[Zarath]], at the southern pole, is covered in ice and snow. Most of the continent is a barren wasteland, but small hubs of civilisation still prevail amidst the extreme conditions.
+## Central
+Four central continents make up the majority of the landmass of Aothir. [[Eryndra]], a land known for its sprawling forests and plains. [[Caldrien]], known for fertile valleys, thriving civilisations and ancient ruins. [[Varyn]], a mountainous and temperate land rich in minerals and ores which has made a perfect place for industry to take root. Finally, [[Lothen]], a continent flush with rivers and shoreline that make the continent a bustling trade hub between the other continents.
+

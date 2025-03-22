@@ -6,12 +6,13 @@ aliases:
 ---
 # Table of Contents
 - [[#Sessions]]
+- [[#Threads]]
 - [[#Characters]]
 	- [[#Player Characters]]
 	- [[#NPCs]]
 - [[#Factions]]
 - [[#Locations]]
-- [[#Threads]]
+
 # Sessions
 - [[Session 01 - Shady dealings]]
 - [[Session 02 - Ancient Returns]]
@@ -20,17 +21,6 @@ aliases:
 - [[Session 05 - Into the Capital]]
 - [[Session 06 - The roots run deep]]
 - [[Session 07 - Finery and Fierce Pursuit]]
-# Characters
-## Player Characters
-- [[Aolani]]
-- [[Borin Ironfist]]
-- [[Brezek]]
-- [[Lumen Keijo]]
-- [[Tiscordin]]
-## NPCs
-# Factions
-# Locations
-
 # Threads
 ## Subterfuge in the Nobility
 - [ ] Investigate [[Duchess Cho Nuvrin|Duchess Cho]]'s suspicions of a coup among the nobility
@@ -48,3 +38,14 @@ aliases:
 	- [ ] Investigate for clues of the event's significance
 - [ ] Investigate the Elven Ruins near [[Bellowfern]]
 - [ ] Investigate Site E in the Enlightened Empire
+
+# Characters
+## Player Characters
+- [[Aolani]]
+- [[Borin Ironfist]]
+- [[Brezek]]
+- [[Lumen Keijo]]
+- [[Tiscordin]]
+## NPCs
+# Factions
+# Locations

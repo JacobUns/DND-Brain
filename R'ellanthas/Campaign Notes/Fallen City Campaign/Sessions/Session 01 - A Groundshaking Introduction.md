@@ -12,11 +12,11 @@ Game starts at [[Liashton]] sitting in the middle of the [[Lake Liash]] near the
 
 [[Oh, Air Genasi|Oh]] had been waiting at the gates for a couple of days
 
-Head towards the centre to find a nice joint for the area called [[The Lady's Inn]] to get a drink. 
+Head towards the centre to find a nice joint for the area called [[Liashton#The Lady's Inn|The Lady's Inn]] to get a drink. 
 
 Barmaid gives information about [[Oh, Air Genasi|Oh]] after a silver bribe. Seems to think she's of some importance. Never seems short of coin.
 
-[[Maria Ravenloft|Maria]] is from Ravenfarm, south of the [[Enlightened Kingdom]].
+[[Maria Ravenloft|Maria]] is from Ravenfarm, south of the [[Enlightened Empire]].
 
 [[Oh, Air Genasi|Oh]]'s premonition is that of the continuation of a calamity. [[Pantheon of R'Ellanthas#The Sovereign Host|The Sovereign Host]] has provided visions of the [[Lake Liash]], the town of [[Liashton]], and our entry into her story. The calamity then starts shortly after. [[Oh, Air Genasi|Oh]]'s vision never takes place inside the town.
 

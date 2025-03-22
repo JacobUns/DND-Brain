@@ -62,3 +62,9 @@ tags:
 - Residents: Sailors, dockworkers, smugglers, and captains.
 - Security: Harbor guards, naval patrols, and pirate hunters.
 - Unique Aspects: Leviathan wards, anti-levitation runes, and animated cargo lifters.
+# The Financial District (Banking)
+- The city centre of banks, financiers, money lenders, and currency brokers
+- Features: Banks, accountancies, currency exchangers
+- Residents: Bankers, Loan Sharks, Accountants
+- Security: City watch, specialist security, heavily-armoured guards
+- Unique Aspects: Vaults, animated quill and parchment, 
