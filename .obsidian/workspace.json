@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 -.md",
+                "file": "World Building Tools/Merchants/Protection Merchant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 08 -"
+              "title": "Protection Merchant"
+            }
+          },
+          {
+            "id": "dd2fceb2f11792d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aothir/Continents/Eryndra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eryndra"
+            }
+          },
+          {
+            "id": "47aa77ba522f0a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ral Mosshine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ral Mosshine"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 307.5
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -123,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01 - A Groundshaking Introduction.md",
+                "file": "Aothir/Continents/Eryndra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 01 - A Groundshaking Introduction"
+              "title": "Outgoing links from Eryndra"
             }
           },
           {
@@ -150,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 -.md",
+                "file": "Aothir/Continents/Eryndra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 08 -"
+              "title": "Outline of Eryndra"
             }
           },
           {
@@ -187,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,37 +234,37 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ad13a31820dc0bc4",
+  "active": "dd2fceb2f11792d1",
   "lastOpenFiles": [
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 01 - Shady dealings.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 02 - Ancient Returns.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 03 - A Titanous Discovery.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 04 - Fishy Cultists.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 05 - Into the Capital.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 06 - The roots run deep.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 -.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
-    "World Building Tools/Systems of Governance.md",
-    "Aothir/Continents/Eryndra.md",
-    "Aothir/Aothir.md",
-    "Aothir/Continents/Lothen.md",
-    "Aothir/Continents/Varyn.md",
-    "Aothir/Continents/Caldrien.md",
-    "Aothir/Continents/Zarath.md",
-    "Aothir/Continents/Solrath.md",
-    "Aothir/Factions/Ministries/Order of the Quill.md",
-    "Aothir/Continents/Ipthir/Ipthir.md",
+    "World Building Tools/Merchants/Protection Merchant.md",
+    "World Building Tools/Merchants/Alchemists.md",
     "Aothir/World To Do.md",
+    "Aothir/Scales of Economy.md",
+    "Aothir/Merchants/Magic/Magic Stores.md",
+    "Aothir/Religious Orders/Order of Light/Order of Light.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 - A guild defanged.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Tiscordin.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Seraphina.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Lumen Keijo.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Borin Ironfist.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Brezek.md",
+    "R'ellanthas/Religion/Pantheon Members/The Dark Six/Melorkis, The Shadow.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Mirakian.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Milanalin.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Leoqen.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Elaran.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Vaxalin.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Vilasenrin.md",
+    "Ral Mosshine.md",
+    "R'ellanthas/Factions/The Silent Ledger.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Kalvenen/Veylen Kaelthorne.md",
     "Aothir/Continents/Eryndra",
     "Aothir/Factions/Guilds/Adventuring",
-    "Aothir/Playable Races.md",
-    "Aothir/Scales of Economy.md",
-    "Aothir/Planes/Aothir Planar Universe.md",
-    "D&D 5e/Planes/Inner Planes/Material Plane.md",
-    "Aothir/Merchants/Alchemists/Alchemist Stores.md",
     "Aothir/Untitled",
-    "R'ellanthas/Factions/The Silent Ledger.md",
     "R'ellanthas/Characters/Tarador/Dor-Gairn",
     "R'ellanthas/Characters/Tarador",
     "R'ellanthas/Characters/Alornis",

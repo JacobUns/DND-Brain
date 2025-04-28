@@ -1,6 +1,7 @@
 ---
 tags:
   - sessionnote
+  - combat
 session date: 2024-10-06
 session location:
   - "[[Kalvanen]]"

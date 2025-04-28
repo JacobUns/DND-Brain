@@ -9,9 +9,9 @@
 #### Major Cities
 - [[Brava]]
 - [[Cape Point]]
-- [[Felthris]]
+- [[Felris]]
 - [[Redwin]]
-- [[Triop]]
+- [[Trione]]
 ### Towns
 - [[Grim's End]]
 - [[Othlio]]
@@ -23,6 +23,10 @@
 - [[Corwell]]
 - [[Felwin]]
 - [[Elistor]]
+### Forests
+- Larkwood
+- The Shadowed Grove
+- 
 ### Important Landmarks
 - [[Candlekeep]]
 - 

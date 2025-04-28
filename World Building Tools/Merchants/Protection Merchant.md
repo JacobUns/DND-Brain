@@ -1,0 +1,1 @@
+Casts Warding on locations and things regularly, alarms doors and windows, and maintains magical protection enchantments on vaults, banks and other such locations of high importance.

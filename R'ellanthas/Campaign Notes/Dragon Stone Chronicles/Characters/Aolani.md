@@ -21,9 +21,10 @@ To become an [[Ashen Confessors|Ashen Confessor]], Ao must complete his [[Ashen 
 ### Side Quest - Deliver the "Starry Night" painting to [[The Silent Ledger]]
 [[#Howie]] has approached Ao telling him the job being requested by the boss is to steal a painting by an artist called [[Eshin Himed]] that is being sold at the [[Kalvanen#Herquens Auction House|Auction House]] in the coming weeks.
 - ~~Steal the Starry Night painting from the Auction House~~
-- Return it to the thieves guild
+- ~~Return it to the thieves guild~~
 #### Optional Path
-- As payment for procuring the painting from the auction house, [[Duchess Cho Nuvrin|Duchess Cho]] has requested the group kill the head of [[The Silent Ledger]], [[Veylen Kaelthorne|Veylen Kaelthorne]].
+- ~~As payment for procuring the painting from the auction house, [[Duchess Cho Nuvrin|Duchess Cho]] has requested the group kill the head of [[The Silent Ledger]], [[Veylen Kaelthorne|Veylen Kaelthorne]].~~
+- Return to [[Duchess Cho Nuvrin|Cho]]
 ### Main Quest - Investigate the coup in the [[Kingdom of Kalvanen|Kalvanen Nobility]]
 [[Duchess Cho Nuvrin|Duchess Cho]] has uncovered information that implies some of the nobility are planning a coup against [[King Caladeth Kalvanen|King Kalvanen]]. 
 - ~~Investigate reports of a strange man in [[Rupgen]]~~
