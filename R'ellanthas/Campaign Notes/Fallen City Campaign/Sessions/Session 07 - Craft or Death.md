@@ -12,7 +12,7 @@ Ring of Free Action - Taken by [[Oh, Air Genasi|Oh]]
 Ring of Protection
 Ring of the Ram
 Ring of Feather Falling
-Ring of Invisibility - Taken by [[Maria Ravenloft|Maria]]
+Ring of Invisibility - Taken by [[Maria Ravencroft|Maria]]
 Wildfire Ring - Taken by [[Kayn, Light's Bane|Kayn]]
 
 Telekinetic Crown - Circle of Red Crystal - Front has a large gleaming sapphire.
@@ -25,4 +25,4 @@ Wearing the garb of the [[Dwarven Ringsmiths|Ringwright]], a Dwarven ethereal fi
 
 [[Gulnur, the Ringwright|Gulnur]] tells [[Kayn, Light's Bane|Kayn]] that he must prove his ability is of a high enough standard to access the books, or [[Gulnur, the Ringwright|Gulnur]] would kill him for intruding on the secret knowledge. [[Kayn, Light's Bane|Kayn]] manages to persuade [[Gulnur, the Ringwright|Gulnur]] that he has the ability to do so, but that he doesn't have any of it with him currently and so can't show [[Gulnur, the Ringwright|Gulnur]] his craftsmanship. After a quick bit of cunning, [[Kayn, Light's Bane|Kayn]] persuades [[Gulnur, the Ringwright|Gulnur]] to let him craft something for [[Gulnur, the Ringwright|Gulnur]] with his guidance.
 
-The group settle down for the night and prepare themselves for the day ahead. In the morning, and after preparing themselves accordingly, they hear the pounding on the door. Magdal sets up a glyph of warding near the door, while the remaining dwarves, [[Oh, Air Genasi|Oh]] and [[Maria Ravenloft|Maria]] all hide around the edges of the [[The Citadel of the Ringsmiths|citadel]] entrance while [[Kayn, Light's Bane|Kayn]] decides to stand in the open, on a mound of rubble, acting as bait.
+The group settle down for the night and prepare themselves for the day ahead. In the morning, and after preparing themselves accordingly, they hear the pounding on the door. Magdal sets up a glyph of warding near the door, while the remaining dwarves, [[Oh, Air Genasi|Oh]] and [[Maria Ravencroft|Maria]] all hide around the edges of the [[The Citadel of the Ringsmiths|citadel]] entrance while [[Kayn, Light's Bane|Kayn]] decides to stand in the open, on a mound of rubble, acting as bait.

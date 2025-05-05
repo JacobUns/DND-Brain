@@ -19,10 +19,12 @@
 - [[Session 11 - Off the rails]]
 - [[Session 12 - Something skittering this way comes]]
 - [[Session 13 - Once more into the breach dear friends]]
+- [[Session 14 - Out Numbered]]
+- [[Session 15 - Magic and Mite]]
 # Characters
 ## Player Characters
 [[Kayn, Light's Bane|Kayn]] - Jacob
-[[Maria Ravenloft|Maria]] - Chris
+[[Maria Ravencroft|Maria]] - Chris
 [[Oh, Air Genasi|Oh]] - Steve
 ## NPCs
 [[King Barmus Beruck]]

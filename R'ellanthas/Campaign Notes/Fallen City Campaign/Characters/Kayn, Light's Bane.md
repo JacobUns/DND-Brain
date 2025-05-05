@@ -78,7 +78,7 @@ Slightly under average height for a human, his stature speaks to one who's nimbl
 
 ### Adventurers
 [[Oh, Air Genasi]] - Sorcerer
-[[Maria Ravenloft]] - Paladin
+[[Maria Ravencroft]] - Paladin
 ### Dwarves
 [[Tassora]]
 [[Amnur & Beldren]]
