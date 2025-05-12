@@ -21,6 +21,8 @@
 - [[Session 13 - Once more into the breach dear friends]]
 - [[Session 14 - Out Numbered]]
 - [[Session 15 - Magic and Mite]]
+- [[Session 16 - Fall of the Mite-y]]
+- [[Session 17 - An explosive entry]]
 # Characters
 ## Player Characters
 [[Kayn, Light's Bane|Kayn]] - Jacob
