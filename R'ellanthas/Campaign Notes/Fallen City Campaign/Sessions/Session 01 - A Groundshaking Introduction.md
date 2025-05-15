@@ -4,11 +4,11 @@ tags:
 ---
 Game starts at [[Liashton]] sitting in the middle of the [[Lake Liash]] near the dwarven city of [[Bal Toruhm]], the great city.
 
-[[Maria Ravenloft|Maria]] and [[Kayn, Light's Bane|Kayn]] Travelling through the [[Enlightened Kingdom]] come to the entry to the town across a wooden bridge that sways with the water. Loose guard of town watch at the arched ceremonial gates to the town.
+[[Maria Ravencroft|Maria]] and [[Kayn, Light's Bane|Kayn]] Travelling through the [[Enlightened Kingdom]] come to the entry to the town across a wooden bridge that sways with the water. Loose guard of town watch at the arched ceremonial gates to the town.
 
-[[Oh, Air Genasi|Oh]] & [[Maria Ravenloft|Maria]], late teens
+[[Oh, Air Genasi|Oh]] & [[Maria Ravencroft|Maria]], late teens
 [[Oh, Air Genasi|Oh]] - Blue Genasi, moves purposeful and graceful
-[[Maria Ravenloft|Maria]] - Human in large and loose fitting armour
+[[Maria Ravencroft|Maria]] - Human in large and loose fitting armour
 
 [[Oh, Air Genasi|Oh]] had been waiting at the gates for a couple of days
 
@@ -16,7 +16,7 @@ Head towards the centre to find a nice joint for the area called [[Liashton#The 
 
 Barmaid gives information about [[Oh, Air Genasi|Oh]] after a silver bribe. Seems to think she's of some importance. Never seems short of coin.
 
-[[Maria Ravenloft|Maria]] is from Ravenfarm, south of the [[Enlightened Empire]].
+[[Maria Ravencroft|Maria]] is from Ravenfarm, south of the [[Enlightened Empire]].
 
 [[Oh, Air Genasi|Oh]]'s premonition is that of the continuation of a calamity. [[Pantheon of R'Ellanthas#The Sovereign Host|The Sovereign Host]] has provided visions of the [[Lake Liash]], the town of [[Liashton]], and our entry into her story. The calamity then starts shortly after. [[Oh, Air Genasi|Oh]]'s vision never takes place inside the town.
 
@@ -30,11 +30,11 @@ Sheep being pulled towards
 
 Approach the three dwarves, two doing the hard work. Another, with a really long platted beard and decorated with gold and silver jewellery woven in. Baled, old dwarf. The other two, one male one potentially female, are younger.
 
-[[Maria Ravenloft|Maria]]'s armour is her father's which she's inherited. Dwarf pays with a dwarven silver coin, clearly marked as such.
+[[Maria Ravencroft|Maria]]'s armour is her father's which she's inherited. Dwarf pays with a dwarven silver coin, clearly marked as such.
 
-Bone rattling explosion rips through the town as the mountain a couple of miles away, as the top of the mountain disappears in a tower of ash. Rocks and boulders starts to pelt the town, with [[Oh, Air Genasi|Oh]] and [[Kayn, Light's Bane|Kayn]] realising what's going on while [[Maria Ravenloft|Maria]] is taken by surprise.
+Bone rattling explosion rips through the town as the mountain a couple of miles away, as the top of the mountain disappears in a tower of ash. Rocks and boulders starts to pelt the town, with [[Oh, Air Genasi|Oh]] and [[Kayn, Light's Bane|Kayn]] realising what's going on while [[Maria Ravencroft|Maria]] is taken by surprise.
 
-A fine mist of dusty starts to obscure our vision within the town as we run through the city, being pelted with rock. The city is in disarray, paths missing from destruction, people covered in dust and ash. An eery silence starts to descend upon the town. [[Maria Ravenloft|Maria]] runs to help those that are injured, [[Oh, Air Genasi|Oh]] starts cleaning people off and providing them clean water. The dwarf starts to help with the triage while [[Oh, Air Genasi|Oh]] discusses.
+A fine mist of dusty starts to obscure our vision within the town as we run through the city, being pelted with rock. The city is in disarray, paths missing from destruction, people covered in dust and ash. An eery silence starts to descend upon the town. [[Maria Ravencroft|Maria]] runs to help those that are injured, [[Oh, Air Genasi|Oh]] starts cleaning people off and providing them clean water. The dwarf starts to help with the triage while [[Oh, Air Genasi|Oh]] discusses.
 
 Dwarves have been in battle for hundreds or thousands of years. Some have had enough and have left to the surface. The under-dwarves new city, [[Gomlodir]].
 

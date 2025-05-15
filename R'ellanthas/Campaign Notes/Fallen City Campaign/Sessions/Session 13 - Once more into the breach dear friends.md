@@ -4,7 +4,7 @@ tags:
   - combat
 session date: 2025-03-03
 ---
-The [[Hoarders]] engage the group, and after an initial massive burst of damage from a fireball, they are quickly dispatched by [[Maria Ravenloft|Maria]]'s radiant strikes.
+The [[Hoarders]] engage the group, and after an initial massive burst of damage from a fireball, they are quickly dispatched by [[Maria Ravencroft|Maria]]'s radiant strikes.
 
 **Loot**:
 Vial of acid
@@ -19,7 +19,7 @@ After investigating the key, with a 24 investigation check, [[Kayn, Light's Bane
 
 Travel Check
 [[Kayn, Light's Bane|Kayn]] uses ***Arcana*** to connect with the leylines of magic and scout for magical threats- 15 #travelcheck 
-[[Maria Ravenloft|Maria]] uses ***Deception*** to try and find a place to hide the group - 13 #travelcheck 
+[[Maria Ravencroft|Maria]] uses ***Deception*** to try and find a place to hide the group - 13 #travelcheck 
 [[Oh, Air Genasi|Oh]] uses ***Religion*** to try and commune with the gods for guidance - 24 #travelcheck 
 
 Finding our way back to the crossroads we manage to find another residential area. Within the densely packed houses we find somewhere that's safe in them and having a good vantage point for watches. The group rests, and the sleep goes by without any events. After a period of travel through the residential area we find another crossroads. We choose to go towards the Western Gate.
@@ -31,10 +31,10 @@ Uppers
 
 [[Kayn, Light's Bane|Kayn]] uses ***Acrobatics*** to avoid tripping on any debris along the way - 14 #travelcheck 
 [[Oh, Air Genasi|Oh]] uses ***Arcana*** to connect with pure magical essence - 12 #travelcheck 
-[[Maria Ravenloft|Maria]] uses ***Performance*** to pretend to be an experienced paladin on their adventure - 18 #travelcheck 
+[[Maria Ravencroft|Maria]] uses ***Performance*** to pretend to be an experienced paladin on their adventure - 18 #travelcheck 
 
 The road ahead is covered in corpses. They're piled up and it's a terrifying visual of the war. The chamber we reach is a vaulted open space. Trolls, Orcs and other creatures of the deep along with dwarves scatter the equivalent of an open space.
 
 The morning's travel is relatively uneventful. We hear sounds of movement around us but nothing intrudes or intervenes on our travel. Eventually we reach a large corridor ornately decorated. Lots of other pathways appear to converge on this and ultimately connects to a massive corridor. The corridor is wide enough to be able to accommodate a parade of fully armoured dwarves. Continuing on we reach a grand room and can hear the sounds of battle ahead. Heading forwards carefully, the sounds of battle grow and we catch sight of goblins using a column for cover and firing on something. Braziers burn next to a massive gate and are being held at bay by a group of dwarves with crossbows and a ballista.
 
-After [[Maria Ravenloft|Maria]] runs at the group of goblins behind the column she alerts them to our presence, which [[Kayn, Light's Bane|Kayn]] quickly follows up with his own failed attack. After a quick confrontation with the five goblins the group reconvenes behind the column. [[Kayn, Light's Bane|Kayn]] fires over a fireball at the goblins, trolls and humanoid goblins.
+After [[Maria Ravencroft|Maria]] runs at the group of goblins behind the column she alerts them to our presence, which [[Kayn, Light's Bane|Kayn]] quickly follows up with his own failed attack. After a quick confrontation with the five goblins the group reconvenes behind the column. [[Kayn, Light's Bane|Kayn]] fires over a fireball at the goblins, trolls and humanoid goblins.

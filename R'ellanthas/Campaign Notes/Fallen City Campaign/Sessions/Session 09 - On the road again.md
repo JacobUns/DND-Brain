@@ -35,9 +35,9 @@ The connection road is almost a dead straight road between east and west. They h
 
 [[Oh, Air Genasi|Oh]] asks the gods whether the west gate is open on the Great Road between West and East. Woe response.
 
-They lead the way out of the [[The Citadel of the Ringsmiths|Citadel]] from the secret path in the library. It's a long snaking path with no other exits. It leads to a stone door at the end with the dwarves listen against before pulling it open. It leads to a two-dwarf wide tunnel. Left takes us back to the [[The Citadel of the Ringsmiths|citadel]], right goes deeper. We go right, with [[Oh, Air Genasi|Oh]] casting twinned Darkvision on [[Kayn, Light's Bane|Kayn]] and [[Maria Ravenloft|Maria]]. 
+They lead the way out of the [[The Citadel of the Ringsmiths|Citadel]] from the secret path in the library. It's a long snaking path with no other exits. It leads to a stone door at the end with the dwarves listen against before pulling it open. It leads to a two-dwarf wide tunnel. Left takes us back to the [[The Citadel of the Ringsmiths|citadel]], right goes deeper. We go right, with [[Oh, Air Genasi|Oh]] casting twinned Darkvision on [[Kayn, Light's Bane|Kayn]] and [[Maria Ravencroft|Maria]]. 
 
-[[Maria Ravenloft|Maria]] uses ***Animal Handling*** on Nix to help her look out for any dangers - 23 #travelcheck
+[[Maria Ravencroft|Maria]] uses ***Animal Handling*** on Nix to help her look out for any dangers - 23 #travelcheck
 [[Kayn, Light's Bane|Kayn]] uses ***Investigation*** to lookout for any homemade Goblin traps - 22 #travelcheck
 [[Oh, Air Genasi|Oh]] uses ***Performance*** to pretend she knows what's she's doing with confidence - 7 #travelcheck 
 
@@ -45,10 +45,10 @@ Along the way, reliefs of dwarven figures carved in stone line the halls. Some h
 
 [[Amnur & Beldren]] take their opportunity at this point to leave us to our travels.
 
-[[Maria Ravenloft|Maria]] uses ***Religion*** to seek guidance from the gods - 10 #travelcheck 
+[[Maria Ravencroft|Maria]] uses ***Religion*** to seek guidance from the gods - 10 #travelcheck 
 [[Oh, Air Genasi|Oh]] uses ***Survival*** to continue trying and act confidently - 3 #travelcheck 
 [[Kayn, Light's Bane|Kayn]] uses ***Stealth*** to keep the group quite in their travels - 18 #travelcheck 
 
 Through the difficulties of travel, we eventually reach a residential area. It seems pretty ancient in its construction and appearance. Residences surround a 3-story building in the middle of the area with a water feature. [[Kayn, Light's Bane|Kayn]] sends Nix out to flyby the house and see whether she can see more. Inside, the she sees a large green creature wearing some kind of armour, solid mail, shield and weapon. We assume its an Orc with some Goblins in the house.
 
-The group dispatch the goblins and orc. Searching the orc, he has 10gp and has a piece of parchment with the following message, "Brog, take some Spinecleavers and go to The Butchers Mansion and hold the path. Dohma". The group decides to search the building and find something that appears to be a goblin den. Any furniture or artwork has been smashed and destroyed, and it appears to have been completely pillaged and overrun. On the second floor, [[Maria Ravenloft|Maria]] finds a crudely drawn map on the wall. It depicts a main tunnel, with 3 tunnels that leave the main tunnel. On the end of the first tunnel is a depiction of what appears to be the butchers mansion. On the other end of the tunnel is a quiggly tunnel that goes down to a circular chamber. The circular chamber has an arrow pointing to it with the initials "DR".
+The group dispatch the goblins and orc. Searching the orc, he has 10gp and has a piece of parchment with the following message, "Brog, take some Spinecleavers and go to The Butchers Mansion and hold the path. Dohma". The group decides to search the building and find something that appears to be a goblin den. Any furniture or artwork has been smashed and destroyed, and it appears to have been completely pillaged and overrun. On the second floor, [[Maria Ravencroft|Maria]] finds a crudely drawn map on the wall. It depicts a main tunnel, with 3 tunnels that leave the main tunnel. On the end of the first tunnel is a depiction of what appears to be the butchers mansion. On the other end of the tunnel is a quiggly tunnel that goes down to a circular chamber. The circular chamber has an arrow pointing to it with the initials "DR".

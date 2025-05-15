@@ -10,7 +10,7 @@ The men identify as [[hoarders]] though they don't like the name, and go by the 
 
 Gold coin with a rough female figure wearing a fancy hat is the symbol of the [[hoarders]]. It's the visage of what is believed to be the Hoarder Queen, but no one's seen her to know if it's correct. Its branded on their arm and would have been what the dwarves were looking when we found [[Tassora]]'s band.
 
-Deep 2 is an outpost for the [[hoarders]], and if someone wants to join then they can be found a half day's travel from our current position. [[Kayn, Light's Bane|Kayn]] threatens them one final time, and they decide to take their chances. Battle ensues, with the group floundering slightly and the [[hoarders]] getting a few hits in. The two are killed, with Brif's head being exploded with light by [[Maria Ravenloft|Maria]].
+Deep 2 is an outpost for the [[hoarders]], and if someone wants to join then they can be found a half day's travel from our current position. [[Kayn, Light's Bane|Kayn]] threatens them one final time, and they decide to take their chances. Battle ensues, with the group floundering slightly and the [[hoarders]] getting a few hits in. The two are killed, with Brif's head being exploded with light by [[Maria Ravencroft|Maria]].
 
 The two have on them:
 2x Goggles of Night - Kayn & Maria
@@ -32,4 +32,4 @@ The group agree to set up camp for a night and to follow the left path to find a
 
 Message [[Tassora]], she has heard of [[Dohma Rashkovar|Dohma]]. He's an orc that heads up the area of the goblin's territory. She's sending [[Amnur & Beldren]] to scout. If we carried on down the dwarven tunnel, we would likely assume we're in Deep 1. Before we sleep, [[Oh, Air Genasi|Oh]] communes with the gods and asks whether if we continue down the dwarven path whether we'd reach the eastern side of the city. The gods give a neutral response, which we interpret to mean that it may or may not be able to access the path, but probably not from this specific corridor.
 
-The group hunker down in one of the side rooms for a long rest. [[Maria Ravenloft|Maria]] takes the first watch, [[Kayn, Light's Bane|Kayn]] the second and [[Oh, Air Genasi|Oh]] the third. On [[Oh, Air Genasi|Oh]]'s watch, goblins are heard coming down path. Lots of feet pass by the corridor towards the goblin village without investigating the room as the group sleeps.
+The group hunker down in one of the side rooms for a long rest. [[Maria Ravencroft|Maria]] takes the first watch, [[Kayn, Light's Bane|Kayn]] the second and [[Oh, Air Genasi|Oh]] the third. On [[Oh, Air Genasi|Oh]]'s watch, goblins are heard coming down path. Lots of feet pass by the corridor towards the goblin village without investigating the room as the group sleeps.
