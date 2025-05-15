@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building Tools/Merchants/Protection Merchant.md",
+                "file": "Aothir/Continents/Eryndra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protection Merchant"
+              "title": "Eryndra"
             }
           },
           {
@@ -27,26 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Locations/Bal Toruhm/Bal Toruhm.md",
+                "file": "Aothir/Campaign Ideas/Quest Line Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bal Toruhm"
+              "title": "Quest Line Ideas"
             }
           },
           {
-            "id": "47aa77ba522f0a25",
+            "id": "725d5137c33cebba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ral Mosshine.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ral Mosshine"
+              "title": "Kayn, Light's Bane"
+            }
+          },
+          {
+            "id": "696dc499d055b8ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aothir/NPC Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NPC Ideas"
             }
           }
         ],
@@ -73,7 +87,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -133,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Locations/Bal Toruhm/Bal Toruhm.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bal Toruhm"
+              "title": "Backlinks for Aolani"
             }
           },
           {
@@ -152,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Locations/Bal Toruhm/Bal Toruhm.md",
+                "file": "Aothir/Campaign Ideas/Quest Line Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bal Toruhm"
+              "title": "Outgoing links from Quest Line Ideas"
             }
           },
           {
@@ -179,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Locations/Bal Toruhm/Bal Toruhm.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bal Toruhm"
+              "title": "Outline of Aolani"
             }
           },
           {
@@ -224,10 +238,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
@@ -236,35 +250,36 @@
   },
   "active": "dd2fceb2f11792d1",
   "lastOpenFiles": [
+    "Aothir/NPCs/Vessa Thornbite.md",
+    "Aothir/Campaign Ideas/Quest Line Ideas.md",
+    "Aothir/NPCs",
+    "Aothir/Games of Chance/Dragonchess.md",
+    "Aothir/Games of Chance/Hand of Fate.md",
+    "Aothir/Games of Chance/Liar's Dice.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
+    "Aothir/NPC Ideas.md",
+    "Aothir/Games of Chance",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Dwarven Ringsmiths.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Hoarders.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/R'Ellanthas - A Fallen City Campaign.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 15 - Magic and Mite.md",
+    "Ral Mosshine.md",
+    "Aothir/Continents/Eryndra.md",
+    "World Building Tools/Merchants/Protection Merchant.md",
+    "R'ellanthas/Locations/Bal Toruhm/Bal Toruhm.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 02 - Miserable Minions and Deep Delving.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01 - A Groundshaking Introduction.md",
-    "R'ellanthas/Locations/Bal Toruhm/Bal Toruhm.md",
     "World Building Tools/Ekistics.md",
-    "Aothir/Continents/Eryndra.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 15 - Magic and Mite.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 14 - Out Numbered.md",
-    "World Building Tools/Merchants/Protection Merchant.md",
     "World Building Tools/Merchants/Alchemists.md",
     "Aothir/World To Do.md",
     "Aothir/Scales of Economy.md",
-    "Aothir/Merchants/Magic/Magic Stores.md",
-    "Aothir/Religious Orders/Order of Light/Order of Light.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 - A guild defanged.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Tiscordin.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Seraphina.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Lumen Keijo.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Borin Ironfist.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
-    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Brezek.md",
-    "R'ellanthas/Religion/Pantheon Members/The Dark Six/Melorkis, The Shadow.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Mirakian.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Milanalin.md",
     "Aothir/Continents/Eryndra",
     "Aothir/Factions/Guilds/Adventuring",
-    "Aothir/Untitled",
     "R'ellanthas/Characters/Tarador/Dor-Gairn",
     "R'ellanthas/Characters/Tarador",
     "R'ellanthas/Characters/Alornis",
@@ -281,7 +296,6 @@
     "R'ellanthas/Locations/Enlightened Empire/Images/Tower of Light.png",
     "R'ellanthas/Locations/Enlightened Empire/Images/magicstudio-art-6.jpg",
     "R'ellanthas/Locations/Enlightened Empire/Images/The Great Library.png",
-    "R'ellanthas/Locations/Enlightened Empire/Images",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",

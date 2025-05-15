@@ -112,3 +112,28 @@ Slightly under average height for a human, his stature speaks to one who's nimbl
 - Jishin, Earth Render ()
 - Kitsune Mask ()
 - Mask of the Oni ()
+## Homebrew Books
+### Falko's Vault of Wonders
+- Drakeshield - p.20 - Armour
+	- Very Rare
+	- Master Crafted Studded Leather (+2 AC)
+	- Wrym Breath - Once per day breath attack, 15ft cone, 4d6 Fire, 15DC half on fail
+	- Inferno Hide - Immunity to Fire
+- Arcane Duelist - p.35 - Crown
+	- Very Rare
+	- Requires Attunement
+	- +2 AC when being targeted by a spell
+	- When you save against a spell, you may use a reaction to cast the spell back at the caster
+	- Once per day, as a free action, you may cast the Counterspell spell
+- Escapist - p.38 - Belt
+	- Very Rare
+	- Requires Attunement
+	- Disguise self at will
+	- Once per combat, as bonus action, case mirror image
+	- +2 Charisma
+- Ring of Elemental Mastery p.87 - Ring
+	- Legendary
+	- Requires Attunement
+	- Once per day, as an action, you may cast Control Weather, Earthquake, Fire Storm, or Tsunami. When one of these spells are cast, you lose the ability to cast it again until all four spells have been cast.
+	- Resistance to cold, fire, lightning and acid
+	- +2 Strength, Dexterity, Constitution & Wisdom

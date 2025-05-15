@@ -1,0 +1,2 @@
+- High Charisma NPC that carries with him the "Liar's Dice" from p.67 of Falko's Vault of Wonders. He is considered a master at dice games, and can be found in casinos or taverns hustling people out of their money. He knows almost all dice games and though he has been known to lose, he doesn't lose often.
+- 

@@ -82,8 +82,12 @@ Necklace of Prayer Beads - Requires Attunement
 Devotee's Censor - Requires Attunement
 Ring of Spellstoring - Requires Attunement
 Duskcrusher - Requires Attunement
+Lifegiver - Ring - p.28 Falko's Vault of Wonders
 ## Very Rare
 Tome of Understanding
+Haechi's Guard - Splint Mail - p.24 Falko's Vault of Wonders
+
 ## Artifact
 Book of Exalted Deeds
 [Armour of the Valiant Soul](https://www.dndbeyond.com/magic-items/7170909-armor-of-the-valiant-soul) - Requires Attunement
+Kalnon - Half Plate - p.112 Falko's Vault of Wonders
