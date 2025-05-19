@@ -1,6 +1,7 @@
 ---
 tags:
   - npc
+  - questgiver
 aliases:
   - Vessa
 ---

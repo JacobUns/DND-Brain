@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Campaign Ideas/Quest Line Ideas.md",
+                "file": "Aothir/NPCs/Vessa Thornbite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quest Line Ideas"
+              "title": "Vessa Thornbite"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aothir/Campaign Ideas/Quest Line Ideas.md",
+                "file": "Aothir/NPCs/Vessa Thornbite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quest Line Ideas"
+              "title": "Outgoing links from Vessa Thornbite"
             }
           },
           {
@@ -248,14 +248,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "0a6f9b665ede3b7a",
+  "active": "dd2fceb2f11792d1",
   "lastOpenFiles": [
+    "Aothir/NPCs/Jezia Luth.md",
+    "Aothir/Campaign Ideas/Quest Line Ideas.md",
     "R'ellanthas/Locations/Bal Toruhm/Hall of the Road Warden.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 17 - An explosive entry.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 16 - Fall of the Mite-y.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Maria Ravencroft.md",
     "Aothir/NPCs/Vessa Thornbite.md",
-    "Aothir/Campaign Ideas/Quest Line Ideas.md",
     "Aothir/NPCs",
     "Aothir/Games of Chance/Dragonchess.md",
     "Aothir/Games of Chance/Hand of Fate.md",
@@ -277,7 +278,6 @@
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 02 - Miserable Minions and Deep Delving.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01 - A Groundshaking Introduction.md",
-    "World Building Tools/Ekistics.md",
     "Aothir/Continents/Eryndra",
     "Aothir/Factions/Guilds/Adventuring",
     "R'ellanthas/Characters/Tarador/Dor-Gairn",
