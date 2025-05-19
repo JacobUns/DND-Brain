@@ -21,3 +21,10 @@ The orc in front of the staircase attempts to grapple [[Kayn, Light's Bane|Kayn]
 Staff of the Road Warden - Said to be able to control the hidden passageways and doors within the city. A pretty large chest sits next to the throne, its contents to be identified after our rest. We bar the doors and keep watch over night while we rest.
 
 Staff of the Road Warden - Oh
+2200 gold pieces
+110 platinum pieces
+Stone Salt Seller - 25gp
+Fine Leather coin purse trimmed with fox fur - 25gp
+Dust of Disappearance - Oh
+Oil of Slipperiness - Kayn
+Potion of Fire Breath - Oh

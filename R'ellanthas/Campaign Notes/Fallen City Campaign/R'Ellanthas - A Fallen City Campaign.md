@@ -23,6 +23,7 @@
 - [[Session 15 - Magic and Mite]]
 - [[Session 16 - Fall of the Mite-y]]
 - [[Session 17 - An explosive entry]]
+- [[Session 18 - Father of Dwarves]]
 # Characters
 ## Player Characters
 [[Kayn, Light's Bane|Kayn]] - Jacob
