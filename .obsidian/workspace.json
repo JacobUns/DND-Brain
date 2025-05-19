@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 17 - An explosive entry.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 18 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 17 - An explosive entry"
-            }
-          },
-          {
-            "id": "dd2fceb2f11792d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aothir/NPCs/Vessa Thornbite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vessa Thornbite"
-            }
-          },
-          {
-            "id": "725d5137c33cebba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kayn, Light's Bane"
-            }
-          },
-          {
-            "id": "696dc499d055b8ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aothir/NPC Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NPC Ideas"
+              "title": "Session 18 -"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +44,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -131,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 342.5
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -147,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01 - A Groundshaking Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aolani"
+              "title": "Backlinks for Session 01 - A Groundshaking Introduction"
             }
           },
           {
@@ -166,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 17 - An explosive entry.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 18 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 17 - An explosive entry"
+              "title": "Outgoing links from Session 18 -"
             }
           },
           {
@@ -193,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+                "file": "Aothir/Continents/Eryndra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aolani"
+              "title": "Outline of Eryndra"
             }
           },
           {
@@ -234,40 +191,41 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "dd2fceb2f11792d1",
+  "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/R'Ellanthas - A Fallen City Campaign.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 17 - An explosive entry.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 16 - Fall of the Mite-y.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Maria Ravencroft.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 18 -.md",
     "Aothir/NPCs/Vessa Thornbite.md",
+    "Aothir/NPCs/Jezia Luth.md",
     "Aothir/NPCs",
-    "Aothir/Games of Chance/Dragonchess.md",
-    "Aothir/Games of Chance/Hand of Fate.md",
-    "Aothir/Games of Chance/Liar's Dice.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
     "Aothir/NPC Ideas.md",
+    "Aothir/Games of Chance/Dragonchess.md",
+    "Aothir/Games of Chance/Liar's Dice.md",
+    "Aothir/Games of Chance/Hand of Fate.md",
     "Aothir/Games of Chance",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Dwarven Ringsmiths.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Hoarders.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/R'Ellanthas - A Fallen City Campaign.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 - A guild defanged.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 06 - The roots run deep.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Elaran.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 16 - Fall of the Mite-y.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
+    "World Building Tools/Ekistics.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 15 - Magic and Mite.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Maria Ravencroft.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 14 - Out Numbered.md",
@@ -277,10 +235,9 @@
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 13 - Once more into the breach dear friends.md",
     "R'ellanthas/Locations/Bal Toruhm/Hall of the Road Warden.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 02 - Miserable Minions and Deep Delving.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01 - A Groundshaking Introduction.md",
     "Aothir/Continents/Eryndra",
     "Aothir/Factions/Guilds/Adventuring",
+    "Aothir/Untitled",
     "R'ellanthas/Characters/Tarador/Dor-Gairn",
     "R'ellanthas/Characters/Tarador",
     "R'ellanthas/Characters/Alornis",
@@ -292,7 +249,6 @@
     "R'ellanthas/Factions/Dor-Gairn/Images/Couatl Helm.png",
     "R'ellanthas/Factions/Dor-Gairn/Images/Couatl Armour.png",
     "R'ellanthas/Factions/Dor-Gairn",
-    "R'ellanthas/Locations/Free Cities/Images",
     "R'ellanthas/Locations/Free Cities/Images/Dor-Gairn City.png",
     "R'ellanthas/Locations/Enlightened Empire/Images/Tower of Light.png",
     "R'ellanthas/Locations/Enlightened Empire/Images/magicstudio-art-6.jpg",
