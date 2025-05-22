@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 18 - Father of Dwarves.md",
+                "file": "Aothir/Continents/Eryndra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 18 - Father of Dwarves"
+              "title": "Eryndra"
+            }
+          },
+          {
+            "id": "dd2fceb2f11792d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building Tools/Taverns/The Anvil's Lyre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Anvil's Lyre"
+            }
+          },
+          {
+            "id": "725d5137c33cebba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kayn, Light's Bane"
+            }
+          },
+          {
+            "id": "696dc499d055b8ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aothir/NPC Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NPC Ideas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +87,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -88,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 307.5
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -104,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01 - A Groundshaking Introduction.md",
+                "file": "World Building Tools/Taverns/The Anvil's Lyre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 01 - A Groundshaking Introduction"
+              "title": "Backlinks for The Anvil's Lyre"
             }
           },
           {
@@ -123,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 18 - Father of Dwarves.md",
+                "file": "World Building Tools/Taverns/The Anvil's Lyre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 18 - Father of Dwarves"
+              "title": "Outgoing links from The Anvil's Lyre"
             }
           },
           {
@@ -150,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aothir/Continents/Eryndra.md",
+                "file": "World Building Tools/Taverns/The Anvil's Lyre.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eryndra"
+              "title": "Outline of The Anvil's Lyre"
             }
           },
           {
@@ -191,53 +234,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ad13a31820dc0bc4",
+  "active": "0a6f9b665ede3b7a",
   "lastOpenFiles": [
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/R'Ellanthas - A Fallen City Campaign.md",
+    "World Building Tools/Taverns/Images/The Anvil's Lyre.png",
+    "World Building Tools/Taverns/Taverns of Skill and Artistry.md",
+    "World Building Tools/Taverns/The Anvil's Lyre.md",
+    "World Building Tools/Taverns/The Painted Flagon.md",
+    "World Building Tools/Taverns/The Ionian.md",
+    "World Building Tools/Taverns/Images/The Iolian Performance.webp",
+    "World Building Tools/Taverns/Images/The Iolian.webp",
+    "World Building Tools/Taverns/Images/The Painted Flagon.png",
+    "World Building Tools/Taverns/Images",
+    "World Building Tools/Systems of Governance.md",
+    "Aothir/NPCs/Vessa Thornbite.md",
+    "World Building Tools/Taverns",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 18 - Father of Dwarves.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Dwarves/King Barmus Beruck.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 17 - An explosive entry.md",
-    "R'ellanthas/Locations/Bal Toruhm/Bal Toruhm.md",
-    "Aothir/NPCs/Vessa Thornbite.md",
     "Aothir/NPCs/Jezia Luth.md",
-    "Aothir/NPCs",
-    "Aothir/NPC Ideas.md",
-    "Aothir/Games of Chance/Dragonchess.md",
-    "Aothir/Games of Chance/Liar's Dice.md",
-    "Aothir/Games of Chance/Hand of Fate.md",
-    "Aothir/Games of Chance",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 - A guild defanged.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 06 - The roots run deep.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Elaran.md",
+    "Aothir/Campaign Ideas/Quest Line Ideas.md",
+    "R'ellanthas/Locations/Bal Toruhm/Hall of the Road Warden.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 17 - An explosive entry.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 16 - Fall of the Mite-y.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
-    "World Building Tools/Ekistics.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 15 - Magic and Mite.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Maria Ravencroft.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 14 - Out Numbered.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 10 - Aggressive Negotiations.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 11 - Off the rails.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 12 - Something skittering this way comes.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 13 - Once more into the breach dear friends.md",
+    "Aothir/NPCs",
+    "Aothir/Games of Chance/Dragonchess.md",
+    "Aothir/Games of Chance/Hand of Fate.md",
+    "Aothir/Games of Chance/Liar's Dice.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
+    "Aothir/NPC Ideas.md",
+    "Aothir/Games of Chance",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Dwarven Ringsmiths.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Hoarders.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/R'Ellanthas - A Fallen City Campaign.md",
     "Aothir/Continents/Eryndra",
     "Aothir/Factions/Guilds/Adventuring",
-    "Aothir/Untitled",
     "R'ellanthas/Characters/Tarador/Dor-Gairn",
     "R'ellanthas/Characters/Tarador",
     "R'ellanthas/Characters/Alornis",
@@ -248,11 +295,7 @@
     "R'ellanthas/Factions/Dor-Gairn/Images",
     "R'ellanthas/Factions/Dor-Gairn/Images/Couatl Helm.png",
     "R'ellanthas/Factions/Dor-Gairn/Images/Couatl Armour.png",
-    "R'ellanthas/Factions/Dor-Gairn",
     "R'ellanthas/Locations/Free Cities/Images/Dor-Gairn City.png",
-    "R'ellanthas/Locations/Enlightened Empire/Images/Tower of Light.png",
-    "R'ellanthas/Locations/Enlightened Empire/Images/magicstudio-art-6.jpg",
-    "R'ellanthas/Locations/Enlightened Empire/Images/The Great Library.png",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
