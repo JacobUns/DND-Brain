@@ -1,4 +1,4 @@
-![[The Anvil's Lyre.png]]
+![[The Emberwright.png]]
 # The Anvil’s Lyre
 **Type**: Crafting & Artificer’s Showcase  
 **Theme**: Innovation, Artisanship, Magical Design  

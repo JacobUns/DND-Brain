@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building Tools/Taverns/The Anvil's Lyre.md",
+                "file": "World Building Tools/Religion/Clerical Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Anvil's Lyre"
+              "title": "Clerical Structures"
             }
           },
           {
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building Tools/Taverns/The Anvil's Lyre.md",
+                "file": "World Building Tools/Religion/Clerical Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Anvil's Lyre"
+              "title": "Backlinks for Clerical Structures"
             }
           },
           {
@@ -166,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building Tools/Taverns/The Anvil's Lyre.md",
+                "file": "World Building Tools/Religion/Clerical Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Anvil's Lyre"
+              "title": "Outgoing links from Clerical Structures"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building Tools/Taverns/The Anvil's Lyre.md",
+                "file": "World Building Tools/Religion/Clerical Structures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Anvil's Lyre"
+              "title": "Outline of Clerical Structures"
             }
           },
           {
@@ -229,8 +229,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -248,13 +247,23 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "0a6f9b665ede3b7a",
+  "active": "ba4949523c90bf1b",
   "lastOpenFiles": [
-    "World Building Tools/Taverns/Images/The Anvil's Lyre.png",
+    "World Building Tools/Taverns/The Thread and Thorn.md",
+    "World Building Tools/Taverns/Images/Thread and Thorn.png",
     "World Building Tools/Taverns/Taverns of Skill and Artistry.md",
-    "World Building Tools/Taverns/The Anvil's Lyre.md",
+    "World Building Tools/Taverns/The Scroll and Sickle.md",
     "World Building Tools/Taverns/The Painted Flagon.md",
+    "World Building Tools/Taverns/The Mirror's Call.md",
     "World Building Tools/Taverns/The Ionian.md",
+    "Aothir/NPCs/Sammael Astos.md",
+    "World Building Tools/Taverns/Images/Scroll and Sickle.png",
+    "World Building Tools/Taverns/Images/Painted Flagon.png",
+    "May 23, 2025 at 05_46_48 PM.png",
+    "World Building Tools/Taverns/Images/Mirrors Call Bar Side.png",
+    "World Building Tools/Taverns/Images/Mirrors Call Theatre Side.png",
+    "World Building Tools/Taverns/The Emberwright.md",
+    "World Building Tools/Taverns/Images/The Emberwright.png",
     "World Building Tools/Taverns/Images/The Iolian Performance.webp",
     "World Building Tools/Taverns/Images/The Iolian.webp",
     "World Building Tools/Taverns/Images/The Painted Flagon.png",
@@ -279,23 +288,12 @@
     "Aothir/Games of Chance",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Dwarven Ringsmiths.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/Hoarders.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Factions/The Windsinger's Collective.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/R'Ellanthas - A Fallen City Campaign.md",
     "Aothir/Continents/Eryndra",
     "Aothir/Factions/Guilds/Adventuring",
     "R'ellanthas/Characters/Tarador/Dor-Gairn",
     "R'ellanthas/Characters/Tarador",
     "R'ellanthas/Characters/Alornis",
-    "R'ellanthas/Locations/Free Cities/Images/The Sand's Jewel.png",
-    "R'ellanthas/Locations/Free Cities/Images/Temple of Dol Arrah.png",
-    "R'ellanthas/Locations/Free Cities/Images/The Sand's Jewel.jpg",
-    "R'ellanthas/Factions/Dor-Gairn/Images/Sunfire Armour.png",
     "R'ellanthas/Factions/Dor-Gairn/Images",
-    "R'ellanthas/Factions/Dor-Gairn/Images/Couatl Helm.png",
-    "R'ellanthas/Factions/Dor-Gairn/Images/Couatl Armour.png",
-    "R'ellanthas/Locations/Free Cities/Images/Dor-Gairn City.png",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",

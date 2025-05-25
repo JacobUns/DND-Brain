@@ -2,7 +2,7 @@
 tags:
 ---
 ![[The Iolian.webp]]
-# The Ionian
+# About
 **Type**: Bardic Lounge & Storyteller's Guild  
 **Theme**: Song, Storytelling, Poetry, and Lore  
 **Recognition**: **Resonant Pipes** – a magical token storing song, applause and audience esteem. A small set of silver panpipes that can be either worn as a pin, pendant or other adornment.
