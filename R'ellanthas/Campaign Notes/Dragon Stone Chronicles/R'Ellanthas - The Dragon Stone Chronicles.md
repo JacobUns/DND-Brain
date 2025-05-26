@@ -22,12 +22,14 @@ aliases:
 - [[Session 06 - The roots run deep]]
 - [[Session 07 - Finery and Fierce Pursuit]]
 - [[Session 08 - A guild defanged]]
+- [[Session 09 - Here be dragons]]
 # Threads
 ## Subterfuge in the Nobility
 - [ ] Investigate [[Duchess Cho Nuvrin|Duchess Cho]]'s suspicions of a coup among the nobility
 	- [ ] Meet with [[Duchess Cho Nuvrin|Cho]] following the ball
 	- [ ] Destroy the thieves guild for [[Duchess Cho Nuvrin|Lady Cho]]
 		- [x] ~~Kill the Boss of the Thieves Guild in Kalvenen~~
+		- [ ] Report back to [[Duchess Cho Nuvrin|Cho]]
 ## Factions at Work
 - [ ] [[Orphus]] organisation hideout in the [[Kalvanen#Glass Forge|Glass Forge District]]
 - [ ] [[Gemmen Zrayax]] can be found in the [[Nuvrin#Snoring Drum Inn|Snoring Drum Inn]] of the [[Nuvrin#Salt Stair|Salt Stair District]]

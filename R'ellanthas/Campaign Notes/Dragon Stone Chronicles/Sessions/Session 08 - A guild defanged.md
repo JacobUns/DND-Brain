@@ -90,3 +90,4 @@ Potion of Healing x3 - [[Seraphina]]
 
 Fairly large city on the lake in the [[enlightened empire]] called [[Liashton]]. Approximately 4 days walk to [[Elaran|Site E]], but could possibly boat down river to speed up.
 
+Discussions reveals that Tiscordin's patron is the Raven Queen and that Rám

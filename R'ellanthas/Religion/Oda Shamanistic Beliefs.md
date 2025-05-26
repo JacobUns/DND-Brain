@@ -1,0 +1,3 @@
+Spirits
+- Polynesian
+- Animism

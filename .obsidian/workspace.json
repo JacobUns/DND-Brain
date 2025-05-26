@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Continents/Eryndra.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eryndra"
-            }
-          },
-          {
-            "id": "dd2fceb2f11792d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World Building Tools/Religion/Clerical Structures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clerical Structures"
+              "title": "Session 09 - Here be dragons"
             }
           },
           {
@@ -63,8 +49,7 @@
               "title": "NPC Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building Tools/Religion/Clerical Structures.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +142,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clerical Structures"
+              "title": "Backlinks for Session 09 - Here be dragons"
             }
           },
           {
@@ -166,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building Tools/Religion/Clerical Structures.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Clerical Structures"
+              "title": "Outgoing links from Session 09 - Here be dragons"
             }
           },
           {
@@ -193,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building Tools/Religion/Clerical Structures.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Clerical Structures"
+              "title": "Outline of Session 09 - Here be dragons"
             }
           },
           {
@@ -229,7 +214,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,47 +233,48 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "ba4949523c90bf1b",
+  "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
-    "World Building Tools/Taverns/The Thread and Thorn.md",
-    "World Building Tools/Taverns/Images/Thread and Thorn.png",
-    "World Building Tools/Taverns/Taverns of Skill and Artistry.md",
-    "World Building Tools/Taverns/The Scroll and Sickle.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Lumen Keijo.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Enxina.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 - A guild defanged.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 18 - Father of Dwarves.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 01 - Shady dealings.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 02 - Ancient Returns.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 03 - A Titanous Discovery.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 04 - Fishy Cultists.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 06 - The roots run deep.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 05 - Into the Capital.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
     "World Building Tools/Taverns/The Painted Flagon.md",
-    "World Building Tools/Taverns/The Mirror's Call.md",
+    "World Building Tools/Taverns/The Emberwright.md",
     "World Building Tools/Taverns/The Ionian.md",
-    "Aothir/NPCs/Sammael Astos.md",
+    "R'ellanthas/Religion/Oda Shamanistic Beliefs.md",
+    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
+    "Aothir/Continents/Eryndra.md",
+    "World Building Tools/World Building.md",
+    "Welcome Page.md",
+    "World Building Tools/Ekistics.md",
+    "World Building Tools/Countries, Cities and Towns/City Districts.md",
+    "World Building Tools/Countries, Cities and Towns/City Ideation Tools.md",
+    "World Building Tools/Merchants/Protection Merchant.md",
+    "World Building Tools/Merchants/Alchemists.md",
+    "World Building Tools/Taverns/Images/Thread and Thorn.png",
     "World Building Tools/Taverns/Images/Scroll and Sickle.png",
     "World Building Tools/Taverns/Images/Painted Flagon.png",
     "May 23, 2025 at 05_46_48 PM.png",
     "World Building Tools/Taverns/Images/Mirrors Call Bar Side.png",
     "World Building Tools/Taverns/Images/Mirrors Call Theatre Side.png",
-    "World Building Tools/Taverns/The Emberwright.md",
     "World Building Tools/Taverns/Images/The Emberwright.png",
     "World Building Tools/Taverns/Images/The Iolian Performance.webp",
     "World Building Tools/Taverns/Images/The Iolian.webp",
     "World Building Tools/Taverns/Images/The Painted Flagon.png",
     "World Building Tools/Taverns/Images",
-    "World Building Tools/Systems of Governance.md",
-    "Aothir/NPCs/Vessa Thornbite.md",
     "World Building Tools/Taverns",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 18 - Father of Dwarves.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Dwarves/King Barmus Beruck.md",
-    "Aothir/NPCs/Jezia Luth.md",
-    "Aothir/Campaign Ideas/Quest Line Ideas.md",
-    "R'ellanthas/Locations/Bal Toruhm/Hall of the Road Warden.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 17 - An explosive entry.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 16 - Fall of the Mite-y.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Maria Ravencroft.md",
     "Aothir/NPCs",
-    "Aothir/Games of Chance/Dragonchess.md",
-    "Aothir/Games of Chance/Hand of Fate.md",
-    "Aothir/Games of Chance/Liar's Dice.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
-    "Aothir/NPC Ideas.md",
     "Aothir/Games of Chance",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
     "Aothir/Continents/Eryndra",
     "Aothir/Factions/Guilds/Adventuring",
     "R'ellanthas/Characters/Tarador/Dor-Gairn",
