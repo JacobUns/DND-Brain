@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
+                "file": "Aothir/Campaign Ideas/The Price of Sacrifice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 09 - Here be dragons"
+              "title": "The Price of Sacrifice"
             }
           },
           {
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
+                "file": "Aothir/Campaign Ideas/The Price of Sacrifice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 09 - Here be dragons"
+              "title": "Backlinks for The Price of Sacrifice"
             }
           },
           {
@@ -151,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
+                "file": "Aothir/Campaign Ideas/The Price of Sacrifice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 09 - Here be dragons"
+              "title": "Outgoing links from The Price of Sacrifice"
             }
           },
           {
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
+                "file": "Aothir/Campaign Ideas/The Price of Sacrifice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 09 - Here be dragons"
+              "title": "Outline of The Price of Sacrifice"
             }
           },
           {
@@ -215,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -235,8 +235,13 @@
   },
   "active": "ad13a31820dc0bc4",
   "lastOpenFiles": [
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Lumen Keijo.md",
+    "Aothir/Campaign Ideas/Quest Line Ideas.md",
+    "Aothir/Campaign Ideas/The Price of Sacrifice.md",
+    "Aothir/Campaign Ideas/Campaign Beginning Ideas.md",
+    "Aothir/Taverns/Taverns of Skill and Artistry.md",
+    "Aothir/Taverns/The Thread and Thorn.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Lumen Keijo.md",
     "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Enxina.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 - A guild defanged.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 18 - Father of Dwarves.md",
@@ -248,31 +253,26 @@
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 06 - The roots run deep.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 05 - Into the Capital.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
-    "World Building Tools/Taverns/The Painted Flagon.md",
-    "World Building Tools/Taverns/The Emberwright.md",
-    "World Building Tools/Taverns/The Ionian.md",
+    "Aothir/Taverns/The Painted Flagon.md",
+    "Aothir/Taverns/The Emberwright.md",
+    "Aothir/Taverns/The Ionian.md",
     "R'ellanthas/Religion/Oda Shamanistic Beliefs.md",
     "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
     "Aothir/Continents/Eryndra.md",
     "World Building Tools/World Building.md",
     "Welcome Page.md",
-    "World Building Tools/Ekistics.md",
-    "World Building Tools/Countries, Cities and Towns/City Districts.md",
-    "World Building Tools/Countries, Cities and Towns/City Ideation Tools.md",
-    "World Building Tools/Merchants/Protection Merchant.md",
-    "World Building Tools/Merchants/Alchemists.md",
-    "World Building Tools/Taverns/Images/Thread and Thorn.png",
-    "World Building Tools/Taverns/Images/Scroll and Sickle.png",
-    "World Building Tools/Taverns/Images/Painted Flagon.png",
+    "Aothir/Taverns/Images/Thread and Thorn.png",
+    "Aothir/Taverns/Images/Scroll and Sickle.png",
+    "Aothir/Taverns/Images/Painted Flagon.png",
     "May 23, 2025 at 05_46_48 PM.png",
-    "World Building Tools/Taverns/Images/Mirrors Call Bar Side.png",
-    "World Building Tools/Taverns/Images/Mirrors Call Theatre Side.png",
-    "World Building Tools/Taverns/Images/The Emberwright.png",
-    "World Building Tools/Taverns/Images/The Iolian Performance.webp",
-    "World Building Tools/Taverns/Images/The Iolian.webp",
+    "Aothir/Taverns/Images/Mirrors Call Bar Side.png",
+    "Aothir/Taverns/Images/Mirrors Call Theatre Side.png",
+    "Aothir/Taverns/Images/The Emberwright.png",
+    "Aothir/Taverns/Images/The Iolian Performance.webp",
+    "Aothir/Taverns/Images/The Iolian.webp",
     "World Building Tools/Taverns/Images/The Painted Flagon.png",
-    "World Building Tools/Taverns/Images",
-    "World Building Tools/Taverns",
+    "Aothir/Taverns/Images",
+    "Aothir/Taverns",
     "Aothir/NPCs",
     "Aothir/Games of Chance",
     "Aothir/Continents/Eryndra",

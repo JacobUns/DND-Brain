@@ -51,21 +51,4 @@ An open-air marble forum where voices rise and fall in public challenge. Rhetori
 **Description**:  
 A vibrant tavern-catwalk hybrid where designers showcase enchanted fashion as a form of self-expression, storytelling, and rebellion. Patrons drink and judge in equal measure, awarding the coveted **Threadmark** to those whose creations speak with true vision and magic.
 
-**How It Works**:  
-Any may submit a piece to walk the Thornwalk (the runway) or perform a live creation. Peer judges—only those who already bear a Threadmark - may affix their enchanted ribbon if they believe the piece meets the three ideals: expression, innovation, and intention.
-
-Gaining enough ribbons awakens the golden needle from within the central loom, which floats to the artisan and pins itself gently to their work. This moment, always silent, is never forgotten.
-
-**Why It Matters**:  
-Threadmark bearers are advisors to nobles, outfitters to assassins, and symbols of rebellion to the common folk. Their designs are said to shape court politics, incite revolutions, or curse their wearers in elegant ruin.
-
-**In-Game Effects**:
-- Gain advantage on Charisma checks when using fashion or costume as part of your social presence or disguise
-- May design enchanted clothing or accessories with minor magical effects (DM approval)
-- Once per long rest, instantly mend, reweave, or stylize a piece of clothing or disguise to match a scene or persona
-
-**Game Hooks**:
-- A cursed ensemble designed for a political debut is missing. If worn, it may trigger arcane ruin - or assassination.
-- A rival Threadmark bearer begins unveiling pieces that copy another’s style… and deeper secrets.
-- A noble seeks a designer to craft a garment of _truth_ - woven from emotion, not cloth. But whose truth will it reveal?
 ---
