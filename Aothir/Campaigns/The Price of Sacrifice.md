@@ -1,11 +1,38 @@
 # Introduction
+_Jezia Luth stands with perfect poise, hands folded, his tone calm but weighted — like a man revealing only part of a much larger truth._
+
+“There are certain… artefacts. Old. Older than the kingdoms you’ve heard of, older even than the maps that still dare name the unclaimed lands.”
+
+_He steps closer, voice softening as if inviting you into a secret._
+
+“They weren’t made by mortals. Not exactly. They were left behind — _set aside_, if you will — by those who feared what they could become… or what they might awaken. And for generations, that fear kept them hidden. Scattered. Unclaimed.”
+
+_He pauses, studying your reactions._
+
+“But time, as it does, forgets. Locks rust. Walls crumble. And now? Now whispers of their locations have begun to surface again — in old ruins, beneath sanctified stone, behind doors no one has opened in centuries.”
+
+_He spreads his hands, inviting._
+
+“I am offering you something no coin can match: the chance to touch history still warm with purpose. These relics are not weapons — they are **keys**. To what, exactly... that will become clear in time.”
+
+_A smile, restrained but genuine — a scholar excited by their own findings._
+
+“I can offer resources. Travel. Quiet access to places that are... otherwise inconvenient to reach. But discretion is essential. These artefacts are not unknown to others, and there are those who would rather they remain buried.”
+
+_His eyes settle on you, calm but piercing._
+
+“All I ask is that you retrieve two of them. The first lies beneath the bones of a ruined temple, untouched since the fall of the old world. The second rests in a sealed vault — its key long forgotten, but not irretrievable.”
+
+_Then, almost as an afterthought, delivered with disarming humility:_
+
+“You don’t need to understand everything yet. Only that something old is stirring… and you now have the rare chance to walk at the edge of what came before — and what comes next.”
 # Act I - Awakening
 **Theme**: Discovery, Mystery, and Deception
 The party is contacted by a mysterious cult led by **Jezia Luth**, who offers wealth and vague references to forgotten power.
 
 - The cult has located two divine artefacts and needs skilled hands to retrieve them.    
-- **Location 1**: The **Ruined Temple** of the fallen god — overgrown or sunken in a wasteland. Here, the party first encounters visual or spiritual remnants of the god.
-- **Location 2**: A **sealed vault** beneath a former monastery, noble estate, or forgotten sanctuary. Possibly guarded by relics of the old faith or temporal defences.
+- **[[Location 1 - Temple of Threxis|Location 1]]**: The **Ruined Temple** of the fallen god — overgrown or sunken in a wasteland. Here, the party first encounters visual or spiritual remnants of the god.
+- **[[Location 2 - Vhalrix Estate|Location 2]]**: A **sealed vault** beneath a former monastery, noble estate, or forgotten sanctuary. Possibly guarded by relics of the old faith or temporal defences.
 - After acquiring these artefacts, the players are approached by **Vessa Thornbite**, a charismatic “artefact liberator” working for a private Collector. She demands a race for the next item.
 
 **Tension**: Players don’t yet know the god’s true nature or Jezia’s endgame. They are tools in someone else’s plan.
@@ -184,6 +211,26 @@ _And then, with unsettling warmth:_
 “So tell me again—who is truly cruel?”
 
 ---
+# Iconography
+## Core Concept
+A scale suspended on a downward-pointing sacrificial dagger, with a single drop of blood falling from one pan. The support structure includes seven notches — one for each fragmented divine aspect. The entire design evokes _deliberate balance, somber cost, and withheld divinity_.
+
+## Simplified Version
+Designed for use in jewellery, hidden markings, branded relics, wax seals, book spines and other such print.
+![[Threxis Simple Sigil.png]]
+### Design Elements
+- A vertical dagger, point down, stylized into a central axis.
+- Two minimalist pans, unadorned, suspended by lines — the left pan slightly tilted.
+- A single dot or teardrop descending from the lower pan (always the left).
+### Visual Notes
+- Appears almost geometric in form: a triangle pointing downward (dagger), intersected by a straight line (scale beam).
+- In jewellery, the blood drop is often a garnet or red glass bead.
+- On older relics, the drop may be missing or cracked — a symbol of lost balance.
+## Elaborate Version
+Over years, may illustrations and interpretations of the iconography of Threxis have existed but they contain a lot of the same concepts.
+![[Elaborate Sigil of Threxis.png]]
+
+---
 # History - The Fall of Threxis
 
 Threxis, God of Sacrificial Purpose, was once the deity to whom kings, generals, and philosophers turned when their decisions came at great cost. Offerings were made to Threxis to ensure that the sacrifices - both personal and collective - would achieve their intended outcomes. Where other gods governed ideals, Threxis concerned himself with results.
@@ -302,6 +349,7 @@ When you are below half your maximum HP, you must succeed a DC 13 Wisdom saving 
 
 **Curse – Fractured Sight**:  
 After completing a long rest, roll a d6. On a result of 1, you suffer disadvantage on your first Wisdom-based check or save that day as echoes of alternate timelines confuse your perception.  
+
 **Recommended Location**: Act I – Vault beneath a monastery or noble estate.  
 **Class Synergy**: Wizards, Druids, Clerics.
 
@@ -316,6 +364,7 @@ After completing a long rest, roll a d6. On a result of 1, you suffer disadvanta
 
 **Curse – Burden of the Watcher**:  
 You cannot benefit from magical sleep or long rest effects unless you are the last to fall asleep and the first to awaken. You feel a compulsive need to stand watch, even in safe environments.  
+
 **Recommended Location**: Act II – Abandoned shrine shrouded in magical darkness.  
 **Class Synergy**: Rogues, Rangers, support Clerics.
 
@@ -330,6 +379,7 @@ You cannot benefit from magical sleep or long rest effects unless you are the la
 
 **Curse – Entitled Will**:  
 Whenever a creature resists a command or reasonable suggestion from you, make a DC 15 Charisma saving throw. On a failure, gain one level of Arrogance (a stacking condition to a maximum of 3), imposing -1 per level to Insight and Deception checks. These penalties reset after a long rest.
+
 **Recommended Location**: Act II – Catacombs beneath a ruined or active throne room.  
 **Class Synergy**: Paladins, Warlocks, Sorcerers.
 
@@ -344,6 +394,7 @@ Whenever a creature resists a command or reasonable suggestion from you, make a 
 
 **Curse – Empath’s Burden**:  
 Whenever you heal another creature using magic, you take psychic damage equal to half the amount healed. This damage ignores resistance and cannot reduce you below 1 HP.  
+
 **Recommended Location**: Act III – Pilgrimage site desecrated by time or war.  
 **Class Synergy**: Bards, Sorcerers, Clerics.
 
@@ -357,6 +408,7 @@ Whenever you heal another creature using magic, you take psychic damage equal to
 
 **Curse – Echoes of What Could Be**:  
 Once per day when you see your reflection, roll a d20. On a 1 or 2, you see yourself committing a terrible act in a future that may yet come. You suffer disadvantage on your next Charisma-based check as your confidence wavers.  
+
 **Recommended Location**: Act III – Sanctum of memory or mirrored ruin.  
 **Class Synergy**: Bards, Wizards, Rogues.
 
@@ -372,5 +424,6 @@ Once per day when you see your reflection, roll a d20. On a 1 or 2, you see your
 
 **Curse – Weight of Resolve**:  
 After every combat encounter in which you drop below half your maximum HP, make a DC 15 Constitution saving throw. On a failure, gain 1 level of exhaustion unless you immediately spend at least 2 hit dice or sacrifice something narratively meaningful.  
+
 **Recommended Location**: Act IV – Divine forge or final battlefield.  
 **Class Synergy**: Monks, Fighters, tanks of any kind.
