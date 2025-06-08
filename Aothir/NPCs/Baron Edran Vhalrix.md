@@ -22,10 +22,20 @@ He dresses simply: dark, tailored robes with understated silver trim—no sigils
 - Edran believes that if the vault were ever to be opened, it must be by those who understand sacrifice—not just adventurers seeking wealth or curiosity. He is prepared to permit access, but only if convinced the party carries intention, not just power.
 # Roleplay Hooks
 - **Initial Interactions**: Polite, if slightly detached. He will offer rooms, meals, conversation—especially if the party comes with noble credentials or diplomatic purpose.
-- **If Questioned About History**: He speaks vaguely. “The past is a ledger half-burned. One must be careful not to build from ashes alone.”
-- **If Confronted About the Vault**: His tone hardens. “There are doors in this house that were sealed by blood, not by bricks. Opening them means opening debts we did not incur.”    
-- **If the Party Has a Threxian Artefact**: His demeanor shifts instantly. He becomes wary—but not hostile. More attentive. He might even become a little... nostalgic.
-- **If Trust is Gained**: Edran may offer them a fragment of the old family prayer. Just a line. Something carved into a stone beneath his father's grave.
+- **If Questioned About History**:
+	- He speaks vaguely.
+	- “The past is a ledger half-burned. One must be careful not to build from ashes alone.”
+- **If Confronted About the Vault**:
+	- His tone hardens.
+	- “There are doors in this house that were sealed by blood, not by bricks. Opening them means opening debts we did not incur.”    
+- **If the Party Has a Threxian Artefact**:
+	- His demeanor shifts instantly.
+	- He becomes wary—but not hostile.
+	- More attentive.
+	- He might even become a little... nostalgic.
+- **If Trust is Gained**:
+	- Edran may offer them a fragment of the old family prayer. Just a line.
+	- Something carved into a stone beneath his father's grave.
 ## **Optional Twist**
 - Edran has no children, and his house stands to end with him.
 - He has dreams—not constant, but recurring—of a blindfolded god with an outstretched hand, offering him the weight of a blade.
