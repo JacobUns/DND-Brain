@@ -1,6 +1,7 @@
 ---
 tags:
   - sessionnote
+  - levelup
 session date: 2025-04-28
 ---
 The gates are a bit rudimentary, and the original seem to have long fallen from their hinges. A stout Dwarf leads us in named [[Hurden]].  We explain that we're looking for their king, and that we've liberated the [[The Citadel of the Ringsmiths|Citadel of the Ringsmiths]]. [[Kayn, Light's Bane|Kayn]] looks around, He tells us the road ahead is straight with no exits along the path, about 6 miles before the first point of interest, the [[Hall of the Road Warden]]. It was a feast house and a safe haven for travellers. We inform him that the top of their mountain imploded, and [[Hurden]] is surprised by that. The dwarves have held the gate following instruction from the previous captain. [[Hurden]] introduces [[Kayn, Light's Bane|Kayn]] to [[Malrus]], an apprentice wizard of the group, and he teaches the boy the sending spell. In the course of teaching the spell, [[Kayn, Light's Bane|Kayn]] gets Malrus to message [[Amnur & Beldren|Amnur]] after describing him to the young dwarf and send a scout to connect the groups and bring them back to the [[The Citadel of the Ringsmiths|Citadel of the Ringsmiths]].

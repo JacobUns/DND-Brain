@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Names/Elvish Names.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 20 - Revenge of Grumpy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elvish Names"
+              "title": "Session 20 - Revenge of Grumpy"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 249.5
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aothir/Names/Elvish Names.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 20 - Revenge of Grumpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Elvish Names"
+              "title": "Outgoing links from Session 20 - Revenge of Grumpy"
             }
           },
           {
@@ -195,7 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,8 +208,17 @@
   },
   "active": "696dc499d055b8ca",
   "lastOpenFiles": [
-    "Templates/Name Generator - Elf.md.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 01 - A Groundshaking Introduction.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 20 - Revenge of Grumpy.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Oh, Air Genasi.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 19 - Grumpy and the Hoarders.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 18 - Father of Dwarves.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 15 - Magic and Mite.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 16 - Fall of the Mite-y.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 17 - An explosive entry.md",
     "Aothir/Names/Elvish Names.md",
+    "Templates/Name Generator - Elf.md.md",
     "Aothir/Names/Kalashtar Name Roll Table.md",
     "Templates",
     "Aothir/Names/Changling Name Roll Table.md",
@@ -226,15 +235,6 @@
     "Aothir/Names/Elvish Name Roll Table.md",
     "Aothir/Names/Human Name Roll Table.md",
     "Aothir/Names/Dragonborn Name Roll Table.md",
-    "Aothir/Names/Genasi Name Roll Table.md",
-    "Aothir/Names/Tiefling Name Roll Table.md",
-    "Aothir/Names/Gnome Name Roll Table.md",
-    "Aothir/Names/Half-Orc Roll Table.md",
-    "Aothir/Campaign Ideas/Character Ideas/Untitled.md",
-    "Aothir/Campaign Ideas/Character Ideas/Azreal Lorfus.md",
-    "Aothir/NPCs/Baron Edran Vhalrix.md",
-    "Aothir/NPCs/Jezia Luth.md",
-    "Aothir/NPCs/Sammael Astos.md",
     "Aothir/Campaigns/Images/Elaborate Sigil of Threxis.png",
     "Aothir/Campaigns/Images",
     "Aothir/Campaigns/Images/Threxis Simple Sigil.png",
@@ -253,7 +253,6 @@
     "Aothir/NPCs",
     "Aothir/Games of Chance",
     "Aothir/Continents/Eryndra",
-    "Aothir/Factions/Guilds/Adventuring",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
