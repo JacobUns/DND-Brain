@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 20 - Revenge of Grumpy.md",
+                "file": "Aothir/Campaigns/Locations/Location 2 - Vhalrix Estate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 20 - Revenge of Grumpy"
+              "title": "Location 2 - Vhalrix Estate"
+            }
+          },
+          {
+            "id": "dead5d66e8340a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 10 - Ancients Revealed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 10 - Ancients Revealed"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -88,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 364.5
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -123,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 20 - Revenge of Grumpy.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 10 - Ancients Revealed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 20 - Revenge of Grumpy"
+              "title": "Outgoing links from Session 10 - Ancients Revealed"
             }
           },
           {
@@ -195,7 +210,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -206,35 +221,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "696dc499d055b8ca",
+  "active": "dead5d66e8340a5b",
   "lastOpenFiles": [
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 01 - A Groundshaking Introduction.md",
+    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 10 - Ancients Revealed.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 02 - Ancient Returns.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 03 - A Titanous Discovery.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 04 - Fishy Cultists.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 05 - Into the Capital.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 06 - The roots run deep.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 - A guild defanged.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Elaran.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Dragons/Gerunuth, the Death Lord.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
+    "Aothir/Campaigns/Locations/Location 2 - Vhalrix Estate.md",
+    "The Weeping Scales Sigil.png",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Enxina.md",
+    "Aothir/Campaigns/The Price of Sacrifice.md",
+    "Aothir/Names/Elvish Names.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 20 - Revenge of Grumpy.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Oh, Air Genasi.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 19 - Grumpy and the Hoarders.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 18 - Father of Dwarves.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 15 - Magic and Mite.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 16 - Fall of the Mite-y.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 17 - An explosive entry.md",
-    "Aothir/Names/Elvish Names.md",
-    "Templates/Name Generator - Elf.md.md",
-    "Aothir/Names/Kalashtar Name Roll Table.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 16 - Fall of the Mite-y.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 15 - Magic and Mite.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 14 - Out Numbered.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 13 - Once more into the breach dear friends.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19",
     "Templates",
-    "Aothir/Names/Changling Name Roll Table.md",
-    "Aothir/Names/Triton Name Roll Table.md",
-    "Aothir/Names/Aasimar Name Roll Table.md",
-    "Aothir/Names/Shadar-Kai Name Roll Table.md",
-    "Aothir/Names/Firbolg Name Roll Table.md",
-    "Aothir/Names/Kenku Name Roll Table.md",
-    "Aothir/Names/Tabaxi Name Roll Table.md",
-    "Aothir/Names/Goliath Name Roll Table.md",
-    "Aothir/Names/Halfling Roll Table.md",
-    "Aothir/Names/Dwarven Name Roll Table.md",
-    "Aothir/Names/Dwarven Names.md",
-    "Aothir/Names/Elvish Name Roll Table.md",
-    "Aothir/Names/Human Name Roll Table.md",
-    "Aothir/Names/Dragonborn Name Roll Table.md",
     "Aothir/Campaigns/Images/Elaborate Sigil of Threxis.png",
     "Aothir/Campaigns/Images",
     "Aothir/Campaigns/Images/Threxis Simple Sigil.png",
@@ -247,7 +264,6 @@
     "Aothir/Taverns/Images/Mirrors Call Bar Side.png",
     "Aothir/Taverns/Images/Mirrors Call Theatre Side.png",
     "Aothir/Taverns/Images/The Emberwright.png",
-    "Aothir/Taverns/Images/The Iolian Performance.webp",
     "Aothir/Taverns/Images",
     "Aothir/Taverns",
     "Aothir/NPCs",

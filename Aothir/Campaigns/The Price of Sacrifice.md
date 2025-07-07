@@ -1,5 +1,5 @@
 # Introduction
-_Jezia Luth stands with perfect poise, hands folded, his tone calm but weighted — like a man revealing only part of a much larger truth._
+_[[Jezia Luth]] stands with perfect poise, hands folded, his tone calm but weighted — like a man revealing only part of a much larger truth._
 
 “There are certain… artefacts. Old. Older than the kingdoms you’ve heard of, older even than the maps that still dare name the unclaimed lands.”
 
@@ -28,25 +28,25 @@ _Then, almost as an afterthought, delivered with disarming humility:_
 “You don’t need to understand everything yet. Only that something old is stirring… and you now have the rare chance to walk at the edge of what came before — and what comes next.”
 # Act I - Awakening
 **Theme**: Discovery, Mystery, and Deception
-The party is contacted by a mysterious cult led by **Jezia Luth**, who offers wealth and vague references to forgotten power.
+The party is contacted by a mysterious cult led by **[[Jezia Luth]]**, who offers wealth and vague references to forgotten power.
 
 - The cult has located two divine artefacts and needs skilled hands to retrieve them.    
 - **[[Location 1 - Temple of Threxis|Location 1]]**: The **Ruined Temple** of the fallen god — overgrown or sunken in a wasteland. Here, the party first encounters visual or spiritual remnants of the god.
 - **[[Location 2 - Vhalrix Estate|Location 2]]**: A **sealed vault** beneath a former monastery, noble estate, or forgotten sanctuary. Possibly guarded by relics of the old faith or temporal defences.
-- After acquiring these artefacts, the players are approached by **Vessa Thornbite**, a charismatic “artefact liberator” working for a private Collector. She demands a race for the next item.
+- After acquiring these artefacts, the players are approached by **[[Vessa Thornbite]]**, a charismatic “artefact liberator” working for a private Collector. She demands a race for the next item.
 
-**Tension**: Players don’t yet know the god’s true nature or Jezia’s endgame. They are tools in someone else’s plan.
+**Tension**: Players don’t yet know the god’s true nature or [[Jezia Luth|Jezia]]’s endgame. They are tools in someone else’s plan.
 # Act II - The Race Begins
 **Theme**: Rivalry, Revelation, and Escalation
 
-Vessa challenges the party to beat her to the next artefact. If they succeed, she’ll share her knowledge of another location. If not, she demands one of the artefacts as payment.
+[[Vessa Thornbite|Vessa]] challenges the party to beat her to the next artefact. If they succeed, she’ll share her knowledge of another location. If not, she demands one of the artefacts as payment.
 
-- The party travels across dangerous terrain where **travel checks** determine how quickly they arrive. If they fail, roll 1d4 to see how long it takes Vessa to catch up.    
+- The party travels across dangerous terrain where **travel checks** determine how quickly they arrive. If they fail, roll 1d4 to see how long it takes [[Vessa Thornbite|Vessa]] to catch up.    
 - **Location 3**: A ruined or shadowed shrine, wrapped in illusions or spiritual obscurity.
 - **Location 4**: An ancient royal tomb or site of judgement — possibly beneath a still-ruling monarchy.
 - The party begins to experience the weight of the artefacts: visions, whispers, and a creeping sense of being watched.
 
-**Tension**: The cult provides increasingly direct “instructions.” Vessa’s motives blur — she may not be the villain Jezia painted her as.
+**Tension**: The cult provides increasingly direct “instructions.” [[Vessa Thornbite|Vessa]]’s motives blur — she may not be the villain [[Jezia Luth|Jezia]] painted her as.
 
 # Act III - Fractures and Factions
 **Theme**: Choice, Consequence, and Conflict
@@ -57,25 +57,25 @@ Word spreads. Rival cult cells, mercenaries, and religious orders become aware o
 - **Location 6**: A memory-drenched sanctum or mirrored ruin where characters face visions of alternate selves or futures.
 - Characters who have been changed by the artefacts begin to manifest traits of the god — powers, flaws, or compulsions.
 
-**Tension**: The party starts questioning Jezia’s intent. The line between saviour and tyrant blurs. Vessa may propose destroying the artefacts or using them for a different purpose.
+**Tension**: The party starts questioning [[Jezia Luth|Jezia]]’s intent. The line between saviour and tyrant blurs. [[Vessa Thornbite|Vessa]] may propose destroying the artefacts or using them for a different purpose.
 # Act IV - Unmaking or Ascension
 **Theme**: Legacy, Temptation, and Final Choice
 
 The location of the **seventh artefact** is uncovered, possibly by merging knowledge from all parties.
 - **Location 7**: A divine forge, heart of a volcano, or celestial fault-line — the final heartbeat of the god.
-- Jezia makes his move: either completing the rite to **absorb** the god’s essence or become a vessel for its rebirth.
+- [[Jezia Luth|Jezia]] makes his move: either completing the rite to **absorb** the god’s essence or become a vessel for its rebirth.
 - The artefacts resonate. Some party members may be tempted to use them. Others may want to destroy them.
 - **Final Decision**: The party must choose:
     - Fulfil the ritual (and decide who becomes the vessel),
     - Destroy the artefacts (and deal with divine backlash),
     - Scatter the artefacts again (facing pursuit forever),
-    - Side with Vessa, the Collector, or a third unexpected force.
+    - Side with [[Vessa Thornbite|Vessa]], the Collector, or a third unexpected force.
 
 **Endgame Variables**: Divine avatars, reborn gods, fractured pantheons, or a new age where mortals claim the divine mantle.
 
 ---
 # Rhetoric - The Severance
-Speech from Jezia if asked about the event that led to the creation of the artefacts or god's sundering:
+Speech from [[Jezia Luth|Jezia]] if asked about the event that led to the creation of the artefacts or god's sundering:
 
 “Ages have passed, empires have fallen, and the names of those responsible for the Severance have long passed into folklore and mythology. As histories are often written by the victors, sometimes not writing the history is the greatest slight of all. The victors in this case have allowed a divine being—one who once held the hearts of nations—to fall into obscurity. A heinous crime.”
 
@@ -93,18 +93,18 @@ _He steps closer, voice lowering as if sharing a confidence._
 
 “You have touched the artefacts. You’ve felt what lingers within them. That is not domination. That is not madness. That is **purpose**—and it is waiting.”
 
-## Modern Reinterpretation (Jezia’s View)
-To Jezia and his cult, Threxis was not corrupted — he was punished for clarity.
+## Modern Reinterpretation ([[Jezia Luth|Jezia]]’s View)
+To [[Jezia Luth|Jezia]] and his cult, Threxis was not corrupted — he was punished for clarity.
 - They view the god’s silence as proof of restraint, his still-beating will as proof of necessity.
 - They believe that _in a world of chaos, compromise, and cowardice_, only Threxis understood what it truly means to lead.
-Jezia teaches:
+[[Jezia Luth|Jezia]] teaches:
 - “Threxis never asked for obedience — only understanding.”
 - “The Severance was not justice. It was fear, gilded in righteousness.”
 - “We do not bring him back to rule. We bring him back to weigh the world once more.”
 ---
 ## Responses
 ### Rejection to the quest - No artefacts
-_Jezia’s expression stills. Not anger—just stillness, like a man folding away a hopeful letter left unread._
+_[[Jezia Luth|Jezia]]’s expression stills. Not anger—just stillness, like a man folding away a hopeful letter left unread._
 
 “I see.”
 
@@ -129,7 +129,7 @@ _He turns, robes whispering like breathless parchment._
 
 ---
 ### Rejection to the quest - some artefacts
-_Jezia watches you in silence as your decision settles in the room like dust. The lines around his eyes deepen—not with anger, but with something older. Worn. Heavy._
+_[[Jezia Luth|Jezia]] watches you in silence as your decision settles in the room like dust. The lines around his eyes deepen—not with anger, but with something older. Worn. Heavy._
 
 “You would cast aside the burden. After coming this far.”
 
@@ -158,7 +158,7 @@ _He lifts his hand slightly. Not in violence yet, but the air in the room shifts
 #### Rejection Again
 _The pause stretches. Long enough to feel wrong. The air seems to still, the light around the artefacts dimming ever so slightly._ 
 
-_Jezia speaks again, quieter now. Almost tender._ 
+_[[Jezia Luth|Jezia]] speaks again, quieter now. Almost tender._ 
 “Then you’ve made your choice.”
 
 _He exhales—measured, resigned. But not defeated._
@@ -177,13 +177,13 @@ _He lifts his hand. Not in surrender. In command._
 
 “Bind them.”
 
- _From the shadows - figures. Cloaked, masked, quiet no longer. The silence breaks like a snapped cord. Jezia’s expression is sorrowful, but resolute. Jezia retreats, calling a final response as he leaves through an open doorway which softly closes and locks behind him.
+ _From the shadows - figures. Cloaked, masked, quiet no longer. The silence breaks like a snapped cord. [[Jezia Luth|Jezia]]’s expression is sorrowful, but resolute. [[Jezia Luth|Jezia]] retreats, calling a final response as he leaves through an open doorway which softly closes and locks behind him.
 
 “I truly hoped you would choose differently.”
 
-_The figures move with unnatural speed and grace. Humanoid shapes, faces shadowed by cloaks or obscured by masks, surround the group and block the exits. Masked figures stand on either side of the door that Jezia has left through ready to block any who try to pursue, and they do not look concerned by your presence_
+_The figures move with unnatural speed and grace. Humanoid shapes, faces shadowed by cloaks or obscured by masks, surround the group and block the exits. Masked figures stand on either side of the door that [[Jezia Luth|Jezia]] has left through ready to block any who try to pursue, and they do not look concerned by your presence_
 
-_If the party succeed in defeating the guards and pursue Jezia through the doors, they find a simple room with scratch marks on the floor_
+_If the party succeed in defeating the guards and pursue [[Jezia Luth|Jezia]] through the doors, they find a simple room with scratch marks on the floor_
 
 ---
 ### Rejection to the arguments
@@ -266,7 +266,7 @@ Those who study ancient religion or occult folklore refer to the event only as 
 
 ---
 # The Prophecy of the Threxis
-A recovered fragment, chanted by Jezia’s inner circle, said to be pulled from the original Severance texts, misinterpreted or deliberately re-read through reverence
+A recovered fragment, chanted by [[Jezia Luth|Jezia]]’s inner circle, said to be pulled from the original Severance texts, misinterpreted or deliberately re-read through reverence
 
 > **Seven were the lights unlit,  
 > Bound in blade, in bone, in breath.  
