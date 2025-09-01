@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 10 - Ancients Revealed.md",
+                "file": "Aothir/Creatures/Dragons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 10 - Ancients Revealed"
+              "title": "Dragons"
+            }
+          },
+          {
+            "id": "44dbd2d1e7b286f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 13 -.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 13 -"
             }
           }
         ],
@@ -59,7 +73,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -85,8 +99,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -138,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 10 - Ancients Revealed.md",
+                "file": "Aothir/Creatures/Dragons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 10 - Ancients Revealed"
+              "title": "Outgoing links from Dragons"
             }
           },
           {
@@ -165,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aothir/Names/Elvish Names.md",
+                "file": "Aothir/Creatures/Dragons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Elvish Names"
+              "title": "Outline of Dragons"
             }
           },
           {
@@ -202,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -210,7 +224,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
+      "daily-notes:Open today's daily note": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -223,9 +238,38 @@
   },
   "active": "dead5d66e8340a5b",
   "lastOpenFiles": [
-    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 10 - Ancients Revealed.md",
+    "Aothir/Creatures/Images/Chromatic/Brown Dragon 2.png",
+    "Aothir/Creatures/Images/Chromatic/Brown Dragon.png",
+    "Aothir/Creatures/Images/Chromatic/Brown Dragon.png",
+    "Aothir/Creatures/Images/Chromatic/Purple Dragon.png",
+    "Aothir/Creatures/Images/Chromatic/Blue Dragon.png",
+    "Aothir/Creatures/Images/Chromatic/Black Dragon 3.png",
+    "Aothir/Creatures/Images/Chromatic/Black Dragon 2.png",
+    "Aothir/Creatures/Images/Chromatic/Black Dragon 1.png",
+    "Aothir/Creatures/Dragons.md",
+    "Aothir/Creatures/Images/Chromatic",
+    "Aothir/Creatures/Images/Tail Weapons",
+    "Aothir/Creatures/Images/Tail Weapons/Black scorpion-tail.png",
+    "Aothir/Creatures/Images/Tail Weapons/Blue Sword-tail.png",
+    "Aothir/Creatures/Images/Tail Weapons/Red Morningstar-tail Dragon.png",
+    "Aothir/Creatures/Images",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 13 -.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 12 - The last of his kind.md",
+    "Aothir/Campaigns/Locations/Location 2 - Vhalrix Estate.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/Victor Dimmelwald.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 11 - Streets of marble and gold.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+    "Aothir/Creatures",
+    "Aothir/Scales of Economy.md",
+    "World Building Tools/Guilds/Guild Types.md",
+    "Aothir/Factions/Guilds/Aothir Merchants Guilds.md",
+    "Aothir/Factions/Guilds/Aothir Guilds.md",
+    "Aothir/Games of Chance/Dragonchess.md",
+    "Aothir/Games of Chance/Hand of Fate.md",
+    "Aothir/Games of Chance/Liar's Dice.md",
+    "Aothir/World To Do.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 10 - Ancients Revealed.md",
+    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 02 - Ancient Returns.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 03 - A Titanous Discovery.md",
@@ -234,41 +278,12 @@
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 06 - The roots run deep.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 - A guild defanged.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Elaran.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Dragons/Gerunuth, the Death Lord.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
-    "Aothir/Campaigns/Locations/Location 2 - Vhalrix Estate.md",
-    "The Weeping Scales Sigil.png",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Enxina.md",
-    "Aothir/Campaigns/The Price of Sacrifice.md",
-    "Aothir/Names/Elvish Names.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 20 - Revenge of Grumpy.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 19 - Grumpy and the Hoarders.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 18 - Father of Dwarves.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 17 - An explosive entry.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 16 - Fall of the Mite-y.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 15 - Magic and Mite.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 14 - Out Numbered.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 13 - Once more into the breach dear friends.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19",
     "Templates",
-    "Aothir/Campaigns/Images/Elaborate Sigil of Threxis.png",
     "Aothir/Campaigns/Images",
-    "Aothir/Campaigns/Images/Threxis Simple Sigil.png",
     "Aothir/Campaigns/Locations",
     "Aothir/Campaigns",
-    "Aothir/Taverns/Images/Thread and Thorn.png",
-    "Aothir/Taverns/Images/Scroll and Sickle.png",
-    "Aothir/Taverns/Images/Painted Flagon.png",
-    "May 23, 2025 at 05_46_48 PM.png",
-    "Aothir/Taverns/Images/Mirrors Call Bar Side.png",
-    "Aothir/Taverns/Images/Mirrors Call Theatre Side.png",
-    "Aothir/Taverns/Images/The Emberwright.png",
     "Aothir/Taverns/Images",
-    "Aothir/Taverns",
-    "Aothir/NPCs",
-    "Aothir/Games of Chance",
-    "Aothir/Continents/Eryndra",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
