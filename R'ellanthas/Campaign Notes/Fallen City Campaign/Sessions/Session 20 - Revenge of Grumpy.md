@@ -4,7 +4,6 @@ tags:
   - combat
 session date: 2025-06-23
 ---
-
 Tormir leads us off, down one of the routes which [[Kayn, Light's Bane|Kayn]] manages to pick up signs of movement of something along this path. We continue down, Thion at the back of the party and Tormir leading. More mineshafts and walls glistening with refracted gemstone light and veins of metals. Tormir stops and says he doesn't recognise the area, as if it's newly made. [[Oh, Air Genasi|Oh]] looks into the distance, and sees some of the dwarven architecture looks modified in some way, and [[Maria Ravencroft|Maria]] assumes that it might be goblinoid.
 
 Nyx flies over the bridge and spots something 3/4 of the way over being wrong in the stone. It appears to have a break in the bridge's rock. As she crosses she finds an archway and passes through to find the same architecture as [[Oh, Air Genasi|Oh]]. [[Kayn, Light's Bane|Kayn]] starts a very stealthy approach and reaching the crack finds that it has been design to fail over a 6-7 feet distance.
@@ -54,3 +53,6 @@ Some of the coins are rough and seem to have been stamped with an orcs head.
 We setup in the the hall to rest for the night and find a corner to safely bed down in.
 
 **Remember to Fabricate at the beginning of next session**
+
+1hr Study of study - 13/30 for hammer properties
+Fabricated Mithral Sword
