@@ -37,8 +37,9 @@ aliases:
 - [ ] Cleric of the [[Enlightened Empire]] seen preaching in the northern part of [[Kalvanen]]
 ## Elven Ruins
 - [x] ~~Investigate the rumours of glowing plants growing above ground in Kalvenen~~
-- [ ] Investigate the Unknown City (Site B) near [[Bellowfern]]
-	- [ ] Investigate for a potential weapon to help against the Goblins
+- [x] Investigate the Unknown City (Site B) near [[Bellowfern]]
+	- [x] ~~Investigate for a potential weapon to help against the Goblins~~
+	- [ ] Investigate the 
 - [ ] Investigate [[Elaran]] (Site E) in the [[Enlightened Empire]]
 - [ ] Investigate [[Leoqen]] (Site D) east of [[Oda]]
 - [ ] Investigate [[Mirakian]] (Site C)

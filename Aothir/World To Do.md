@@ -2,6 +2,13 @@
 	- [ ] Identify adventuring guild names
 	- [ ] Theme to their Metallic patron or their chromatic adversary
 - [ ] Chromatic dragons as evil adversaries
+- [ ] Think through possible existence of mixed origin dragons
+	- [ ] Mixed Chromatic
+		- [ ] Still Evil
+	- [ ] Mixed Metallic and Chromatic
+		- [ ] 
+	- [ ] Mixed Metallic
+		- [ ] Still Good
 - [ ] Identify lair locations for each in the world
 - [ ] Create adventuring factions names
 	- [ ] Move the hierarchy of an adventuring guild
