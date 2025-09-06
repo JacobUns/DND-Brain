@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Creatures/Dragons.md",
+                "file": "Aothir/Creatures/Chromatic Dragons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dragons"
+              "title": "Chromatic Dragons"
             }
           },
           {
@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 454.5
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aothir/Creatures/Dragons.md",
+                "file": "Aothir/Creatures/Chromatic Dragons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dragons"
+              "title": "Outline of Chromatic Dragons"
             }
           },
           {
@@ -238,18 +238,18 @@
   },
   "active": "dead5d66e8340a5b",
   "lastOpenFiles": [
-    "Aothir/Creatures/Chromatic Dragons.md",
     "Aothir/Creatures/Dragons.md",
+    "Aothir/Creatures/Images/Tail Weapons/Copper Feather-tail Dragon 2.png",
+    "Aothir/Creatures/Images/Tail Weapons/Brown Club-tail Dragon 2.png",
+    "Aothir/Creatures/Images/Tail Weapons/Green Dagger-tail 2.png",
+    "Aothir/Creatures/Images/Tail Weapons/Green Dagger-tail 2.png",
+    "Aothir/Creatures/Images/Tail Weapons/Blue Sword-tail 2.png",
+    "Aothir/Creatures/Images/Tail Weapons/Red Morningstar-tail Dragon 2.png",
+    "Aothir/Creatures/Images/Tail Weapons/Black Scorpion-tail 2.png",
+    "Aothir/Creatures/Chromatic Dragons.md",
     "Aothir/Creatures/Images/Chromatic/Chromatic Dragon Flight.png",
     "Aothir/Creatures/Images/Chromatic/Yellow Dragon.png",
     "Aothir/Creatures/Images/Chromatic/White Dragon.png",
-    "Aothir/Creatures/Images/Chromatic/Red Dragon.png",
-    "Aothir/Creatures/Images/Chromatic/Pink Dragon.png",
-    "Aothir/Creatures/Images/Chromatic/Orange Dragon 2.png",
-    "Aothir/Creatures/Images/Chromatic/Orange Dragon.png",
-    "Aothir/Creatures/Images/Chromatic/Green Dragon 2.png",
-    "Aothir/Creatures/Images/Chromatic/Green Dragon.png",
-    "Aothir/Creatures/Images/Chromatic/Grey Dragon 2.png",
     "R'ellanthas/Religion/Oda Religion.md",
     "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Nostar.md",
     "R'ellanthas/Factions/Knights of Vennir.md",

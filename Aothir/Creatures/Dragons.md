@@ -11,19 +11,19 @@ Dragons whose scales are coloured, rather than reminiscent of gems, metals or fl
 ![[Chromatic Dragon Flight.png]]
 ## Summary
 
-| **Dragon** | **Breath Weapon**          | **Alignment** | **Temperament**                                                                  | **Typical Habitat**                                                            | **Hoard Focus**                                                                                         |
-| ---------- | -------------------------- | ------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| **Black**  | Acid                       | Chaotic Evil  | **Sadistic & Vicious**<br>Revels in suffering and ruin                           | - Stagnant swamps<br>- Corrupted ruins<br>- Festering marshes                  | - Relics of fallen empires<br>- Tarnished symbols of hope<br>- Trophies of destruction                  |
-| **Blue**   | Lightning                  | Lawful Evil   | **Regal & Ruthless**<br>Majestic rulers enforcing merciless control              | - Deserts<br>- Badlands<br>- Spired Canyons<br>- Ancient monuments             | - Regalia of rulership<br>- Flawless gemstones<br>- Unique artefacts of influence                       |
-| **Brown**  | Sand _(Bludgeoning)_       | Chaotic Evil  | **Territorial & Aggressive**<br>Ambush predators defending their domain          | - Arid Wastelands<br>- Vast Dunes<br>- Labyrinthine Caverns                    | - Rare desert minerals<br>- Ancient elemental relics<br>- Trophies from defeated rivals                 |
-| **Grey**   | Necrotic                   | Chaotic Evil  | **Paranoid & Cruel**<br>Obsessed with traps and domination through fear          | - Rocky Mountain Forts<br>- Sunken Ruins<br>- Concealed lairs                  | - Plunder from followers<br>- Ancestral heirlooms<br>- Artefacts of conquest                            |
-| **Green**  | Poison                     | Lawful Evil   | **Ambitious & Insidious**<br>Masters of deception and political intrigue         | - Deep Forbidden Forests<br>- Corrupted groves<br>- Hidden Ruinous Strongholds | - Secrets<br>- Blackmail material<br>- Ancestral relics<br>- Sentimental treasures                      |
-| **Orange** | Petrification              | Neutral Evil  | **Callous & Ferocious**<br>Chaotic destroyers who treat victims as art           | - Volcanic valleys<br>- Petrified forests<br>- Unstable badlands               | - Rare minerals<br>- Sculptures<br>- Petrified “trophies” posed as macabre displays                     |
-| **Pink**   | Charm                      | Lawful Evil   | **Imperious & Vain**<br>False idols demanding absolute worship                   | - Grand ruins<br>- Ancient temples<br>- Palatial lairs draped in luxury        | - Religious relics<br>- Ceremonial artefacts<br>- Symbols of devotion<br>- Trophies of loyalty          |
-| **Purple** | Psychic _(Spore Infusion)_ | Neutral Evil  | **Cunning & Devious**<br>Masters of corruption and manipulation                  | - Underdark caverns<br>- Fungal forests<br>- Fallen subterranean fortresses    | - Relics of conquered empires<br>- Spore-bound vaults<br>- Fungal-guarded artefacts                     |
-| **Red**    | Fire                       | Lawful Evil   | **Cataclysmic & Tyrannical**<br>Living infernos of conquest and destruction      | - Volcanic peaks<br>- Scorched mountain ranges<br>- Magma-choked lairs         | - Colossal displays of wealth<br>- Ancient regalia<br>- Artefacts of power<br>- Stolen dragon treasures |
-| **White**  | Ice                        | Chaotic Evil  | **Savage & Relentless**<br>Apex hunters driven by instinct and hunger            | - Glacial peaks<br>- Frozen seas<br>- Ice-buried tunnels                       | - Survival-based treasures<br>- Frozen vaults of weapons<br>- Rare pelts<br>- Frost-bound artefacts     |
-| **Yellow** | Radiant                    | Neutral Evil  | **Fanatical & Inexorable**<br>Zealous false-angels bringing searing annihilation | - Desecrated temples<br>- Radiant-crystal caves<br>- Sun-blasted mesas         | - Relics of faith<br>- Celestial artefacts<br>- Radiant crystals<br>- Conquered divine symbols          |
+| **Dragon**                               | **Breath Weapon**          | **Alignment** | **Temperament**                                                                  | **Typical Habitat**                                                            |
+| ---------------------------------------- | -------------------------- | ------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **[[Chromatic Dragons#Black\|Black]]**   | Acid                       | Chaotic Evil  | **Sadistic & Vicious**<br>Revels in suffering and ruin                           | - Stagnant swamps<br>- Corrupted ruins<br>- Festering marshes                  |
+| **[[Chromatic Dragons#Blue\|Blue]]**     | Lightning                  | Lawful Evil   | **Regal & Ruthless**<br>Majestic rulers enforcing merciless control              | - Deserts<br>- Badlands<br>- Spired Canyons<br>- Ancient monuments             |
+| **[[Chromatic Dragons#Brown\|Brown]]**   | Sand _(Bludgeoning)_       | Chaotic Evil  | **Territorial & Aggressive**<br>Ambush predators defending their domain          | - Arid Wastelands<br>- Vast Dunes<br>- Labyrinthine Caverns                    |
+| **[[Chromatic Dragons#Grey\|Grey]]**     | Necrotic                   | Chaotic Evil  | **Paranoid & Cruel**<br>Obsessed with traps and domination through fear          | - Rocky Mountain Forts<br>- Sunken Ruins<br>- Concealed lairs                  |
+| **[[Chromatic Dragons#Green\|Green]]**   | Poison                     | Lawful Evil   | **Ambitious & Insidious**<br>Masters of deception and political intrigue         | - Deep Forbidden Forests<br>- Corrupted groves<br>- Hidden Ruinous Strongholds |
+| **[[Chromatic Dragons#Orange\|Orange]]** | Petrification              | Neutral Evil  | **Callous & Ferocious**<br>Chaotic destroyers who treat victims as art           | - Volcanic valleys<br>- Petrified forests<br>- Unstable badlands               |
+| **[[Chromatic Dragons#Pink\|Pink]]**     | Charm                      | Lawful Evil   | **Imperious & Vain**<br>False idols demanding absolute worship                   | - Grand ruins<br>- Ancient temples<br>- Palatial lairs draped in luxury        |
+| **[[Chromatic Dragons#Purple\|Purple]]** | Psychic _(Spore Infusion)_ | Neutral Evil  | **Cunning & Devious**<br>Masters of corruption and manipulation                  | - Underdark caverns<br>- Fungal forests<br>- Fallen subterranean fortresses    |
+| **[[Chromatic Dragons#Red\|Red]]**       | Fire                       | Lawful Evil   | **Cataclysmic & Tyrannical**<br>Living infernos of conquest and destruction      | - Volcanic peaks<br>- Scorched mountain ranges<br>- Magma-choked lairs         |
+| **[[Chromatic Dragons#White\|White]]**   | Ice                        | Chaotic Evil  | **Savage & Relentless**<br>Apex hunters driven by instinct and hunger            | - Glacial peaks<br>- Frozen seas<br>- Ice-buried tunnels                       |
+| **[[Chromatic Dragons#Yellow\|Yellow]]** | Radiant                    | Neutral Evil  | **Fanatical & Inexorable**<br>Zealous false-angels bringing searing annihilation | - Desecrated temples<br>- Radiant-crystal caves<br>- Sun-blasted mesas         |
 # Metallic
 Copper - Fire
 Brass
@@ -82,26 +82,27 @@ Tail weapons are a home brew addition to the fifth-edition armoury of dragons. T
 **Traits**: Vicious bludgeoning attack
 **Scholar's Description**: Club-tails are the brutes of the dragon world. Head-to-tail muscle ripples their body, their broad set frame showing the inherent power they possess. Their tails end in a knot of thick hide and scale. As its club-tail cuts through the air with immense strength, it leaves the sound of a rushing vacuum in its wake. Club-tails, especially of the Black or Brown variety, have been known to use their tails to destroy fortifications when attacking cities.
 **Artists Render**: 
-![[Brown Club-tail Dragon.png]]
+![[Brown Club-tail Dragon 2.png]]
 ### Dagger-tail
 **Rarity**: Uncommon
 **Traits**:
 **Scholar's Description**: 
 **Artists Render**:
-![[Green Dagger-tail.png]]Multi-attack slashing
+![[Green Dagger-tail 2.png]]Multi-attack slashing
 ### Feather-tail
 **Rarity**: Exceedingly
 **Traits**: Increased Speed and Jump Distance.
 **Scholar's description**: Feather-tails are considered weaker by many, but truthfully there is little known of the breed due to their rarity. This belief appears to derive from their tail's lack of weaponry where other breeds have vicious or devastating tools to kill or maim their foes. In its place, strands of membrane and scale that almost resemble bird-like feathers end in a small plume
-![[Copper Feather-tail Dragon.png]]
+
+![[Copper Feather-tail Dragon 2.png]]
 ### Scorpion-tail
 **Rarity**: Common
 **Traits**: Venomous piercing
 **Scholar's Description**: 
-![[Black scorpion-tail.png]]
+![[Black Scorpion-tail 2.png]]
 ### Sword-tail
-![[Blue Sword-tail.png]]
+![[Blue Sword-tail 2.png]]
 Single strong slashing
 ### Morningstar-tail
 Bludgeoning and piercing combined attack
-![[Red Morningstar-tail Dragon.png]]
+![[Red Morningstar-tail Dragon 2.png]]
