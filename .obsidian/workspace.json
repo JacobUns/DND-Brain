@@ -13,72 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Campaigns/Locations/Location 2 - Vhalrix Estate.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 23 - Conflict Brews.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Location 2 - Vhalrix Estate"
+              "title": "Session 23 - Conflict Brews"
             }
           },
           {
-            "id": "dead5d66e8340a5b",
+            "id": "b416680c9eb6e627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "R'Ellanthas - The Dragon Stone Chronicles"
-            }
-          },
-          {
-            "id": "1f915f71e9421e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aothir/Creatures/Dragons/Metallic Dragons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metallic Dragons"
-            }
-          },
-          {
-            "id": "100a85832a26fd9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aothir/Creatures/Dragons/Chromatic Dragons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chromatic Dragons"
-            }
-          },
-          {
-            "id": "9057228ae2e1d6d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R'ellanthas/Factions/Guardians of Il'Mondum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guardians of Il'Mondum"
+              "title": "Kayn, Light's Bane"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 248.5
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -161,17 +118,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aothir/Creatures/Dragons/Metallic Dragons.md",
+                "file": "Aothir/Names/Elvish Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Metallic Dragons"
+              "title": "Backlinks for Elvish Names"
             }
           },
           {
@@ -180,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aothir/Creatures/Dragons/Metallic Dragons.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 23 - Conflict Brews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Metallic Dragons"
+              "title": "Outgoing links from Session 23 - Conflict Brews"
             }
           },
           {
@@ -207,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aothir/Creatures/Dragons/Metallic Dragons.md",
+                "file": "Aothir/Names/Elvish Names.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Metallic Dragons"
+              "title": "Outline of Elvish Names"
             }
           },
           {
@@ -243,7 +200,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,8 +209,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
       "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -263,57 +221,57 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f915f71e9421e07",
+  "active": "696dc499d055b8ca",
   "lastOpenFiles": [
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 11 - A Fateful Find.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 02 - Ancient Returns.md",
-    "Aothir/Creatures/Dragons/Draconomicon.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
-    "Aothir/Creatures/Dragons/Metallic Dragons.md",
-    "Aothir/Creatures/Dragons/Chromatic Dragons.md",
-    "Aothir/Creatures/Dragons/Images/Metallic/Silver Dragon.png",
-    "Aothir/Creatures/Dragons/Images/Metallic/Platinum Dragon.png",
-    "Aothir/Creatures/Dragons/Greatwryms.md",
-    "Aothir/Creatures/Dragons",
-    "Aothir/Creatures/Dragons/Images/Metallic/Mercury Dragon.png",
-    "Aothir/Creatures/Dragons/Images/Metallic/Iron Dragon.png",
-    "Aothir/Creatures/Dragons/Images/Metallic/Gold Dragon.png",
-    "Aothir/Creatures/Dragons/Images/Metallic/Electrum Dragon.png",
-    "Aothir/Creatures/Dragons/Images/Metallic/Copper Dragon.png",
-    "Aothir/Creatures/Dragons/Images/Metallic/Brass Dragon.png",
-    "Aothir/Creatures/Dragons/Images/Metallic/Cobalt Dragon.png",
-    "Aothir/Creatures/Dragons/Images/Metallic/Bronze Dragon.png",
-    "Aothir/Creatures/Dragons/Images/Metallic",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Images",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 22 - There's always a bigger chicken.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 23 - Conflict Brews.md",
     "R'ellanthas/Religion/Way of Shards.md",
-    "Aothir/Campaigns/Locations/Location 2 - Vhalrix Estate.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Tiscordin.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 11 - A Fateful Find.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 13 - Don't put your arm in that.md",
+    "Aothir/Creatures/Dragons/Metallic Dragons.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Frontistis Zoon.md",
+    "R'ellanthas/Religion/Pantheon Members/Images/Ring of R'Ellanthas.png",
+    "R'ellanthas/Religion/Pantheon Members/Images/Way of Shards Iconography.png",
+    "R'ellanthas/Religion/Pantheon Members/Images",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Elves of R'Ellanthas/Elves of R'Ellanthas.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Elves of R'Ellanthas",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 10 - Ancients Revealed.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Kingdom of Kalvanen.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Enxina.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Elaran.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Leoqen.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Milanalin.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Mirakian.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Vaxalin.md",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Ruins/Vilasenrin.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Guardians/Untitled.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Guardians",
-    "R'ellanthas/Locations/Liashton.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 - A guild defanged.md",
-    "R'ellanthas/Religion/Pantheon Family Tree.canvas",
-    "R'ellanthas/Religion/Pantheon Members/Images",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Images",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Humans",
-    "Aothir/Creatures/Dragons/Images/Chromatic",
+    "Aothir/Creatures/Dragons/Images/Tail Weapons/Green Dagger-tail.png",
+    "Aothir/Creatures/Dragons/Images/Tail Weapons/Red Morningstar-tail Dragon 2.png",
+    "Aothir/Creatures/Dragons/Images/Tail Weapons/Copper Feather-tail Dragon.png",
+    "Aothir/Creatures/Dragons/Images/Tail Weapons/Red Morningstar-tail Dragon.png",
+    "Aothir/Creatures/Dragons/Images/Tail Weapons/Green Dagger-tail 2.png",
+    "Aothir/Creatures/Dragons/Images/Tail Weapons/Copper Feather-tail Dragon 2.png",
+    "Aothir/Creatures/Dragons/Images/Tail Weapons/Brown Club-tail Dragon.png",
+    "Aothir/Creatures/Dragons/Images/Tail Weapons/Brown Club-tail Dragon 2.png",
     "Aothir/Creatures/Dragons/Images/Tail Weapons",
+    "Aothir/Creatures/Dragons/Images/Metallic",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Images",
+    "Aothir/Creatures/Dragons/Images/Chromatic",
+    "Aothir/Creatures/Dragons/Images",
+    "Aothir/Creatures/Dragons/Draconomicon.md",
+    "Aothir/Creatures/Dragons/Greatwryms.md",
+    "Aothir/Creatures/Dragons/Chromatic Dragons.md",
+    "Aothir/Creatures/Dragons",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Cindervale.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Kosrias.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Kalvanen.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Cities/Nostar.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 20 - Revenge of Grumpy.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 21 - If you're happy and you know it clap your... oh.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Humans/Thion, Knight of Vennir.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Humans",
+    "R'ellanthas/Factions/Knights of Vennir.md",
+    "R'ellanthas/Factions/Alliance of Vennar.md",
+    "R'ellanthas/Religion/Oda Religion.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 07 - Finery and Fierce Pursuit.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 08 - A guild defanged.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 09 - Here be dragons.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 10 - Ancients Revealed.md",
+    "Aothir/Creatures/Images/Tail Weapons",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
+    "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "Untitled.canvas"
   ]
 }
