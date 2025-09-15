@@ -91,4 +91,4 @@ Any flaws in the defences are noted as part of the restriction
 - An exceptional, unbreakable magical effect, that envelops all of Candlekeep in a protective shield through which nothing but air and sound can pass
 
 ### [[Miirym]]
-- A spectral dragon named [[Miirym]] prowls the keep and can be called to aid in the protection of Candlekeep if the library or citadel comes under attack from those that want to destroy or pillage the keep.
+- A spectral [[Draconomicon|dragon]] named [[Miirym]] prowls the keep and can be called to aid in the protection of Candlekeep if the library or citadel comes under attack from those that want to destroy or pillage the keep.

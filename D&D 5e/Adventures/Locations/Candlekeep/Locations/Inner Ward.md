@@ -10,7 +10,7 @@ When an extradimensional space is rediscovered, it must be thoroughly explored, 
 ## Great Library
 - The Avowed transported the towers of the Great Library from other locations and painstakingly reassembled them  
 - Results in a patchwork of different architectural styles and materials
-    - Among the stone structures are a few made of strange materials like infernal iron and bones of a long-dead colossal red dragon
+    - Among the stone structures are a few made of strange materials like infernal iron and bones of a long-dead colossal red [[Draconomicon|dragon]]
 - The oldest of the library buildings are soaring stone affairs with floors crafted from lustrous dark wood and floor-to-ceiling shelves
 - Ceiling heights vary from 10 to 100 feet in the tallest towers.
 - The Avowed use floating disks, each one large enough to hold 3 medium creatures to reach high shelves

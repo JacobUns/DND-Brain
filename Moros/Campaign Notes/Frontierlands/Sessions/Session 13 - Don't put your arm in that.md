@@ -7,7 +7,7 @@ tags:
 ---
 We awake in the Vault of Continuance. Pale light leaks from crystal braziers, the air not stirring as if sealed against time itself. The great stone plinth of the cradle still hums with psionic radiance. The walls of splendid stone telling the stories of its people.
 
-[[Earlian Dimmelwald|Earlian]] approaches [[Victor Dimmelwald|Victor]] who, having returned to his previous form, is met with comments by comments of how easy it will become to swap between. He mentions that he has seen [[Victor Dimmelwald|Victor]] in the future several times, and he has seen [[Victor Dimmelwald|Victor]] exhibit abilities that he will not be able to in his human form. He claims cause and effect are not a line, but a tapestry, that the flow of time for his is more like a knot pulled tight, him as the rope, and his future difficult to know for inspection yet he knows what he must do.
+[[Earlian Dimmelwald|Earlian]] approaches [[Victor Dimmelwald|Victor]] who, having returned to his previous form, is met with comments of how easy it will become to swap between. He mentions that he has seen [[Victor Dimmelwald|Victor]] in the future several times, and he has seen [[Victor Dimmelwald|Victor]] exhibit abilities that he will not be able to in his human form. He claims cause and effect are not a line, but a tapestry, that the flow of time for his is more like a knot pulled tight, him as the rope, and his future difficult to know for inspection yet he knows what he must do.
 
 He mentions a [[Karrik Sylvari, last of the Aurora'lyn|Karrik]] pulls out his Nairometer from Wipplebit. It's an auctioneer in a town near [[Pefergee]] that [[Brannick Coldrock|Brannick]] recognises. The auctioneer is called Jerome Wipplebit in and his auction house New Town. Under his breath he says the weave could twist. Having claimed he will be with us for the foreseeable future, he realises he has seen the wrong future. He says he must check with his older self to see if he remembered making the mistake he has, or whether this was always meant to happen. 
 
@@ -33,7 +33,7 @@ There are two major towns in the frontier, Lockborough and New Town. [[Brannick 
 
 Six canal workers dead at their camp, poisoned, the whole town is saying it's Jerome Wipplebit. He seems suspicious of us, interrogating our motives and whether we are affiliated with the man. He claims Wipplebit has been against the canal project and has been rallying people against the canal workers. He introduces himself as Sir Jarreth Klein, of the Lockborough canal consortium. [[Brannick Coldrock|Brannick]] introduces himself, and Jarreth claims to have heard of him.
 
-A gaval cracks against the block of the auction house as we enter. A Gnome, obviously Jerome, with a gravely voice moves onto his next lot, an iron mask from the ruins, is barking bids as a cacophony of voices discuss. The items are locked within a cabinet by him, with six items within. 
+A gavel cracks against the block of the auction house as we enter. A Gnome, obviously Jerome, with a gravely voice moves onto his next lot, an iron mask from the ruins, is barking bids as a cacophony of voices discuss. The items are locked within a cabinet by him, with six items within. 
 
 Iron Mask - Pulled from the northern vaults, fit for display, starts at 20g, sold at 55gp.
 Fragment of a Crystal - Not Sold - Detect Thoughts

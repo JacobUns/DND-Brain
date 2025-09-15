@@ -50,30 +50,30 @@ This page details the playable races within the world of [[Aothir]]. Each contai
 # Dragonborn
 ## About
 - Typically, their scales are brass or bronze in colour, though also range into scarlet, rust, gold or copper-green due to years of interbreeding between types of dragonborn.
-- Used to have scales that matched their ancestral dragons, which include bright red, green, blue, white, black, gold, silver, brass, copper or bronze.
-- Dragonborn with these colour scales have a strong bloodline back to their ancient dragons and gravitate towards the temperament of such a dragon.
-- Born of dragons, they walk proudly through a world that fears them for naught but ignorance
-- Not much is known about how the dragonborn came to be, though many rumours exist. Some claim they were created by a god that takes the form of a dragon, others claim they were born of the most ancient of dragons. 
+- Used to have scales that matched their ancestral [[Draconomicon|dragons]], which include bright red, green, blue, white, black, gold, silver, brass, copper or bronze.
+- Dragonborn with these colour scales have a strong bloodline back to their ancient [[Draconomicon|dragons]] and gravitate towards the temperament of such a [[Draconomicon|dragon]].
+- Born of [[Draconomicon|dragons]], they walk proudly through a world that fears them for naught but ignorance
+- Not much is known about how the dragonborn came to be, though many rumours exist. Some claim they were created by a god that takes the form of a [[Draconomicon|dragon]], others claim they were born of the most ancient of [[Draconomicon|dragons]]. 
 ## Dragonborn
 - These Dragonborn variants have tails
-- Some are faithful servants to true dragons while others follow their clan as warriors, or find themselves a drift with no clear calling in life.
+- Some are faithful servants to true [[Draconomicon|dragons]] while others follow their clan as warriors, or find themselves a drift with no clear calling in life.
 - Their lore and stories tell of when these people used to be conquerors
 - They kept the [[#Ravenite]] as slaves, until an uprising and rebellion where the Ravenites took their freedom
 ### Draconblood
 - Lore written has been transferred to dragonborns for simplicity, though the variant may be chosen for the ASI
 ### Dragonborn Player considerations
 - What colour dragonborn are you?    
-- Are you descended from a more pure line of dragons?
-- Chromatic dragons are typically more evil as opposed to Metallic. Which do you align to?
+- Are you descended from a more pure line of [[Draconomicon|dragons]]?
+- Chromatic [[Draconomicon|dragons]] are typically more evil as opposed to Metallic. Which do you align to?
 - Dragonborns usually stay together, as family and clan is most important. What has made you an adventurer?
 ## Ravenite
 - Do not have tails
 - Loathe the Dragonborn for the years of their oppression
-- Though they are of dragon descent, the colour of these creatures' scales are muted when compared to that of their dragonborn cousins.
+- Though they are of [[Draconomicon|dragon]] descent, the colour of these creatures' scales are muted when compared to that of their dragonborn cousins.
 - Predominantly serve Draconic masters
 ### Ravenite Player considerations
-- What Dragon do you serve?
-- What is your motivation? Are you on a quest from your dragon master or has something else motivated you?
+- What [[Draconomicon|Dragon]] do you serve?
+- What is your motivation? Are you on a quest from your [[Draconomicon|dragon]] master or has something else motivated you?
 - How do you feel about your Dragonborn race, who suppressed your people for hundreds of years?
 # Dwarf
 

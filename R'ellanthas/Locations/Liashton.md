@@ -8,3 +8,6 @@ Out front is a beautiful woman on a rock brushing her hair. Lower half appears t
 Backdrop of a lake
 Fairly quiet lunch period
 Tough skin, dark hair barmaid
+
+## Liashford
+A small dock town, [[Liashford]], 

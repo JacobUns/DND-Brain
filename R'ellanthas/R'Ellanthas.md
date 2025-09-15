@@ -30,6 +30,7 @@ The [[Pantheon of R'Ellanthas]], which was originally from the [World Anvil](htt
 - [[Arcandor Academy]]
 - [[As'son Empire]]
 - [[Guardians of Il'Mondum]]
+- [[Knights of Vennir]]
 - [[Orphus]]
 - [[The Great Council]]
 - [[The Silent Ledger]]

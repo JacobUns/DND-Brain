@@ -1,7 +1,12 @@
+---
+tags:
+  - religion
+---
+![[Ring of R'Ellanthas.png]]
 # World Theology
-The history of the pantheon is fairly well established and agreed amongst theologians of the council. Priests and Temple officials from across the continent gathered after the [[Ending War]] to identify the doctrine that would be permitted following the fall of Elves and Dragons, ensuring any teachings that may have contributed to this war over millennia would not come to be taught again. As a result, following the [[Ending War]] the council, through their actions, implied two groups of deities; They would come to be known as [[#The Sovereign Host]] and [[#The Dark Six]].
+The history of the pantheon is fairly well established and agreed amongst theologians of the council. Priests and Temple officials from across the continent gathered after the [[Ending War]] to identify the doctrine that would be permitted following the fall of Elves and [[Draconomicon|Dragons]], ensuring any teachings that may have contributed to this war over millennia would not come to be taught again. As a result, following the [[Ending War]] the council, through their actions, implied two groups of deities; They would come to be known as [[#The Sovereign Host]] and [[#The Dark Six]].
 
-Throwing their full resources behind The Sovereign Host, the council employed architects, builders guilds, craftsmen and their chosen officials to begin tearing down the iconography of those gods and idols of the elves and dragons, replacing them with sanctioned iconography.
+Throwing their full resources behind The Sovereign Host, the council employed architects, builders guilds, craftsmen and their chosen officials to begin tearing down the iconography of those gods and idols of the elves and [[Draconomicon|dragons]], replacing them with sanctioned iconography.
 
 The Temple Priests would begin to teach the history of the pantheon in their own ways, and over the next few centuries would develop disparate methods, tenants, stories and environments for worship. All share the same creationism story premise with varying details that have evolved over centuries, which begins with [[#The Genesis]].
 ## The Genesis
@@ -150,10 +155,11 @@ To anyone outside of the dwarven culture, the pantheon represented and worshippe
 ## Other Faiths
 ### Practiced Faiths
 
-| **Faith Name**        | **Tenants, Principles and Values** | **Suggested Domain(s)**                                                                     | Suggested Oath(s)                                                              | **Common Symbol**                 |
-| --------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------- |
-| [[The Silver Flame]]  | Good, Protection                   | [[Cleric Domains#Life\|Life]], [[Cleric Domains#Light\|Light]], [[Cleric Domains#War\|War]] | [[Paladin Oaths#Devotion\|Devotion]], [[Paladin Oaths#Redemption\|Redemption]] | Flame drawn or molded from silver |
-| [[The Path of Light]] | Self-improvement                   | [[Cleric Domains#Life\|Life]], [[Cleric Domains#Light\|Light]]                              | [[Paladin Oaths#Glory\|Glory]]                                                 | Brilliant Crystal                 |
+| **Faith Name**        | **Tenants, Principles and Values** | **Suggested Domain(s)**                                                                     | Suggested Oath(s)                                                              | **Common Symbol** |
+| --------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------- |
+| [[The Silver Flame]]  | Good, Protection                   | [[Cleric Domains#Life\|Life]], [[Cleric Domains#Light\|Light]], [[Cleric Domains#War\|War]] | [[Paladin Oaths#Devotion\|Devotion]], [[Paladin Oaths#Redemption\|Redemption]] | Silver Flame      |
+| [[The Path of Light]] | Self-improvement                   | [[Cleric Domains#Life\|Life]], [[Cleric Domains#Light\|Light]]                              | [[Paladin Oaths#Glory\|Glory]]                                                 | Brilliant Crystal |
+| [[Way of Shards]]     |                                    | [[Cleric Domains#Nature\|Nature]], [[Cleric Domains#Order\|Order]]                          | [[Paladin Oaths#Ancients\|Ancients]], [[Paladin Oaths#Watchers\|Watchers]]     |                   |
 ### Dead Faiths
 #### Draconic
 ##### Gods
@@ -179,6 +185,7 @@ With the destruction of the Elven race during The [[Ending War]], the faiths ass
 | --------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------ | ----------------- | --------- |
 | [[The Spirits of the Past]] | Ancestry, History, Respect, Wisdom | [[Cleric Domains#Nature\|Nature]], [[Cleric Domains#War\|War]], [[Cleric Domains#Grave\|Grave]]         | [[Paladin Oaths#Devotion\|Devotion]] | Varies (why?)     | [[#Idol]] |
 | [[The Undying Court]]       | Law, Order, Reason, Pride          | [[Cleric Domains#Order\|Order]], [[Cleric Domains#Knowledge\|Knowledge]], [[Cleric Domains#Life\|Life]] | [[Paladin Oaths#Crown\|Crown]]       | Golden Mask       | [[#Idol]] |
+| [[Way of Shards]]       |                                    |                                                                                                         |                                      |                   |           |
 ## Champions
 The deities of the world have rarely been seen in the material plane since [[#The Shattering]]. Most believe these to be myths and fairy tales told to children by the orders of clerics and schools of bards. There rumours in the right theological circles that each of the gods has their own champion, imbued with minor amounts of the [[#Deity|Deity's]] power to enact their will on the material plane. These agents are argued to enable the gods to act against each other without making themselves vulnerable.
 ![[Champion of a deity.png]]

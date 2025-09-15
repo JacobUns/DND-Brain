@@ -31,7 +31,7 @@ Most of the 300 living in [[Candlekeep]] are low-level admins, newcomers to the 
 ### First Reader
 - Constantly expands [[Candlekeep]]’s literary resources and base of knowledge
 - Responsible for Acquiring unique tomes and scrolls
-- The current first reader is Bookwrym, a dragonborn master sage of Green Dragon Ancestry.
+- The current first reader is Bookwrym, a dragonborn master sage of Green [[Draconomicon|Dragon]] Ancestry.
     - Bookwrym’s real name is Skoda Valanaster
 
 ### Great Readers
@@ -46,7 +46,7 @@ Current Great Readers are:
     - Worshiper of Oghma (God of Knowledge).
     - Primary Expertise: Divinity
 - [[Alkrist]], a Dragonborn Master Sage
-    - Bronze Dragon ancestry
+    - Bronze [[Draconomicon|Dragon]] ancestry
     - Primary Expertise: Politics, Military Strategy, and Significant Battles
 - [[Daral Yashenti]], a human Master Sage and Poet
     - Primary Expertise: Music, Poetry and Literature

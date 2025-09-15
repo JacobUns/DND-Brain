@@ -7,11 +7,8 @@ aliases:
 # Table of Contents
 - [[#Sessions]]
 - [[#Threads]]
-- [[#Characters]]
-	- [[#Player Characters]]
-	- [[#NPCs]]
-- [[#Factions]]
-- [[#Locations]]
+	- 
+- [[#Player Characters]]
 
 # Sessions
 - [[Session 01 - Shady dealings]]
@@ -23,13 +20,15 @@ aliases:
 - [[Session 07 - Finery and Fierce Pursuit]]
 - [[Session 08 - A guild defanged]]
 - [[Session 09 - Here be dragons]]
+- [[Session 10 - Ancients Revealed]]
+- [[Session 11 - A Fateful Find]]
 # Threads
 ## Subterfuge in the Nobility
-- [ ] Investigate [[Duchess Cho Nuvrin|Duchess Cho]]'s suspicions of a coup among the nobility
-	- [ ] Meet with [[Duchess Cho Nuvrin|Cho]] following the ball
-	- [ ] Destroy the thieves guild for [[Duchess Cho Nuvrin|Lady Cho]]
+- [x] ~~Investigate [[Duchess Cho Nuvrin|Duchess Cho]]'s suspicions of a coup among the nobility ~~
+	- [x] ~~Meet with [[Duchess Cho Nuvrin|Cho]] following the ball~~
+	- [x] ~~Destroy the thieves guild for [[Duchess Cho Nuvrin|Lady Cho]]~~
 		- [x] ~~Kill the Boss of the Thieves Guild in Kalvenen~~
-		- [ ] Report back to [[Duchess Cho Nuvrin|Cho]]
+		- [x] ~~Report back to [[Duchess Cho Nuvrin|Cho]]~~
 ## Factions at Work
 - [ ] [[Orphus]] organisation hideout in the [[Kalvanen#Glass Forge|Glass Forge District]]
 - [ ] [[Gemmen Zrayax]] can be found in the [[Nuvrin#Snoring Drum Inn|Snoring Drum Inn]] of the [[Nuvrin#Salt Stair|Salt Stair District]]
@@ -37,22 +36,18 @@ aliases:
 - [ ] Cleric of the [[Enlightened Empire]] seen preaching in the northern part of [[Kalvanen]]
 ## Elven Ruins
 - [x] ~~Investigate the rumours of glowing plants growing above ground in Kalvenen~~
-- [x] Investigate the Unknown City (Site B) near [[Bellowfern]]
+- [x] ~~Investigate the [[Enxina]] (Site B) near [[Bellowfern]]~~
 	- [x] ~~Investigate for a potential weapon to help against the Goblins~~
-	- [ ] Investigate the 
-- [ ] Investigate [[Elaran]] (Site E) in the [[Enlightened Empire]]
+- [ ] Investigate the lab that rebelled and created the goblin virus on the island off the coast of [[Nostar]]
+- [x] ~~Investigate [[Elaran]] (Site E) in the [[Enlightened Empire]]~~
 - [ ] Investigate [[Leoqen]] (Site D) east of [[Oda]]
 - [ ] Investigate [[Mirakian]] (Site C)
 ## Starry Night
 - [ ] Investigate [[Mossbreak]], the location depicted in the Starry Night
 	- [ ] Investigate for clues of the event's significance
-# Characters
-## Player Characters
+# Player Characters
 - [[Aolani]]
 - [[Borin Ironfist]]
 - [[Brezek]]
 - [[Lumen Keijo]]
 - [[Tiscordin]]
-## NPCs
-# Factions
-# Locations

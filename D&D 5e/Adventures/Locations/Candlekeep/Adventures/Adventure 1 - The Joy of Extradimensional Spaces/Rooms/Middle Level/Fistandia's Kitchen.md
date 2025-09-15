@@ -16,7 +16,7 @@
 
 ## Cumin and Coriander
 - Two [[Homunculi]]
-- Only had the cats and faerie dragons to cook
+- Only had the cats and faerie [[Draconomicon|dragons]] to cook
 
 Make a DC 15 Arcana check
 > You know a few facts about Homunculi. One, a master of a homunculus can only have one at a time. Two, when the master dies, the homunculus also dies. 
@@ -26,7 +26,7 @@ Make a DC 15 Arcana check
 - Their masters left long ago
 - Fistandia used to go to the Planetarium upstairs regularly
 - Something keeps building piles of books in the library
-- Dragons in the Arboretum are mischievous but harmless. Try to stay out of their way
+- [[Draconomicon|Dragons]] in the Arboretum are mischievous but harmless. Try to stay out of their way
 	- Faerie Dragons
 
 ### Cumin

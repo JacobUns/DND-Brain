@@ -2,7 +2,7 @@
 - There are secret stairs all over [[Candlekeep]]
 - Stairs lead to dusty vaults and catacombs that hold the oldest books
 - The flooded caves at sea level are haunted by all manner of strange creatures
-- A spectral dragon called [[Miirym]] prowls the catacombs and caves under the library
+- A spectral [[Draconomicon|dragon]] called [[Miirym]] prowls the catacombs and caves under the library
 
 ## [[Miirym]] the Sentinel Wyrm
 

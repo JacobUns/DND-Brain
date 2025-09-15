@@ -5,6 +5,7 @@ tags:
 aliases:
   - Ao
 ---
+![[Aolani, Aasimar Cleric.png]]
 # About
 A tall figure with human features, something isn't quite normal about the man in well kept and finely made black armour. It might be the starkness of the streak of black that runs through his otherwise pale, almost white, hair or it might be the slight shimmer from his temples that almost looks like tiny gemstones under his smooth skin. Whatever it is, Aolani cuts an intimidating and slightly unnatural figure.
 ## Appearance
@@ -13,25 +14,22 @@ A tall figure with human features, something isn't quite normal about the man in
 **Skin Colour**: Lightly Tanned
 **Hair Colour**: Pale Blonde - Almost White, with a 2'' thick black stripe
 **Physical Description**: Though not overtly strong, his quiet confidence and broad shoulders portray a man who is undeniably powerful - as if honed through years of relentless training. Tight, sinewy muscles speak not of brute strength but of efficiency and elegance, his skin baring the scars of his training. Not imposing in sheer size, there is an unmistakable intensity in his stance and stride that commands the attention of those around him.
+
+# Arsenal
+## Sword of Nine Lives
+![[Sword of Nine Lives.png]]
 # Personal Quest Log
 ### Main Quest - Complete the Trial of Cinders
-To become an [[Ashen Confessors|Ashen Confessor]], Ao must complete his [[Ashen Confessors#The Ordeal of Fire|Ordeal of Fire]] and [[Ashen Confessors#The Purging of Weakness|Purifying ceremony]]. To achieve this, he must:
-- Find the information on his lineage, and the darkness within him
-- Return to the Temple with his findings
+- [ ] To become an [[Ashen Confessors|Ashen Confessor]], Ao must complete his [[Ashen Confessors#The Ordeal of Fire|Ordeal of Fire]] and [[Ashen Confessors#The Purging of Weakness|Purifying ceremony]]. To achieve this, he must:
+	- [ ] Find the information on his lineage, and the darkness within him
+	- [ ] Return to the Temple with his findings
 ### Side Quest - Deliver the "Starry Night" painting to [[The Silent Ledger]]
 [[#Howie]] has approached Ao telling him the job being requested by the boss is to steal a painting by an artist called [[Eshin Himed]] that is being sold at the [[Kalvanen#Herquens Auction House|Auction House]] in the coming weeks.
-- ~~Steal the Starry Night painting from the Auction House~~
-- ~~Return it to the thieves guild~~
+- [x]  ~~Steal the Starry Night painting from the Auction House~~
+- [x] ~~Return it to the thieves guild~~
 #### Optional Path
-- ~~As payment for procuring the painting from the auction house, [[Duchess Cho Nuvrin|Duchess Cho]] has requested the group kill the head of [[The Silent Ledger]], [[Veylen Kaelthorne|Veylen Kaelthorne]].~~
-- Return to [[Duchess Cho Nuvrin|Cho]]
-### Main Quest - Investigate the coup in the [[Kingdom of Kalvanen|Kalvanen Nobility]]
-[[Duchess Cho Nuvrin|Duchess Cho]] has uncovered information that implies some of the nobility are planning a coup against [[King Caladeth Kalvanen|King Kalvanen]]. 
-- ~~Investigate reports of a strange man in [[Rupgen]]~~
-- ~~Report back to [[Duchess Cho Nuvrin|Cho]]~~
-- ~~Attend the ball in [[Kalvanen]]~~
-- Wait to be contacted by the man in the blue cape
-- Investigate the dragon stone being worn by [[Duke Kai Oda|Duke Oda]]
+- [x] ~~As payment for procuring the painting from the auction house, [[Duchess Cho Nuvrin|Duchess Cho]] has requested the group kill the head of [[The Silent Ledger]], [[Veylen Kaelthorne|Veylen Kaelthorne]].~~
+- [x] ~~Return to [[Duchess Cho Nuvrin|Cho]]
 
 # Detailed Backstory
 

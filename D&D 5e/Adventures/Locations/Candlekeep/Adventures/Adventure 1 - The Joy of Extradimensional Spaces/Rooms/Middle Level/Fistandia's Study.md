@@ -6,7 +6,7 @@
 > The first thing that catches your eye though, is a desk in the middle of the room with three comfortable looking armchairs around it, and on the one facing you is a black fluffy cat which sits up and meows at you, then jumps down off the table and approaches.
 
 ## Paintings
-- One is a landscape scene with a large green dragon emerging from a grove of pine trees
+- One is a landscape scene with a large green [[Draconomicon|dragon]] emerging from a grove of pine trees
 - One is a study of a Pegasus in flight
 - One is a portrait of a unicorn in a wooded glade
 
