@@ -156,16 +156,18 @@ aliases:
 
 ![[Silver Dragon.png]]
 # Steel
-**Breath Weapon**:
-**Alignment**: 
+**Breath Weapon**: Charm
+**Alignment**: Neutral Good
 **Rarity**: Rare
 **Immunities**: Acid
 **Resistances**: Poison
 
-**Temperament**: 
+**Temperament**: Valiant and Headstrong, these creatures have difficulty with any kinds of absolutely authority. This makes them resistant to the leadership of [[Draconomicon|dragons]] such as [[#Bronze]] or [[#Gold]] [[Draconomicon|Dragons]], and natural adversaries to [[Chromatic Dragons]]. Generally amiable and curious creatures by nature, they tend to amalgamate into cultures providing them aid rather than attempt to rule them. Recognising and not wanting to significantly disrupt the rule of law within their chosen living territory, they politically manoeuvre themselves into positions of favour and power through use of their ability to enchant and charm individuals.
 
-**Description**: 
+**Description**: In their natural [[Draconomicon|Dragon]] form, they have the most feline movement of their dragonkind. Their scales shine with the burnished blue-grey of steel, their wings consist of feather-like blades, and their chests and bellies are armour with large scale plates that could almost be shields. As with all [[Draconomicon|dragons]], they are innate spellcasters. Their powers include spells within the [[Cleric Domains]] of [[Cleric Domains#Knowledge|Knowledge]] and [[Cleric Domains#Trickery|Trickery]]. 
 
-**Habitat**: 
+**Habitat**: Steel [[Draconomicon|Dragons]] are unlike many of their siblings and cousins. They prefer to live in their shape-changed form, similar to [[#Silver]] [[Draconomicon|Dragons]], but will choose to live in palaces, mansions, castles and towers. When hosting guests, they will make excuses that allow them to hunt secretly, the grand structures that become their lairs often setup to allow for secret ways in and out.
 
-**Hoards**: 
+**Hoards**: With the lairs of Steel [[Draconomicon|Dragons]] being palaces and castles, their hoards are not immediately obvious to guests that enter their domains. They revel in expanding their reach and power within their chosen territory, and as they play their political games of [[Dragonchess]], the gifts they receive from those looking to win their favour are displayed within their lair. They have a preference towards works of art, antiques, books, finery, magic items and even gifted servants.
+
+![[Steel Dragon.png]]

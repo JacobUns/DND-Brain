@@ -2,7 +2,19 @@
 aliases:
   - Chromatic Dragon
 ---
-## Black
+# Table of Contents
+- [[#Black]]
+- [[#Blue]]
+- [[#Brown]]
+- [[#Grey]]
+- [[#Green]]
+- [[#Orange]]
+- [[#Pink]]
+- [[#Purple]]
+- [[#Red]]
+- [[#White]]
+- [[#Yellow]]
+# Black
 **Breath Weapon**: Acid
 **Alignment**: Chaotic Evil
 **Rarity**: Rare
@@ -16,7 +28,7 @@ aliases:
 **Hoards**: Tarnished symbols of hope and relics of fallen empires. The more sought-after the treasure, the more black [[Draconomicon|Dragons]] prize it—particularly if they were responsible for it being lost.
 
 ![[Black Dragon 3.png]]
-## Blue
+# Blue
 **Breath Weapon**: Lightning
 **Alignment**: Lawful Evil
 **Rarity**: 
@@ -30,7 +42,7 @@ aliases:
 **Hoards**: They crave control and collect followers like other [[Draconomicon|Dragons]] hoard treasure. Regalia of rulership and artistic masterpieces fill blue [[Draconomicon|Dragons]]’ hoards. These [[Draconomicon|Dragons]] have no interest in treasures that are common or flawed, preferring one-of-a-kind gemstones, the crowns of fallen royals, and magic items capable of spreading the [[Draconomicon|Dragons]]’ influence.
 
 ![[Blue Dragon.png]]
-## Brown
+# Brown
 **Breath Weapon**: Sand (Bludgeoning)
 **Alignment**: Chaotic Evil
 
@@ -45,7 +57,7 @@ Though they have some of the most powerful wings of their draconic siblings, the
 **Hoards**: Browns are obsessive collectors of dominance and survival tools rather than simple wealth. While they still covet gold, jewels, and enchanted weaponry, their hoards favour rare desert minerals, ancient artefacts tied to elemental power, and magical resources that grant them greater control over their harsh environments. Many also curate trophies from defeated rivals; bleached bones, shattered weapons, and scorched banners, displayed prominently within their lairs as warnings to intruders. To a Brown [[Draconomicon|Dragon]], the worth of treasure is not measured by value alone, but by the power and authority it represents.
 
 ![[Brown Dragon 2.png]]
-## Grey
+# Grey
 **Breath Weapon**: Necrotic
 **Alignment**: Chaotic Evil
 
@@ -58,7 +70,7 @@ Though they have some of the most powerful wings of their draconic siblings, the
 **Hoards**: Grey [[Draconomicon|Dragons]] hoard the spoils of their followers. Typically favouring gold and jewels, their stash of wealth also regularly contains family heirlooms and items of power that have been swept up in their followers path. The rewards are second to the power and control over those within their territory, but are taken to maintain their dominion. Roving bands of Goliaths pillage and raid the countryside, wild men seize goods from trade routes, and pirate fleets intercept costal plunder, but all must pay the force of nature that ensures their raiding continues. 
 
 ![[Grey Dragon.png]]
-## Green
+# Green
 **Breath Weapon**: Poison
 **Alignment**: Lawful Evil
 Rarity: Very Rare
@@ -72,7 +84,7 @@ Rarity: Very Rare
 **Hoards**: Greens hoard the secrets of others, prioritising compromising documents, family heirlooms and sentimental treasures that can be used to manipulate those they wish to undermine.
 
 ![[Green Dragon 2.png]]
-## Orange
+# Orange
 **Breath Weapon**: Petrification
 **Alignment**: Neutral Evil
 
@@ -85,7 +97,7 @@ Rarity: Very Rare
 **Hoards**: Orange [[Draconomicon|Dragons]] collect sculptures, relics, and artistic masterpieces, but their most prized trophies are those they create themselves. Petrified victims, mortals, beasts, and even rival [[Draconomicon|Dragons]], are posed deliberately, forming grim tableaux within their lairs. While they covet gemstones and metals like their kin, their collections lean heavily toward rare minerals, fossils, and crystalline formations whose hues mirror the molten tones of their scales. To an Orange [[Draconomicon|Dragon]], wealth is measured not only in gold but in the perfection of the displays they curate from the lives they’ve stolen.
 
 ![[Orange Dragon 2.png]]
-## Pink
+# Pink
 **Breath Weapon**: Charm
 **Alignment**: Lawful Evil
 
@@ -98,7 +110,7 @@ Rarity: Very Rare
 **Hoards**: Pink [[Draconomicon|Dragons]] do not hoard gold for wealth, they hoard symbols of worship and power. Their collections are filled with jewelled icons, ceremonial relics, ancient crowns, divine sceptres, and enchanted artefacts once used to inspire reverence in mortals. More unsettling, many Pink [[Draconomicon|Dragons]] preserve physical trophies of their followers’ devotion: portraits, vows written in blood, lockets containing lovers’ ashes, and petrified “chosen ones” posed as eternal statues in displays of loyalty. To a Pink [[Draconomicon|Dragon]], treasure exists to affirm their godhood, and every artefact is another thread in the tapestry of their own myth.
 
 ![[Pink Dragon.png]]
-## Purple
+# Purple
 **Breath Weapon**: Psychic
 **Alignment**: Neutral Evil
 
@@ -111,7 +123,7 @@ Rarity: Very Rare
 **Hoards**: Full of the relics of their conquered empires, many a Dwarven, Duergar or Gnomish artefact can be found protected by forests of mushrooms that explode with spores as unsuspecting foes near them.
 
 ![[Purple Dragon.png]]
-## Red
+# Red
 **Breath Weapon**: Fire
 **Alignment**: Chaotic Evil
 
@@ -124,7 +136,7 @@ Rarity: Very Rare
 **Hoards**: Red [[Draconomicon|Dragons]] are the most avaricious of their kind, hoarding gold, jewels, and artefacts in quantities that dwarf the wealth of empires. But their hoards are not just symbols of greed, they are monuments to their supremacy. They covet artefacts of ancient power, the regalia of fallen kings, enchanted weapons capable of slaying gods, and the rarest treasures stolen from rival [[Draconomicon|Dragons]]. A Red [[Draconomicon|Dragon]]’s hoard is both a shrine to their own greatness and a declaration of conquest; every piece taken, every empire toppled, a reminder that nothing, mortal or divine, can stand against them.
 
 ![[Red Dragon.png]]
-## White
+# White
 **Breath Weapon**: Ice
 **Alignment**: Chaotic Evil
 
@@ -137,7 +149,7 @@ Rarity: Very Rare
 **Hoards**: While White [[Draconomicon|Dragons]] covet treasure, their hoards reflect their predatory nature more than vanity. They collect weapons, tools of survival, rare pelts, enchanted relics, and frost-bound artefacts, valuing items that enhance their power or status as apex hunters. Unlike Reds, who amass vast displays of wealth, Whites often bury their hoards within the ice itself, forming colossal frozen vaults that are as beautiful as they are deadly to navigate. 
 
 ![[White Dragon.png]]
-## Yellow
+# Yellow
 **Breath Weapon**: Radiant
 **Alignment**: Neutral Evil
 

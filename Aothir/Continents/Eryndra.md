@@ -23,6 +23,7 @@
 - [[Corwell]]
 - [[Felwin]]
 - [[Elistor]]
+- [[Shipsbane]]
 ### Forests
 - Larkwood
 - The Shadowed Grove

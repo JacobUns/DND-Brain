@@ -11,6 +11,30 @@ aliases:
 - [[#Metallic]]
 	- [[#Summary of Metallic Dragons|Summary]]
 - [[#Tail Weapons]]
+# Dragons
+--- start-multi-column: ID_vov5
+```column-settings
+Number of Columns: 2
+Largest Column: right
+Border: disabled
+Shadow: disabled
+```
+
+| Type      | Rarity    |
+| --------- | --------- |
+| Chromatic | Rare      |
+| Metallic  | Rare      |
+| Gem       | Very Rare |
+| Floral    | Very Rare |
+
+--- column-break ---
+
+Few creatures inspire such awe, terror, and reverence as dragons. They are the oldest living echoes of creation, beings whose wings once darkened the skies of every kingdom and whose roars shook the foundations of empires. Though their numbers have waned through war, time, and secrecy, dragons remain the most formidable of all mortal creatures—apex predators of body and mind, as much embodiments of the elements as they are living beings.
+
+--- end-multi-column
+
+As with all creatures of the world, Dragons have their own territorial demands and preferred environments. Most don't tolerate another trespassing into their domain, and the clash that results from adversarial dragons is devastating to the surrounding area.
+
 # Chromatic
 Dragons whose scales are coloured, rather than reminiscent of gems, metals or flora, are typically evil creatures that operate as agents of their own, and often selfish, desires. They seek power, treasures or dominion over others, and are willing to do what it takes to grow their hoards.
 
@@ -26,46 +50,34 @@ Dragons whose scales are coloured, rather than reminiscent of gems, metals or fl
 | **[[Chromatic Dragons#Green\|Green]]**   | Poison                        | Lawful Evil   | **Ambitious & Insidious**<br>Masters of deception and political intrigue         | - Deep Forbidden Forests<br>- Corrupted groves<br>- Hidden Ruinous Strongholds |
 | **[[Chromatic Dragons#Orange\|Orange]]** | Petrification                 | Neutral Evil  | **Callous & Ferocious**<br>Chaotic destroyers who treat victims as art           | - Volcanic valleys<br>- Petrified forests<br>- Unstable badlands               |
 | **[[Chromatic Dragons#Pink\|Pink]]**     | Charm                         | Lawful Evil   | **Imperious & Vain**<br>False idols demanding absolute worship                   | - Grand ruins<br>- Ancient temples<br>- Palatial lairs draped in luxury        |
-| **[[Chromatic Dragons#Purple\|Purple]]** | Psychic<br>_(Spore Infusion)_ | Neutral Evil  | **Cunning & Devious**<br>Masters of corruption and manipulation                  | - Underdark caverns<br>- Fungal forests<br>- Fallen subterranean fortresses    |
+| **[[Chromatic Dragons#Purple\|Purple]]** | Psychic<br>_(Spore Infusion)_ | Neutral Evil  | **Cunning & Devious**<br>Masters of corruption and manipulation                  | - [[Underdark]] caverns<br>- Fungal forests<br>- Fallen subterranean fortresses    |
 | **[[Chromatic Dragons#Red\|Red]]**       | Fire                          | Lawful Evil   | **Cataclysmic & Tyrannical**<br>Living infernos of conquest and destruction      | - Volcanic peaks<br>- Scorched mountain ranges<br>- Magma-choked lairs         |
 | **[[Chromatic Dragons#White\|White]]**   | Ice                           | Chaotic Evil  | **Savage & Relentless**<br>Apex hunters driven by instinct and hunger            | - Glacial peaks<br>- Frozen seas<br>- Ice-buried tunnels                       |
 | **[[Chromatic Dragons#Yellow\|Yellow]]** | Radiant                       | Neutral Evil  | **Fanatical & Inexorable**<br>Zealous false-angels bringing searing annihilation | - Desecrated temples<br>- Radiant-crystal caves<br>- Sun-blasted mesas         |
 # Metallic
-Metallic Dragons are considered by many to be the antithesis of [[#Chromatic|Chromatic Dragons]]. Typically of a Good alignment, many metallic dragons seek to work against what they perceive as evil either directly, such as [[Metallic Dragons#Bronze|Bronze]] or [[Metallic Dragons#Gold|Gold]] dragons, or indirectly as with [[Metallic Dragons#Silver|Silver]] dragons.
+[[Metallic Dragons]] are considered by many to be the antithesis of [[#Chromatic|Chromatic Dragons]]. Typically of a Good alignment, many [[metallic dragons]] seek to work against what they perceive as evil either directly, such as [[Metallic Dragons#Bronze|Bronze]] or [[Metallic Dragons#Gold|Gold]] dragons, or indirectly as with [[Metallic Dragons#Silver|Silver]] dragons.
+
+![[Metallic Dragons.png]]
 ## Summary of Metallic Dragons
 
-| **Type** | Breath Weapon         | Alignment       | Temperament | Typical Habitat |
-| -------- | --------------------- | --------------- | ----------- | --------------- |
-| Brass    | Sleeping Gas          | Chaotic Good    |             |                 |
-| Bronze   | Electric or Force     | Lawful Good     |             |                 |
-| Cobalt   | Fear or Magnetic Push | True Neutral    |             |                 |
-| Copper   | Acid or Slow          | Chaotic Good    |             |                 |
-| Electrum | Weakening Gas         | Neutral Good    |             |                 |
-| Gold     | Fire                  | Lawful Good     |             |                 |
-| Iron     | Petrification         | Lawful Neutral  |             |                 |
-| Mercury  | Poison                | Chaotic Neutral |             |                 |
-| Platinum | Radiant               | Lawful Good     |             |                 |
-| Silver   | Paralysis             | Lawful Good     |             |                 |
-| Steel    |                       |                 |             |                 |
+| **Type**                                | Breath Weapon         | Alignment       | Temperament                                                        | Typical Habitat                                                            |
+| --------------------------------------- | --------------------- | --------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| [[Metallic Dragons#Brass\|Brass]]       | Sleeping Gas          | Chaotic Good    | **Diplomatic & Pacifying**<br>Prefers persuasion to force          | - Wastelands<br>- Badlands<br>- Deserts                                    |
+| [[Metallic Dragons#Bronze\|Bronze]]     | Electric<br>Force     | Lawful Good     | **Inquisitive & Strategic**<br>Seekers of righteous justice        | - Coastal regions<br>- Rocky outcrops<br>- Water Entrances                 |
+| [[Metallic Dragons#Cobalt\|Cobalt]]     | Fear<br>Magnetic Push | True Neutral    | **Domineering & Cunning**<br>Destroyers of the weak                | - Deep Forests<br>- Jungles<br>- Underground Caverns                       |
+| [[Metallic Dragons#Copper\|Copper]]     | Acid<br>Slow          | Chaotic Good    | **Even-tempered & Sociable**<br>Reasonable but greedy              | - Mountain Foothills<br>- Natural Highlands<br>- Cavern Systems            |
+| [[Metallic Dragons#Electrum\|Electrum]] | Weakening Gas         | Neutral Good    | **Peaceful & Formidable**<br>Peaceful and philosophical hermits    | - Remote Locations<br>- Mountain Tops<br>- [[Shadowfell]]<br>- [[Feywild]] |
+| [[Metallic Dragons#Gold\|Gold]]         | Fire                  | Lawful Good     | **Graceful & Self Righteous**<br>Arbiters of Law and Justice       | - Crumbling Shrines<br>- Fallen Fortresses<br>- Deep Wilderness Ruins      |
+| [[Metallic Dragons#Iron\|Iron]]         | Petrification         | Lawful Neutral  | **Steadfast & Determined**<br>Regimented and tribal protectors     | - Temperate Mountains<br>- Forests<br>- Ore Deposits                       |
+| [[Metallic Dragons#Mercury\|Mercury]]   | Poison                | Chaotic Neutral | **Unstable & Unpredictable**<br>Volatile recluses                  | - Lava Tubes<br>- Elemental Chaos Plane                                    |
+| [[Metallic Dragons#Platinum\|Platinum]] | Radiant               | Lawful Good     | **Serene & Just**<br>Legendary beings of divine justice            | - Unknown                                                                  |
+| [[Metallic Dragons#Silver\|Silver]]     | Paralysis             | Lawful Good     | **Regal & Wise**<br>Natural protectors and friends                 | - Snowcapped Mountains<br>- Cosmopolitan Areas                             |
+| [[Metallic Dragons#Steel\|Steel]]       | Charm                 | Neutral Good    | **Valiant & Headstrong**<br>Political charmers and philanthropists | - Castles<br>- Palaces<br>- Mage Towers                                    |
 
 # Gem
 The gem dragons are from "Fizban's Treasury of Dragons"
 ## Amethyst
-**Breath Weapon**: Gravitational (Force)
-**Alignment**:
 
-**Temperament**: Generally aloof creatures, dwelling in isolation for long periods of time and rarely cultivating connections with other creatures. When they do connect with others, it is most often for intellectual and philosophical pursuits or to fulfil some arcane purpose involving the dragons’ echoes across the worlds.
-
-**Description**:
-**Habitat**: Prefer lairs near water, ideally mountain lakes, where they take advantage of existing caves and tunnels. A lair behind a cascading waterfall is ideal, and often part of that lair is submerged, allowing the dragon to rest in the water and cultivate the fish that are their preferred food. Frequently exhibit or develop large and beautiful clusters of amethyst crystals, including massive cathedral geodes split open to show their contents and clusters of crystal points more than a foot in diameter that extend six to ten feet from the interior stone surfaces of the lair. These crystals resonate with the dragon’s presence, and glow with a soft inner light. The older the dragon, the deeper the purple colour of the crystals.
-
-**Hoards**: Often collect crystals and gems, particularly their namesake stones, in raw, polished, or cut forms. They have less interest in coins and precious metals, although many have a fascination with metal items that have a silvery finish. Amethyst dragons favor treasures with particular scholarly or philosophical value as a part of their hoard, including fine books, scrolls, or carved tablets; tapestries or woven “tomes” of embroidered cloth; complex scientific instruments; and religious icons or objects. They are fond of unique and unusual art objects, especially those connected to far-off or long-lost cultures, other [[planes of existence]], or other worlds—and of magic items that allow movement between those planes or worlds.
-## Crystal - Radiant
-## Emerald - Psychic
-## Moonstone - Radiant (Moonbeam) or Sleep
-## Sapphire - Thunder
-## Topaz - Necrotic
-## Obsidian
 # Floral
 The floral dragons are from "The Field Guide to Floral Dragons" from Hit Point Press.
 ## Types
