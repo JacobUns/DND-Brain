@@ -1,4 +1,6 @@
 ---
 tags:
   - playercharacter
+aliases:
+  - Frontistis
 ---
