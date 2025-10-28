@@ -23,10 +23,11 @@ session date: 2024-01-04
 	- A kind of arcane battery that can be used to power objects from Elven ruins
 	- Not used in the world today as the technology was outlawed
 	- Four sizes
-		- Small - Worth 25gp each
-		- Medium - Worth 50gp each
-		- Large - Worth 200gp each
-		- Huge - 500gp each
+		- Tiny - Worth 25gp each
+		- Small - Worth 50gp each
+		- Medium - Worth 200gp each
+		- Large - Worth 500gp each
+		- Huge - Worth 2000gp each
 - Players & Characters
 	- Dan Baller - Brezek - Dwarven Artificer
 	- Jon Bingham - [[Borin Ironfist|Borin]] - Dwarven Fighter/Wizard

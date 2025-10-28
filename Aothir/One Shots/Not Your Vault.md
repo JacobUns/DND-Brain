@@ -1,3 +1,7 @@
+---
+tags:
+  - oneshot
+---
 From page 160 of One Shot Wonders
 # The Workshop
 > [!cite]+ Workshop Description

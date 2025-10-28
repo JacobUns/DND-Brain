@@ -1,5 +1,5 @@
 # Introduction
-_[[Jezia Luth]] stands with perfect poise, hands folded, his tone calm but weighted — like a man revealing only part of a much larger truth._
+_[[Jezia Luth]] stands with perfect poise, hands folded, his tone calm but weighted.
 
 “There are certain… artefacts. Old. Older than the kingdoms you’ve heard of, older even than the maps that still dare name the unclaimed lands.”
 
@@ -229,6 +229,9 @@ Designed for use in jewellery, hidden markings, branded relics, wax seals, book 
 ## Elaborate Version
 Over years, may illustrations and interpretations of the iconography of Threxis have existed but they contain a lot of the same concepts.
 ![[Elaborate Sigil of Threxis.png]]
+
+## Modern Sigil
+![[Threxis Detailed Gold Sigil.png]]
 
 ---
 # History - The Fall of Threxis
