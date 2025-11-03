@@ -64,7 +64,7 @@ In the desk draw of Edran's study is a letter. It is crisp and clean, but it's s
 If the party have already been to [[Location 1 - Temple of Threxis]], then they may recognise the symbol if they have picked up on any of the iconography.
 
 The sigil is 
-![[The Weeping Scales Sigil.png]]
+![[Elaborate Sigil of Threxis.png]]
 
 > [!quote]- Letter Content
 > To the one who finds this,
