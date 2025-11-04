@@ -1,4 +1,5 @@
 # Combat
+Rounding Down on rolls where the result needs to be halved.
 ## Crits
 Melee Crits - Max Weapon Roll + Weapon Dice Roll
 Spell Crits - Double Dice Roll
