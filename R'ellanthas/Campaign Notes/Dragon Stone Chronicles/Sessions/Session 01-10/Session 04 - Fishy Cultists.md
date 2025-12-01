@@ -37,7 +37,7 @@ During the fight, [[Lumen Keijo|Lumen]] lifts his mask and reveals his face to o
 - A necklace with a cult symbol (home made)
 - A sealed tube likely containing parchment.
 
-Next, the group turns their attention to the dwellings around them. After a brief search, the group find three small Arc Cells as well as three shrines to [[Erador]] showing different depictions of other gods of the Elvish race as well. [[Aolani|Ao]] collects these to take back to [[Professor Sikud|Sikud]] for identification.
+Next, the group turns their attention to the dwellings around them. After a brief search, the group find three small [[Arc Cells]] as well as three shrines to [[Erador]] showing different depictions of other gods of the Elvish race as well. [[Aolani|Ao]] collects these to take back to [[Professor Sikud|Sikud]] for identification.
 
 Returning back to the central chamber, the group decide to briefly search the forest area. They find it's more of a park than a forest. A river flows further underground and on its surface appear to be boats for gentle travel.
 

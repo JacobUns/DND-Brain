@@ -8,7 +8,7 @@ session location:
 **Days to Mossbreak**: 36 (22 days with foot travel)
 
 **Downtime**
-[[Aolani|Ao]] goes through the papers and finds information about the guild's cashflow and how they maintained a grip on their trade. Any resource they had recently had been flowing through a name associated with Mosshine. Weapons, funds and a large portion of something that was obviously attempting to be hidden. [[Aolani|Ao]] infers that this is likely to be a large quantity of arc cells. These appear to be getting ferried towards where we understand Mosshine to be operating, and may other of the jobs appear to be drying up and more focus seems to be going towards. Safe houses in each major city are also detailed of those that harbour the group. Thieves guild seem to have coordinated Arc Cell collection in this part of the kingdom for Mosshine.
+[[Aolani|Ao]] goes through the papers and finds information about the guild's cashflow and how they maintained a grip on their trade. Any resource they had recently had been flowing through a name associated with Mosshine. Weapons, funds and a large portion of something that was obviously attempting to be hidden. [[Aolani|Ao]] infers that this is likely to be a large quantity of [[arc cells]]. These appear to be getting ferried towards where we understand Mosshine to be operating, and may other of the jobs appear to be drying up and more focus seems to be going towards. Safe houses in each major city are also detailed of those that harbour the group. Thieves guild seem to have coordinated [[Arc Cells|Arc Cell]] collection in this part of the kingdom for Mosshine.
 
 [[Tiscordin]] reads through more of the journal from the Elvish Ruins. After working through, he still has a bit of time required to further decipher the journal. [[Seraphina]] works on some odd jobs for [[Kimvac Xuan|Kimvac]]. [[Lumen Keijo|Lumen]] goes and buys some more Bottles with the Go Faster Stripe. After some consideration, he decides not to interact with the dragonstone.
 
@@ -38,7 +38,7 @@ The path doesn't appear to have been trodden by other people. Thin game trails s
 
 Mostly humans, there's a goliath, and a scaly looking humanoid (dragonborn) which we've never seen anything like before. The owls continue to fly through and manage to find a squared area covered by foliage.
 
-During the battle with the campdwellers, [[Borin Ironfist|Borin]] takes out a tiny arc cell, draws the power from it, and empowers his cast of summon undead. His spell is upcast by two levels. It also causes the wild magic reaction. In this instance, it causes further wild magic explosions to occur for a minute. In the course of the fight, he falls to an orb of lightning cast by the wizard and then flashes to the [[astral plane]] as a result of the wild magic. Several explosions of energy and two potted plant transformations later, [[Borin Ironfist|Borin]] reverts back to his dwarf form briefly before staying as a potted plant.
+During the battle with the campdwellers, [[Borin Ironfist|Borin]] takes out a tiny [[Arc Cells|arc cell]], draws the power from it, and empowers his cast of summon undead. His spell is upcast by two levels. It also causes the wild magic reaction. In this instance, it causes further wild magic explosions to occur for a minute. In the course of the fight, he falls to an orb of lightning cast by the wizard and then flashes to the [[astral plane]] as a result of the wild magic. Several explosions of energy and two potted plant transformations later, [[Borin Ironfist|Borin]] reverts back to his dwarf form briefly before staying as a potted plant.
 
 After the fight comes to its conclusion, [[Seraphina]] and [[Borin Ironfist|Borin]] have fallen and been recovered and all of the dragon cult have been felled. Investigating the area, we find the scene of a fully intact large creature. [[Tiscordin]] believes that this is likely to be the bones of a dragon. [[Seraphina]] and [[Lumen Keijo|Lumen]] start searching through the tents and bodies for anything of interest.
 
@@ -62,13 +62,13 @@ Gold is split between 4.
 
 "A disturbing find. Can't leave intact. Are you able to damage it in any way or destroy? Let me know how you get on"
 
-We try and damage the bones of the dragon with bludgeoning, slashing, force and other magical damage but do almost nothing to it. [[Lumen Keijo|Lumen]] suggests we attempt to blow it up with an arc cell. We message [[Duchess Cho Nuvrin|Cho]] again to inform her and she mentions she can always find [[Lumen Keijo|Lumen]].
+We try and damage the bones of the dragon with bludgeoning, slashing, force and other magical damage but do almost nothing to it. [[Lumen Keijo|Lumen]] suggests we attempt to blow it up with an [[Arc Cells|arc cell]]. We message [[Duchess Cho Nuvrin|Cho]] again to inform her and she mentions she can always find [[Lumen Keijo|Lumen]].
 
 We rest with watches.
 
 **Days to Mossbreak**: 31 (17 days with foot travel)
 
-[[Lumen Keijo|Lumen]] takes the head of the Dragonborn we killed and in the light we find its skin is red. We return to the carts, lift the skull out and move it back to the rest of the skeleton into the central mass. Putting one of the large arc cells in its mouth, we move 120ft away and [[Seraphina]] fires a firebolt at it. Purple arcane light explodes and then implodes back in on itself and a shockwave pushes out. A mini crater is left below and 40ft of dragon skeleton has been completely disintegrated.
+[[Lumen Keijo|Lumen]] takes the head of the Dragonborn we killed and in the light we find its skin is red. We return to the carts, lift the skull out and move it back to the rest of the skeleton into the central mass. Putting one of the large [[arc cells]] in its mouth, we move 120ft away and [[Seraphina]] fires a firebolt at it. Purple arcane light explodes and then implodes back in on itself and a shockwave pushes out. A mini crater is left below and 40ft of dragon skeleton has been completely disintegrated.
 
 [[Tiscordin]] messages Prof. [[Professor Sikud|Sikud]] with his sending stone.
 "Professor, would you be interested in adding a dragon bone to your collection?"
@@ -108,12 +108,12 @@ Piercing?
 Lighting heals it
 AC > 17
 
-With the last of his haste potion, [[Lumen Keijo|Lumen]] dashes around the rest of the facility and doesn't find any other constructs. Within the construct's chest is a slightly larger arc cell than the large ones we've found. 
+With the last of his haste potion, [[Lumen Keijo|Lumen]] dashes around the rest of the facility and doesn't find any other constructs. Within the construct's chest is a slightly larger [[Arc Cells|arc cell]] than the large ones we've found. 
 
 Down the left corridor are 6 labs and down the right are testing facilities and suites. Elzana is plugged into a terminal to download further information. The labs have all been cleared out of anything of interest. Implements and safety equipment tell the stories of the research that went on here, but they have been cleaned out of anything useful other than a store of chemicals and cleaning product.
 
 At the end of the other corridor is an office space. [[Tiscordin]] plugs Elzana into a terminal and starts running through questions. The last tests were to find a way to exterminate the goblinoid creatures with a targeted viral agent. They had mixed results, finding that it seemed to work initially, but would diminish in strength as it went. Three chained leaps would be fatal, but past this would start to be indistinguishable to a common sickness. The virus is currently stored in the fridges at the back of the office room. Prolonged exposure to cold extends its life indefinitely, but exposure to other environments was untested and unlikely to prove beneficial. It was not testing on other species outside of the goblinoid races. One of the engineers had it tested on them, but there were no effects.
 
-There are cold boxes in the room with 20 vials in the fridges. The virus is dispersed through injection in direct contact or air dispersion at close proximity. Elzana downloads the formula for the virus. We take the 20 vials and load it into a cold box, turning the arc cell on.
+There are cold boxes in the room with 20 vials in the fridges. The virus is dispersed through injection in direct contact or air dispersion at close proximity. Elzana downloads the formula for the virus. We take the 20 vials and load it into a cold box, turning the [[Arc Cells|arc cell]] on.
 
 Elzana explains that the elves here collectively decided that their supplies were low and understood that their race had met its end. They had not been able to significantly progress the virus to the point of undoing the evil that had been unleashed on the world, and took the decision to collectively end their lives. Elzana has records showing the earliest understanding of a rogue facility in the north had created the goblinoid species and released them into the underworld as an army for unknown reasons. Elzana marks on our maps the location for the facility in Norstar. It was an elvish facility, and all were investigated and deemed traitors to their species ultimately being executed. The records believe that the facility was under the control of something.

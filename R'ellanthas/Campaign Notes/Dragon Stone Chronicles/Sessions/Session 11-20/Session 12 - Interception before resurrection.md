@@ -53,7 +53,7 @@ Ral is a Firbolg that's owned the keep for the last 10 years. He seems to be mos
 
 Harry, a farmer, may have horses for sale or rent where [[Aolani|Ao]] buys a horse for 65gp.
 
-The group head up to the keep. [[Borin Ironfist|Borin]] stealthily approaches while [[Tiscordin]] confidently walks past and knocks on the door. After a quick check for traps by [[Borin Ironfist|Borin]], [[Lumen Keijo|Lumen]] picks the door lock and we push the door open. We enter into a grandiose lobby filled with crates and boxes piled on one side. The boxes appear to have had something in them moved to another location. They appear to have held something magical that was removed, assumably arc cells. There's an office space upstairs with a couple of bedrooms. We search the office, and [[Borin Ironfist|Borin]] finds a small nook in the wall and opens it to reveal a concealed safe. [[Lumen Keijo|Lumen]], picking the safe, can't seem to get in. Relenting, he pulls out his Chime of Unlocking. Using it, the door swings open and a large purse is within with 150gp and a book. Handed to [[Borin Ironfist|Borin]], he flips it open and finds a ledger of sorts. A series of dates with what appears to be gold values with L, M, S and T marks. There are 250 Arc Cells noted as purchase in the space of two months. The first pages talk to the quantity of items bought and sold over varying types, which then turns to solely purchasing Arc Cells which he purchases without ever selling them. There are a few cases where the locations of purchase are known to us; traders, auction houses, and vendors that appear to be continent wide.
+The group head up to the keep. [[Borin Ironfist|Borin]] stealthily approaches while [[Tiscordin]] confidently walks past and knocks on the door. After a quick check for traps by [[Borin Ironfist|Borin]], [[Lumen Keijo|Lumen]] picks the door lock and we push the door open. We enter into a grandiose lobby filled with crates and boxes piled on one side. The boxes appear to have had something in them moved to another location. They appear to have held something magical that was removed, assumably [[arc cells]]. There's an office space upstairs with a couple of bedrooms. We search the office, and [[Borin Ironfist|Borin]] finds a small nook in the wall and opens it to reveal a concealed safe. [[Lumen Keijo|Lumen]], picking the safe, can't seem to get in. Relenting, he pulls out his Chime of Unlocking. Using it, the door swings open and a large purse is within with 150gp and a book. Handed to [[Borin Ironfist|Borin]], he flips it open and finds a ledger of sorts. A series of dates with what appears to be gold values with L, M, S and T marks. There are 250 [[Arc Cells]] noted as purchase in the space of two months. The first pages talk to the quantity of items bought and sold over varying types, which then turns to solely purchasing [[Arc Cells]] which he purchases without ever selling them. There are a few cases where the locations of purchase are known to us; traders, auction houses, and vendors that appear to be continent wide.
 
 We head out of the keep and up the mountain pass. [[Lumen Keijo|Lumen]] uses his tracking skills (29 Survival) and discerns that 8-10 carts each with 2 sets of hoofprints with 12 sets of footprints have moved off in the direction of [[Windfall]]. They appear to be moving at average walking speed but no more. We think we can catch them in a day and a half of hard riding. We venture into the fractured mountains, and the mountains are fairly straight forward paths to trek.
 
@@ -65,9 +65,9 @@ Before the end of the night, [[Aolani|Ao]] attempts to connect with the divinity
 
 We make tracks through the day and eventually find the caravan of carts. We hail the caravan and 
 
-Hand over the huge arc cell. He pulls out a box with very draconic seeming motif on the outside. Inside, we see that 
+Hand over the huge [[Arc Cells|arc cell]]. He pulls out a box with very draconic seeming motif on the outside. Inside, we see that 
 
-Ral says to [[Lumen Keijo|Lumen]] that he has two items for him. [[Lumen Keijo|Lumen]] goes to start handing over the stone and 
+Ral says to [[Lumen Keijo|Lumen]] that he has two items for him. [[Lumen Keijo|Lumen]] goes to start handing over the stone and then asked for the mask
 
 [[Lumen Keijo|Lumen]] engages the group after [[Seraphina]] and [[Borin Ironfist|Borin]] both fail to suggest.
 
@@ -83,13 +83,13 @@ Asking Mosshine about
 gaining money, power and influence
 Knowingly part of the [[Draconomicon|dragon]] cult
 Specific destination, just outside of Mossbreak
-Taking the arc cells to the lair of a [[Draconomicon|dragon]]
+Taking the [[arc cells]] to the lair of a [[Draconomicon|dragon]]
 There will be a [[Draconomicon|dragon]] there
 There is another [[Draconomicon|dragon]] stone there, one
 The dragonstone belongs to [[Qyuilotho, Champion of the Red|Qyuilotho]]
-The Arc Cells are to power the event in 11 days
+The [[Arc Cells]] are to power the event in 11 days
 They are used for the awakening
-He is bringing the arc cells to [[Aldanther Brenroth]], the director of the great awakening
+He is bringing the [[arc cells]] to [[Aldanther Brenroth]], the director of the great awakening
 The rest of the caravan are not his protection
 Ral gives us the specific location for the lair entrance Mossbreak 
 

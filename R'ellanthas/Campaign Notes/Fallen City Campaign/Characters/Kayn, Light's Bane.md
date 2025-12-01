@@ -5,7 +5,8 @@ tags:
   - MainCharacter
 ---
 # About
-![[Kayn, Light's Bane.png]]
+
+![[Kayn, Light's Bane Updated.png]]
 ## Backstory
 ### Summary
 Kept hostage by a man named Piper from a baby, Kayn was regularly experimented on through his early and formative years. Through torture, Kayn would come to learn the arcane arts against his will.

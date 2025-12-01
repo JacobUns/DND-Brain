@@ -72,13 +72,13 @@ Finally, [[Aolani|Ao]] moves to [[Egglock Swiftcarver nola Kithilin|Egglock]] an
 Reunited after the party and in their rooms at their inn, [[Aolani|Ao]] approaches [[Lumen Keijo|Lumen]] and [[Tiscordin]] to discuss the evening. [[Lumen Keijo|Lumen]] says he planted letters on two people, one of which was [[Sander Ûn]], the second in command of [[Duke Kai Oda|Duke Oda]]. He also reveals that he has a dragon stone, and based on knowledge from previous encounters pieces together who [[Lumen Keijo|Lumen]] really is. He says he's connected to the will of [[Gerunuth, the Death Lord|Gerunuth]], and that it happen from touching the stone. [[Aolani|Ao]] goes to touch the stone, and [[Tiscordin]] briefly stops him to cast Intellect Fortress on him. After doing so, [[Aolani|Ao]] picks up the stone and inspects it. They tell him that, before [[Aolani|Ao]] joined the group, they found a mages that was under its power and had enthralled an entire village. After connecting with the dragon's will, it agreed to help [[Lumen Keijo|Lumen]] achieve his goals if [[Lumen Keijo|Lumen]] helped it to achieve its. The assumption being that the dragon wants to be released from its imprisonment.
 
 Before they sleep for the night, the three review their threads:
-- Plants grouping through the city that feed on Arc Cells - [[Kalvanen]]
+- Plants grouping through the city that feed on [[Arc Cells]] - [[Kalvanen]]
 - Thieves Guid boss arrival - [[Kalvanen]]
 - Blue Cloak from the Ball - Will find us
 - Help for the war against the goblins - Site B
 - Celestial Alignment event to occur - [[Windfall]] (25 days + Travel)
 - Investigate any significance of the Starry Night to the Elves - [[Nuvrin]]
-- Dealer collecting Arc Cells on Mass - near [[Vasceri]]
+- Dealer collecting [[Arc Cells]] on Mass - near [[Vasceri]]
 - Information about [[Aolani|Ao]]'s heritage and potential lineage - TBC
 - Meeting with [[Duchess Cho Nuvrin|Cho]] following the ball - [[Kalvanen]] (Tomorrow)
 - Elven Ruin near [[Bellowfern]] - [[Bellowfern]]

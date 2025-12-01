@@ -36,11 +36,11 @@ Normal damage from Radiant, Fire, Thunder, Lightning, Necrotic
 When entering the cloud, a constitution save DC17 happens that causes a stunned state on fail. After a successful save the creature becomes immune the debilitating pollen.
 When hit, a constitution save DC? happens that causes...
 
-The creature is eventually killed by a fireball from [[Aolani|Ao]] and we find that the roots of the creature were interconnecting with the cables attached to the top of the huge arc cell. On further investigation, the arc cell is embedded in the ground and impossible to uncover.
+The creature is eventually killed by a fireball from [[Aolani|Ao]] and we find that the roots of the creature were interconnecting with the cables attached to the top of the huge [[Arc Cells|arc cell]]. On further investigation, the [[Arc Cells|arc cell]] is embedded in the ground and impossible to uncover.
 
-Underneath, there is a terminal for Elzana to connect. After cutting away the foliage around it, [[Tiscordin]] pulls her out and she connects to start pulling information. She finds that it was an experiment chamber to discover whether it was possible to keep a city powered off an arc cell. It was then used [[Elaran]].
+Underneath, there is a terminal for Elzana to connect. After cutting away the foliage around it, [[Tiscordin]] pulls her out and she connects to start pulling information. She finds that it was an experiment chamber to discover whether it was possible to keep a city powered off an [[Arc Cells|arc cell]]. It was then used [[Elaran]].
 
-We also find 2 Large Arc Cells in the maintenance shaft which are carried up by [[Tiscordin#Rámainen|Rámainen]] and stored in [[Aolani|Ao]]'s bag. The group travel back towards the book store and discuss the possible plans for tomorrow's meeting with [[the silent ledger]].
+We also find 2 Large [[Arc Cells]] in the maintenance shaft which are carried up by [[Tiscordin#Rámainen|Rámainen]] and stored in [[Aolani|Ao]]'s bag. The group travel back towards the book store and discuss the possible plans for tomorrow's meeting with [[the silent ledger]].
 
 We discuss the possibilities of finding a box that protects the painting or finding something weighty enough to weigh down the crate, whether we can investigate the [[Kalvanen#Redbark Hill|Redbark Hill]] area to see if we can find a location that allows us to watch or whether we go in blasting. Eventually, we send [[Tiscordin]]'s Raven familiars out to investigate and watch. The house is fairly obvious. A four-story tower with 20ft gardens and a steel gate, it stands out against the rest of the district's rundown nature. A guard at the door stands with a patrol moving through the garden. It seems fairly dilapidated inside without much movement going on. [[Tiscordin]] relays the information he's seeing to the rest of the group.
 

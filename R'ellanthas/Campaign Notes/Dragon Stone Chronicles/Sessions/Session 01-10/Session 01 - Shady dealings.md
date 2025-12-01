@@ -19,7 +19,7 @@ session date: 2024-01-04
 - A pact called the [[Pact of Il'Mondum]] was signed by all but the dwarves
 - [[Alliance of Vennar]] is a neutral party with the rest of the world
 - There is a Sanctuary for Druids in the north.
-- Arc Cells are an illicit material as they originate from Elven Ruins.
+- [[Arc Cells]] are an illicit material as they originate from Elven Ruins.
 	- A kind of arcane battery that can be used to power objects from Elven ruins
 	- Not used in the world today as the technology was outlawed
 	- Four sizes
@@ -50,7 +50,7 @@ At the [[Duchess Cho Nuvrin|Duchess's]] mansion, [[Borin Ironfist|Borin]] asks f
 
 [[Duchess Cho Nuvrin|Cho]] has knowledge of Artifact locations through a [[Professor Sikud]], a unique older lived individual that doesn't see time the same way as others. She declines to elaborate on what that means, only to say it will be obvious. She also identifies a symbol on a wax seal as part of the coup plot.
 
-The group makes for their next location of [[Rupgen]]. Along the way, they find what appears to be a dead drop location hidden just off the path. The location holds a letter for someone named [[Ral Mosshine]] located in [[Rimemir]] along with an ornate box, within which are three small Arc Cells. The group decides that the location could be a good spot to stay for the night, as it is a well camouflaged hole with enough space for all of them to bed down.
+The group makes for their next location of [[Rupgen]]. Along the way, they find what appears to be a dead drop location hidden just off the path. The location holds a letter for someone named [[Ral Mosshine]] located in [[Rimemir]] along with an ornate box, within which are three small [[Arc Cells]]. The group decides that the location could be a good spot to stay for the night, as it is a well camouflaged hole with enough space for all of them to bed down.
 
 It is here that [[Tiscordin]] & [[Lumen Keijo|Lumen]] reveal the existence of [[Elzana]], an Elvish construct blessed with sentience that acts as a lore keeper for Elven knowledge and has informed the group she is not the only one in existence. They claim to have found it in [[Milanalin]] and that she had previously been owned by a High Marshal Kellen Lithrexor. Through this they learn the elven location they're heading to outside of [[Rupgen]] is a collapsed elven city called [[Vilasenrin]].
 
