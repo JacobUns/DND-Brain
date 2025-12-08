@@ -4,7 +4,6 @@ tags:
   - levelup
 session date: 2025-11-17
 ---
-
 Ravenous Flora
 ~~Weakened - Half Damage with Weapon or Attack spells~~
 ~~Intellect Fortress - Resistance to psychic, Wisdom Int Charisma Advantage~~
