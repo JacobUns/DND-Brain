@@ -22,59 +22,45 @@
             }
           },
           {
-            "id": "a90dad38f021ef34",
+            "id": "dead5d66e8340a5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
+                "file": "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 11-20/Session 13 - The razor's edge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kayn, Light's Bane"
+              "title": "Session 13 - The razor's edge"
             }
           },
           {
-            "id": "350d8d3e1564bbb7",
+            "id": "2a538e5d8e68263c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Creatures/Dragons/Metallic Dragons.md",
+                "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metallic Dragons"
+              "title": "Session 15 - Would you like to try the tea?"
             }
           },
           {
-            "id": "f014e40f4eab2c1d",
+            "id": "0d6dcec085099f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aothir/Creatures/Dragons/Draconomicon.md",
+                "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 14 - Explosive Consequences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draconomicon"
-            }
-          },
-          {
-            "id": "9057228ae2e1d6d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R'ellanthas/Factions/Guardians of Il'Mondum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guardians of Il'Mondum"
+              "title": "Session 14 - Explosive Consequences"
             }
           }
         ],
@@ -110,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Crystal Lattice structure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 281.5
   },
   "right": {
     "id": "83b09388e30bc1c4",
@@ -162,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 26 - A Shared Past.md",
+                "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +158,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 26 - A Shared Past"
+              "title": "Backlinks for Session 15 - Would you like to try the tea?"
             }
           },
           {
@@ -181,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
-                "linksCollapsed": true,
+                "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kayn, Light's Bane"
+              "title": "Outgoing links from Session 15 - Would you like to try the tea?"
             }
           },
           {
@@ -210,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 24 - A Shadowy Sign.md",
+                "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 24 - A Shadowy Sign"
+              "title": "Outline of Session 15 - Would you like to try the tea?"
             }
           },
           {
@@ -268,7 +254,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,52 +270,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a90dad38f021ef34",
+  "active": "2a538e5d8e68263c",
   "lastOpenFiles": [
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 12 - The last of his kind.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 13 - Don't put your arm in that.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 14 - Explosive Consequences.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
+    "Moros/Locations/Northern Province/New Town.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/New Town/Gerna.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/New Town/Jerome Wipplebit.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/New Town/New Town.md",
+    "Moros/Campaign Notes/Frontierlands/Characters/New Town",
+    "Moros/Campaign Notes/Frontierlands/Characters/Karrik Sylvari, last of the Aurora'lyn.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Images/Kayn, Light's Bane Updated.png",
+    "Aothir/Creatures/Dragons/Draconomicon.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 27 -.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 26 - A Shared Past.md",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 01 - Shady dealings.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 11-20/Session 13 - The razor's edge.md",
+    "R'ellanthas/Arc Cells.md",
+    "D&D 5e/Adventures/Locations/Candlekeep/Avowed.md",
+    "Aothir/Religious Orders/Order of Light/Order of Light.md",
+    "Aothir/Religious Orders/Order of Light/Ashen Confessors.md",
+    "R'ellanthas/Religion/Way of Shards.md",
+    "R'ellanthas/Arc Cell.png",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 11-20/Session 12 - Interception before resurrection.md",
+    "Aothir/Campaigns/Locations/Location 2 - Vhalrix Estate.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 01-10/Session 01 - Shady dealings.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/R'Ellanthas - A Fallen City Campaign.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 01 - A Groundshaking Introduction.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 11-20",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
+    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 01-10",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Images/Kayn, Light's Bane.png",
+    "Aothir/Aothir.md",
+    "Aothir/Continents/Merathis",
     "World Building Tools/Images/Degrees of Latitude.png",
     "World Building Tools/Images",
-    "R'ellanthas/Locations/Kingdom of Kalvenen/Towns/Images/Rinemir.png",
     "R'ellanthas/Locations/Kingdom of Kalvenen/Towns/Images",
-    "Moros/Campaign Notes/Frontierlands/Sessions/Session 14 - Explosive Consequences.md",
-    "Aothir/Seasons of Aothir.md",
-    "Aothir/Continents/Zenra.md",
-    "Aothir/Continents/Solra.md",
-    "Aothir/Continents/Merathis/Varyn.md",
-    "Aothir/Continents/Merathis/Lothen.md",
-    "Aothir/Continents/Merathis/Eryndra/Emray.md",
-    "Aothir/Continents/Merathis/Eryndra.md",
-    "Aothir/Continents/Merathis/Eryndra",
-    "Aothir/Continents/Merathis/Caldrien.md",
-    "Aothir/Continents/Merathis",
-    "Aothir/Continents/Merathis.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 25 - Factions Collide.md",
-    "R'ellanthas/Religion/Pantheon of R'Ellanthas.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 03 - Goblins and Hoarders and Dwarves, oh my!.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 23 - Conflict Brews.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 13 - Once more into the breach dear friends.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 11 - Off the rails.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 15 - Magic and Mite.md",
-    "Rinemir.png",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 12 - Interception before resurrection.md",
-    "Aothir/One Shots/An Eldritch Encounter.md",
-    "Aothir/Campaigns/Locations/Location 1 - Temple of Threxis.md",
+    "R'ellanthas/Locations/Kingdom of Kalvenen/Towns/Images/Rinemir.png",
     "Aothir/Campaigns/Images/Threxis Detailed Gold Sigil.png",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 24 - A Shadowy Sign.md",
+    "Aothir/Campaigns/Images/The Weeping Scales Sigil.png",
+    "Aothir/Campaigns/Images/Threxis Simple Sigil.png",
     "Screenshot 2025-09-24 at 09.15.12.png",
     "Aothir/One Shots/Images/Animated Armor.png",
     "Aothir/One Shots/Images",
     "Aothir/One Shots",
     "Aothir/Creatures/Dragons/Images/Gem",
-    "Aothir/Creatures/Dragons/Images/Metallic/Metallic Dragons.png",
-    "Aothir/Creatures/Dragons/Images/Metallic/Steel Dragon.png",
     "Aothir/Creatures/Dragons",
-    "Aothir/Creatures/Dragons/Images/Metallic",
-    "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Images",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
     "World Building Tools/Guilds/Guild Hierarchy.canvas",
