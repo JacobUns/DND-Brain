@@ -22,8 +22,11 @@
             }
           },
           {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> origin/main
             "id": "dead5d66e8340a5b",
             "type": "leaf",
             "state": {
@@ -43,25 +46,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 28 - Exploring the lab of the Medic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 15 - Would you like to try the tea?"
+              "title": "Session 28 - Exploring the lab of the Medic"
             }
           },
           {
             "id": "0d6dcec085099f8c",
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> Stashed changes
             "id": "f014e40f4eab2c1d",
 >>>>>>> Stashed changes
+=======
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 14 - Explosive Consequences.md",
@@ -71,10 +78,14 @@
 =======
                 "file": "R'ellanthas/Arc Cells.md",
 >>>>>>> Stashed changes
+=======
+                "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 14 - Explosive Consequences.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
               "title": "Session 14 - Explosive Consequences"
@@ -97,10 +108,13 @@
               "icon": "lucide-file",
               "title": "Guardians of Il'Mondum"
 >>>>>>> Stashed changes
+=======
+              "title": "Session 14 - Explosive Consequences"
+>>>>>>> origin/main
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,6 +146,7 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 "query": "Crystal Lattice structure",
@@ -141,6 +156,9 @@
 =======
                 "query": "Arc",
 >>>>>>> Stashed changes
+=======
+                "query": "Crystal Lattice structure",
+>>>>>>> origin/main
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 28 - Exploring the lab of the Medic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +220,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 15 - Would you like to try the tea?"
+              "title": "Backlinks for Session 28 - Exploring the lab of the Medic"
             }
           },
           {
@@ -211,13 +229,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
                 "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
+=======
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 28 - Exploring the lab of the Medic.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from Session 15 - Would you like to try the tea?"
 =======
 =======
@@ -232,6 +255,9 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+              "title": "Outgoing links from Session 28 - Exploring the lab of the Medic"
+>>>>>>> origin/main
             }
           },
           {
@@ -255,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
+                "file": "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 28 - Exploring the lab of the Medic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 15 - Would you like to try the tea?"
+              "title": "Outline of Session 28 - Exploring the lab of the Medic"
             }
           },
           {
@@ -292,7 +318,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "e1e56b7feaac7694",
@@ -329,14 +355,20 @@
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> origin/main
   "active": "2a538e5d8e68263c",
   "lastOpenFiles": [
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 27 - Medic.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 17 - An explosive entry.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 28 - Exploring the lab of the Medic.md",
+    "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Try the tea.md",
     "Moros/Campaign Notes/Frontierlands/Sessions/Session 12 - The last of his kind.md",
     "Moros/Campaign Notes/Frontierlands/Sessions/Session 13 - Don't put your arm in that.md",
     "Moros/Campaign Notes/Frontierlands/Sessions/Session 14 - Explosive Consequences.md",
-    "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
     "Moros/Locations/Northern Province/New Town.md",
     "Moros/Campaign Notes/Frontierlands/Characters/New Town/Gerna.md",
     "Moros/Campaign Notes/Frontierlands/Characters/New Town/Jerome Wipplebit.md",
@@ -345,7 +377,6 @@
     "Moros/Campaign Notes/Frontierlands/Characters/Karrik Sylvari, last of the Aurora'lyn.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Images/Kayn, Light's Bane Updated.png",
     "Aothir/Creatures/Dragons/Draconomicon.md",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 27 -.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Characters/Aolani.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 11-20/Session 13 - The razor's edge.md",
     "R'ellanthas/Arc Cells.md",
@@ -361,11 +392,10 @@
     "R'ellanthas/Campaign Notes/Fallen City Campaign/R'Ellanthas - A Fallen City Campaign.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 01-19/Session 01 - A Groundshaking Introduction.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 11-20",
-    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 01-10",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Images/Kayn, Light's Bane.png",
-    "Aothir/Aothir.md",
     "Aothir/Continents/Merathis",
+<<<<<<< HEAD
 =======
   "active": "f014e40f4eab2c1d",
   "lastOpenFiles": [
@@ -408,14 +438,16 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> origin/main
     "World Building Tools/Images/Degrees of Latitude.png",
     "World Building Tools/Images",
     "R'ellanthas/Locations/Kingdom of Kalvenen/Towns/Images",
-<<<<<<< Updated upstream
     "R'ellanthas/Locations/Kingdom of Kalvenen/Towns/Images/Rinemir.png",
     "Aothir/Campaigns/Images/Threxis Detailed Gold Sigil.png",
     "Aothir/Campaigns/Images/The Weeping Scales Sigil.png",
     "Aothir/Campaigns/Images/Threxis Simple Sigil.png",
+<<<<<<< HEAD
 =======
     "Moros/Campaign Notes/Frontierlands/Sessions/Session 14 - Explosive Consequences.md",
     "Aothir/Seasons of Aothir.md",
@@ -427,13 +459,14 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> origin/main
     "Screenshot 2025-09-24 at 09.15.12.png",
     "Aothir/One Shots/Images/Animated Armor.png",
     "Aothir/One Shots/Images",
     "Aothir/One Shots",
-    "Aothir/Creatures/Dragons/Images/Gem/Amethyst Dragon.png",
-    "Aothir/Creatures/Dragons/Images/Gem/Amethyst Dragon.png",
     "Aothir/Creatures/Dragons/Images/Gem",
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
     "Aothir/Creatures/Dragons/Images/Metallic/Metallic Dragons.png",
@@ -441,6 +474,8 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> origin/main
     "Aothir/Creatures/Dragons",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
     "R'ellanthas/Campaign Notes/Main Campaign/Diagrams/Untitled.canvas",
