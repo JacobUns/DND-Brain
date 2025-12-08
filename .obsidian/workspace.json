@@ -23,6 +23,7 @@
           },
           {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "id": "dead5d66e8340a5b",
             "type": "leaf",
             "state": {
@@ -53,6 +54,8 @@
           {
             "id": "0d6dcec085099f8c",
 =======
+=======
+>>>>>>> Stashed changes
             "id": "f014e40f4eab2c1d",
 >>>>>>> Stashed changes
             "type": "leaf",
@@ -60,7 +63,11 @@
               "type": "markdown",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 14 - Explosive Consequences.md",
+=======
+                "file": "R'ellanthas/Arc Cells.md",
+>>>>>>> Stashed changes
 =======
                 "file": "R'ellanthas/Arc Cells.md",
 >>>>>>> Stashed changes
@@ -69,8 +76,11 @@
               },
               "icon": "lucide-file",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "title": "Session 14 - Explosive Consequences"
 =======
+=======
+>>>>>>> Stashed changes
               "title": "Arc Cells"
             }
           },
@@ -123,7 +133,11 @@
               "type": "search",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "query": "Crystal Lattice structure",
+=======
+                "query": "Arc",
+>>>>>>> Stashed changes
 =======
                 "query": "Arc",
 >>>>>>> Stashed changes
@@ -198,6 +212,7 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Moros/Campaign Notes/Frontierlands/Sessions/Session 15 - Would you like to try the tea?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
@@ -205,12 +220,17 @@
               "icon": "links-going-out",
               "title": "Outgoing links from Session 15 - Would you like to try the tea?"
 =======
+=======
+>>>>>>> Stashed changes
                 "file": "R'ellanthas/Arc Cells.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Arc Cells"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             }
           },
@@ -310,6 +330,7 @@
     }
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "active": "2a538e5d8e68263c",
   "lastOpenFiles": [
     "Moros/Campaign Notes/Frontierlands/Sessions/Session 12 - The last of his kind.md",
@@ -352,6 +373,14 @@
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
     "R'ellanthas/Arc Cells.md",
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 27 -.md",
+=======
+  "active": "f014e40f4eab2c1d",
+  "lastOpenFiles": [
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 28 -.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Characters/Kayn, Light's Bane.md",
+    "R'ellanthas/Arc Cells.md",
+    "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 27 -.md",
+>>>>>>> Stashed changes
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 11-20/Session 13 - The razor's edge.md",
     "R'ellanthas/Factions/Guardians of Il'Mondum.md",
     "Aothir/Creatures/Dragons/Draconomicon.md",
@@ -375,6 +404,9 @@
     "R'ellanthas/Campaign Notes/Fallen City Campaign/Sessions/Session 26 - A Shared Past.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/Sessions/Session 01 - Shady dealings.md",
     "R'ellanthas/Campaign Notes/Dragon Stone Chronicles/R'Ellanthas - The Dragon Stone Chronicles.md",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "World Building Tools/Images/Degrees of Latitude.png",
     "World Building Tools/Images",
@@ -391,6 +423,9 @@
     "Aothir/Continents/Merathis",
     "Rinemir.png",
     "Aothir/Campaigns/Images/Threxis Detailed Gold Sigil.png",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "Screenshot 2025-09-24 at 09.15.12.png",
     "Aothir/One Shots/Images/Animated Armor.png",
@@ -402,6 +437,9 @@
 <<<<<<< Updated upstream
 =======
     "Aothir/Creatures/Dragons/Images/Metallic/Metallic Dragons.png",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "Aothir/Creatures/Dragons",
     "R'ellanthas/Religion/Pantheon Family Tree.canvas",
