@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 date: 2023-11-04
 ---
 [[Mirella & Sylas|Mirella]] leads the group into a room, and without thinking [[Mirella & Sylas|Sylas]] brings in the bag of stolen goods, which he's chastised for by [[Mirella & Sylas|Mirella]]. [[Kazak Blitzwater|Kazak]] takes & up ends the bag on the table. All manner of items tumble out including:

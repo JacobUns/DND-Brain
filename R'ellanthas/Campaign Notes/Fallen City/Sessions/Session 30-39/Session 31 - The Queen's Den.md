@@ -1,0 +1,38 @@
+---
+tags:
+  - session-note
+session date: 2026-02-02
+---
+[[Maria Ravencroft|Maria]] describes the crystal she saw in her visions. She thinks that she saw something very similar to the Arc Crystals. We decide, after some discussion, to head to the King and ask whether any scouting parties were sent to investigate the explosion. If he says they did, and can point us in the right direction, then we head off in that direction to see what we find. If not, we head to the surface and investigate at the source.
+
+We make our way back to the [[Caves of Thistlebeard]]. After the week of travel, crafting and seeing to the dwarves in the citadel, we find [[Caves of Thistlebeard|the caves]] in relative security. The dwarves have been busy barricading themselves in, but leaving the tunnel that leads to the goblin village free to traverse while killing those that come through. When the king hears of Tissora's triumph in keeping her troops alive, he comes down from the tower in the keep to greet her. They have a quiet catchup, which [[Kayn, Light's Bane|Kayn]] attempts to eavesdrop on. The conversation is dull, mostly military focused and congratulatory. She then makes her way over to us and informs us the king is ready for our audience.
+
+We ask after the explosion and whether he sent scouts, and he said he had but it was a very weird set of findings. The shaking started seemingly deep in the mountain; a fissure opening in the deeps and the pressure released at the top. The reports also described ice on the walls around the fissure. [[Kayn, Light's Bane|Kayn]]'s thinks deeply, but can't think of any kind of magic that would have caused that effect. It may have been some kind of stored magic that then exploded. To find it, we'd need to take the staircase on the other side of [[Caves of Thistlebeard|the caves]] and head out towards the east of the mountain. The fissure was approximately 100ft in length and 50ft across.
+
+He provides us with enough climbing equipment to make our travel possible
+
+The second key was once kept within the Keep of the king, but it disappeared early in the conquest against the dwarves. It looks exactly the same as the other key, bar some small subtle markings that match the door they belong to. He explains that it's a maze of vaults, many tunnels that lead to hordes of treasure, but there is also the treasure of his ancestor whose belongings are rumoured to be cursed. There are fabled relics from each king, jewellery rumoured to shine brightly and richly.
+
+We agree to travel to the top of the mountain and resolve the mirror issue before attempting to jump down the fissure. We head out, the trickle of water now turned back into the free flowing waterfall. The tunnels are also improved and can be travelled with ease.
+
+**[[Maria Ravencroft|Maria]]** attempts to use **Athletics** to march through the caverns - 14 #travelcheck
+**[[Oh, Air Genasi|Oh]]** attempts to use **History** to recall the instructions she was given by the scouts - 18 #travelcheck
+**[[Kayn, Light's Bane|Kayn]]** attempts to use **Insight** to check the air flow and strata - 15 #travelcheck
+**[[Frontistis Zoon|Frontistis]]** attempts to use **Stealth** to cover the tracks we leave - 18 #travelcheck 
+
+We traverse through the uppers, but we quickly find there is some disagreement about where things in [[Caves of Thistlebeard|the caves]] were built. We make our way through, coming across small pockets of goblins moving their way through but nothing that causes any bother. Through the first days of travel we encounter paths that lead both up and down, but the walls feel like they're much closer than other paths we've travelled. The walls hold crystalline structures that glisten with the little light we may shed in passing. Eventually, we find a grand staircase that rises in staggered plateaus and emerges onto a crossroad.
+
+The crossroad is marked with several identifying markers for:
+- [[The Mountain Galleries]] (East)
+- [[The Red Horn Gate]] (East)
+- [[Tarloch Halls]] (West)
+
+We head east towards the east for a day before settling down. As we're setting up camp, [[Frontistis Zoon|Frontistis]] hears floating voices through the tunnels that are disappearing into the distance beyond and decides to leave them to fade into the dark. In the morning, we debrief and start searching for tracks in the area as we move. Spotting remnants of a camp that hasn't long been deserted, the scraps of food discarded on the floor of the tunnels. We estimate three people, humanoid and larger than a dwarf. As we carry on through, we find a corridor for [[the mountain galleries]] peels off left with [[the Red Horn Gate]] continuing ahead. A third option, marked "Eastern Mirror Hall" breaks away. The trail of those we're following appeared to head towards [[the mountain galleries]].
+
+We head down behind them, [[Kayn, Light's Bane|Kayn]] leading the way. There are some very subtly marked walls along the way, and find them different from those made by the dwarves. Using Comprehend Languages, they appear to be safe path markings again and repeat ahead. Pathways shoot off that then appear to say something like "Trapped". Ahead, [[Kayn, Light's Bane|Kayn]] hears very faint voices and motions for everyone to remain quiet. We find ourselves climbing stairs and round a corner before emerging onto a balcony that looks over a tiered set of benches downward. Three [[Hoarders]] sit on one talking to each other, and on the lowest platform covered with debris and rubble, aged with the destruction of this place, is a golden floor etched with imagery of dwarves, elves, nature, battle and other such scenes. Giant eagles, bird like creatures, hydra, and at the very end of the floor, is etched a large [[Draconomicon|dragon]].
+
+[[Kayn, Light's Bane|Kayn]] creeps down the steps and pickpockets a heavy crossbow from behind the group, clumsily hits one with the butt of the weapon and starts to intimidate the [[Hoarders]]. They divulge that the queen is here, in the tower looking out from the mountain. [[Kayn, Light's Bane|Kayn]] attempts to get them to leave, but [[Oh, Air Genasi|Oh]] believes they're lying and will return. Attempting to shoot the crossbow, [[Kayn, Light's Bane|Kayn]] lets a bolt loose which bounces through one guard's legs. One of the others mocks him before raising his hand crossbow. [[Kayn, Light's Bane|Kayn]] throws the heavy crossbow, pulling his blades with alacrity and piercing the hand of the hoarder holding the hand crossbow. A quick but furious encounter ensues, Mother rending the first hoarder before [[Maria Ravencroft|Maria]] charges him with her pike. [[Oh, Air Genasi|Oh]] finishes the second guard off, leaving one unarmed guard remaining.
+
+In sheer terror, the man pulls a dagger then panics and drops it. He raises his hands and [[Kayn, Light's Bane|Kayn]] gives him one chance to reveal anything he's left unsaid or he'd find [[Kayn, Light's Bane|Kayn]]'s dagger in is skull. He tells us that there's only one way into the tower from this side, but that it's possible to access the tower from outside. He then tells us that Tarloch's Hall has collapsed and that it's possible to surface there now, allowing another entrance to the tower.
+
+We let the last hoarder go, [[Kayn, Light's Bane|Kayn]] throwing his dagger after him as he makes a hasty exit. Briefly discussing, the group decide to attempt to barter with the Queen and if that fails we will destroy everything on our way out. We head towards the tower, ready for the next encounter.

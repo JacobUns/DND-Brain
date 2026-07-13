@@ -6,6 +6,9 @@ tags:
 Western Gate - Not been opened in years
 Eastern Gate
 Warzone - Goblin and Dwarven war rages on in the city
+
+![[Bal Toruhm 3.png]]
+
 # About
 The ancient dwarven city nestled in the mountains of the expanding [[Enlightened Empire]]. A short trip north from [[Lake Liash]] and it's floating town [[Liashton]], the path to Bal Toruhm can be found on the crossroad with [[Gomlodir]] and [[Thomyar]] and leads to a set of rocky switchbacks up the mountain path.
 

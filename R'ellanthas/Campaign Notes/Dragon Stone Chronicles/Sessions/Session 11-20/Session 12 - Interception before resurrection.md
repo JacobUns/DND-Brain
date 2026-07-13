@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 session date: 2025-10-12
 session location:
   - "[[Mossbreak]]"

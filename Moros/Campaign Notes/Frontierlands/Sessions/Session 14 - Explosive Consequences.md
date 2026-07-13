@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 session date: 2025-11-08
 ---
 We wake in the Brinehouse, a brand new day heralded by the breaking of a fresh sunrise. The tavern itself is fairly empty. There's clattering in the back, but no one is currently at the bar. The group discuss how we're going to approach the subject of the deaths of the canal workers. The point is raised that we don't have to solve the crime, just clear Jerome's name. The opportunity of being deputised is discussed as a legitimate manner of approaching the topic. Finally, we decide that approaching the mayor and attempting to sell our services to him is the ideal approach.

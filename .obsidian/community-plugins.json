@@ -1,8 +1,8 @@
 [
   "obsidian-admonition",
   "obsidian-minimal-settings",
-  "obsidian-5e-statblocks",
   "obsidian-plugin-toc",
   "templater-obsidian",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "tag-wrangler"
 ]

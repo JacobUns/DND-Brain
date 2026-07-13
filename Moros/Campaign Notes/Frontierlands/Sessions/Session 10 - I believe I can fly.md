@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 session date: 2024-12-01
 ---
 > [!note] Retcon

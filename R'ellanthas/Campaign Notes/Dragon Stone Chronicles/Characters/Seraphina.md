@@ -1,7 +1,7 @@
 ---
 tags:
   - tiefling
-  - playercharacter
+  - player-character
 ---
 # About
 Parents lost at sea

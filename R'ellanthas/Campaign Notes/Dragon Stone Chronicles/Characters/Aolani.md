@@ -1,7 +1,7 @@
 ---
 tags:
   - aasimar
-  - playercharacter
+  - player-character
 aliases:
   - Ao
 ---

@@ -1,5 +1,5 @@
 ---
 tags:
   - dwarven
-  - playercharacter
+  - player-character
 ---

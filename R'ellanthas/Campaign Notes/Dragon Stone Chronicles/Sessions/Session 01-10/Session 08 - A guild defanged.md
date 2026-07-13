@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
   - combat
 session date: 2025-03-22
 ---

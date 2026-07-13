@@ -1,7 +1,7 @@
 ---
 tags:
   - combat
-  - sessionnote
+  - session-note
 session location:
   - Elaran
   - Liashton

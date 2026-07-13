@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 session date: 2024-07-07
 ---
 [[Aolani|Ao]] walks the cavernous room & finds little of note. It's a flat room with signage pointing to chests of spare parts and to a terminal in the room. Elzana informs the group that thirty people would have had access to the R&D building, and that fifteen to twenty may have been involved in construction of the mechanical construct in front of us.

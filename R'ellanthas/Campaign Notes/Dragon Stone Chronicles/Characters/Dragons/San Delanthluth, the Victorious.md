@@ -5,3 +5,5 @@ tags:
 aliases:
   - San Delanthluth
 ---
+Colour: Blue
+Levelling of Vilasenrin

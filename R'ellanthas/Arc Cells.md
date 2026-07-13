@@ -34,4 +34,4 @@ The effect duration depends on the spell effect chosen:
 
 The Elemental Weapon spell effect is capped at +1 to hit but continues to scale in damage of 1d4 per charge used.
 
-Invoking the effects of an Arc Cell, unless crafted into a weapon by a master of the technology, causes a Wild Magic surge. Roll a d100 on the Wild Magic table to identify the effect.
+Invoking the effects of an Arc Cell, unless crafted into a weapon by a master of the technology, causes a Wild Magic surge. Roll a d100 on the Wild Magic table to identify the effect. If multiple charges are expected, roll equal to the charges and the DM selects which effect takes place.

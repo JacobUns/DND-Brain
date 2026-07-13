@@ -174,7 +174,7 @@ With the destruction of the Draconic race during The [[Ending War]], the faiths 
 | [[Cults of the Dragon Below]] | Madness                            | [[Cleric Domains#Trickery\|Trickery]]                                                         | [[Paladin Oaths#Glory\|Glory]]         | Varies dependant on the Cult | [[#Idol]]      |
 | [[Vol, the Deathless Martyr]]     | Sacrifice, Masochism               |                                                                                               |                                        |                              | [[#Ascendent]] |
 #### Elven
-With the destruction of the Elven race during The [[Ending War]], the faiths associated were banned from being practised by the races that remained. Any worship of these faiths is subject to discipline by the Guardians of Il'Mondum.
+With the destruction of the Elven race during The [[Ending War]], the faiths associated were banned from being practised by the races that remained. Any worship of these faiths is subject to discipline by the [[Guardians of Il'Mondum]].
 ##### Gods
 | **God Name**        | **Tenants, Principles and Values**        | **Suggested Domain(s)**                                            | Suggested Oath(s) | **Common Symbol**      | Type                          |
 | ------------------- | ----------------------------------------- | ------------------------------------------------------------------ | ----------------- | ---------------------- | ----------------------------- |
@@ -218,7 +218,7 @@ They, like the power itself, are genderless, but each can identify as it sees fi
 ### Idol
 A non-divine creature that has a level of associated faith that has elevated them to the divine. These creatures may have cultivated their own following, elevating them to a level of divine power, or may be demi-gods in their own right. It is unknown whether Idols are immortal, mortal, or both.
 
-In circles of backroom theology, members of the [[Arcandor Academy]] claim to have seen information in association with this leading to rumours, but it appears these individuals have been met by the Guardians of Il'Mondum and have not been seen again. Idols are not widely known about by the population of the modern age due to their affiliation with forbidden faiths.
+In circles of backroom theology, members of the [[Arcandor Academy]] claim to have seen information in association with this leading to rumours, but it appears these individuals have been met by the [[Guardians of Il'Mondum]] and have not been seen again. Idols are not widely known about by the population of the modern age due to their affiliation with forbidden faiths.
 ### Prime
 Theology indicates that there were two powers that shaped and formed the planes and the pantheon, though there is obviously no way for this to be verified. These Primes are believed to work in balance and originally held far more power than the Ascendant and Emergent deities. 
 ### Shattered

@@ -1,7 +1,6 @@
 ---
 tags:
-  - Dwarven
-  - Location
+  - dwarven
+  - location
 aliases:
-  - The Caves
 ---

@@ -1,0 +1,10 @@
+---
+tags:
+  - session-note
+  - combat
+  - level-up
+session date: 2025-03-31
+---
+The group start pelting the goblins, trolls and orcs with spells from a distance. Kayn's fireball damages a swath of enemies, [[Oh, Air Genasi|Oh]] casts Blindness on the trolls who end up killing goblins that get in their way, and [[Maria Ravencroft|Maria]] starts casting an eye over the battlefield. A second fireball lands taking out the curse spitter's guards and the orcs finally realise where the attack is coming from. The orcs rush towards us as [[Oh, Air Genasi|Oh]]'s witchbolt strikes out at the curse spitter. The curse spitter retaliates against Maria with a sickening ray that wracks her with pain. The orcs move in and hurl spears at the group. The trolls close in and attack landing some hard hits on both Kayn and Maria. Kayn dispatches one orc, spinning around the back of the troll in front of him as the other orcs strike against Oh and Maria. Maria drops the orc at her side while Oh shocking grasps her orc to get some distance. The trolls ineffectively attack and Oh gets surrounded by goblins though they're ineffective also. The curse spitter hurls a spell at Kayn but fails to take purchase. The trolls close on Maria and take a chunk out of her but she barely stays standing. The orc finally drops Maria unconscious as Kayn slices through minions trying to reach the curse spitter. Dwarf reinforcements man the ballista and take shots at the trolls, hitting with two large hits. Maria is brought back by distant healing from Oh over two rounds, as Kayn drops the troll behind him and the goblins in front. Oh manages to drop two of the three goblins chasing her but Maria gets dropped again by the troll. The dwarves, fighting the goblins on the ramparts, manage to drop all but one goblin having taken heavy casualties. Maria gets healed by Oh once more, and Kayn fires a firebolt into the back of the troll attacking Maria, felling it.
+
+The Dwarves open the gates, revealing a battle has been raging on the other side. The Dwarves close the gates behind us and give us some provisions. The dark road lies ahead.

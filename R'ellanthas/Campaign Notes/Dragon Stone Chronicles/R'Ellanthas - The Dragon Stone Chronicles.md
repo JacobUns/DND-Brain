@@ -32,7 +32,7 @@ aliases:
 ## Factions at Work
 - [ ] [[Orphus]] organisation hideout in the [[Kalvanen#Glass Forge|Glass Forge District]]
 - [ ] [[Gemmen Zrayax]] can be found in the [[Nuvrin#Snoring Drum Inn|Snoring Drum Inn]] of the [[Nuvrin#Salt Stair|Salt Stair District]]
-- [ ] [[Ral Mosshine]], artefact dealer, gathering [[Arc Cells]] and can be found in [[Rinemir]]
+- [x] [[Ral Mosshine]], artefact dealer, gathering [[Arc Cells]] and can be found in [[Rinemir]]
 - [ ] Cleric of the [[Enlightened Empire]] seen preaching in the northern part of [[Kalvanen]]
 ## Elven Ruins
 - [x] ~~Investigate the rumours of glowing plants growing above ground in Kalvenen~~
@@ -43,8 +43,8 @@ aliases:
 - [ ] Investigate [[Leoqen]] (Site D) east of [[Oda]]
 - [ ] Investigate [[Mirakian]] (Site C)
 ## Starry Night
-- [ ] Investigate [[Mossbreak]], the location depicted in the Starry Night
-	- [ ] Investigate for clues of the event's significance
+- [x] Investigate [[Mossbreak]], the location depicted in the Starry Night
+	- [x] Investigate for clues of the event's significance
 # Player Characters
 - [[Aolani]]
 - [[Borin Ironfist]]

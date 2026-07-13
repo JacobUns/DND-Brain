@@ -1,8 +1,8 @@
 ---
 tags:
-  - sessionnote
+  - session-note
   - combat
-  - levelup
+  - level-up
 session date:
 ---
 We wake and prepare for the day, before something huge and made of glass breaches through the massive windows of the palace. It's limbs latices of fractal gold filigree force their way through the massive panes. The windows burst inwards, its face a jagged mask of rainbows and ghostly after images. Each limb articulates in unexpected ways and as it approaches it's like being caught in thunder and rain of shattered glass. At the top of the stairs, large razor sharp shards of glass scatter across the floor making the terrain difficult to traverse. It feels hard to get a clear view of the creature, the glass is transparent enough to cause trouble fixating on it. 

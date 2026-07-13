@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 session date: 2025-05-25
 session location:
   - "[[Kalvanen]]"

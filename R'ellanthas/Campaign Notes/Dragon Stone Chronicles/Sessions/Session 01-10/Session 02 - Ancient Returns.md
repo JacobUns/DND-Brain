@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 session date: 2024-03-03
 ---
 More description is provided of the shady figure mentioned in the [[Rupgen#Jolly Clam Inn|Jolly Clam Inn]]. He is a human with dark hair and a posh accent. No one seems to know his name, but his house is always closed up with shutters.

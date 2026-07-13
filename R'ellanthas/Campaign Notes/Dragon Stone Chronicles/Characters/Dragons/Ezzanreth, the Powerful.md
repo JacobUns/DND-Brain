@@ -5,3 +5,5 @@ tags:
 aliases:
   - Ezzanreth
 ---
+Colour: Green
+Destroyer of O'renlon

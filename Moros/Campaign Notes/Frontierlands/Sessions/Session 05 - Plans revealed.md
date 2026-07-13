@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
   - combat
 session date: 
 session location:

@@ -1,6 +1,6 @@
 ---
 tags:
-  - playercharacter
+  - player-character
 aliases:
   - Borin
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 session date: 2025-01-19
 ---
 During the two days downtime before the ball, [[Brezek]] buys a horse drawn cart to do up and attach his Mechanipig to. He spends the next couple of days making it as visually appealing as he can.

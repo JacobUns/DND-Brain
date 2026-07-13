@@ -2,7 +2,7 @@
 aliases:
   - Victor
 tags:
-  - playercharacter
+  - player-character
 ---
 # Backstory
 A human in his twenties, Victor is the adopted son and apprentice of archaeologist [[Earlian Dimmelwald|Earlian]]. The two travelled north in search of artefacts of the ancient ruins revealed after the cooling of the northern hemisphere. The two live in [[Pefergee]], where Victor works at [[Pefergee#The Last Bed|the Last Bed]] with [[Karrik Sylvari, last of the Aurora'lyn|Karrik]].

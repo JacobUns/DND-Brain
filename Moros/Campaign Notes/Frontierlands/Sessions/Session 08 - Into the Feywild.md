@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 ---
 The group stand in the chamber of the temple, [[Sandun Siwan|Sandun]] having fled, the wall covered in roots which have seemingly parted to reveal a shimmering gateway. [[Victor Dimmelwald|Victor]] pushes his head through and finds an entirely different location on the other side in a different time of day.He sees a giant tree standing in the distance.
 

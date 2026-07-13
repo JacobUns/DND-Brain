@@ -5,3 +5,5 @@ tags:
 aliases:
   - Creoisaloth
 ---
+Colour: Red (Assumed)
+Battle of Elenolona

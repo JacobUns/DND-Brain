@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
   - combat
 session date: 2024-10-06
 session location:

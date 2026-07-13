@@ -3,7 +3,7 @@ session location:
   - New Town
 date: 2025-08-23
 tags:
-  - sessionnote
+  - session-note
 ---
 We awake in the Vault of Continuance. Pale light leaks from crystal braziers, the air not stirring as if sealed against time itself. The great stone plinth of the cradle still hums with psionic radiance. The walls of splendid stone telling the stories of its people.
 

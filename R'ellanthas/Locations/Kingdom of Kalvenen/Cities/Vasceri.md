@@ -1,0 +1,1 @@
+A city synonomous with trade on the continent. Trade with the North round from Kosrias

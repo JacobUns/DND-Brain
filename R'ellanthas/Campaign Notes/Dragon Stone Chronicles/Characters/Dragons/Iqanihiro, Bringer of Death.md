@@ -5,3 +5,5 @@ tags:
 aliases:
   - Iqanihiro
 ---
+Colour: White
+At the fall of Biseldel

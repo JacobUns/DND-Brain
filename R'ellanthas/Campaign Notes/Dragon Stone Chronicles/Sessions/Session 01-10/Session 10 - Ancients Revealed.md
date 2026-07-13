@@ -1,7 +1,7 @@
 ---
 tags:
-  - sessionnote
-  - levelup
+  - session-note
+  - level-up
 session date: 2025-06-29
 session location:
   - "[[Enxina]]"

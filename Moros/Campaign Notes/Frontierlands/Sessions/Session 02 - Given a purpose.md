@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 session date: 2022-05-21
 session location:
   - "[[Pefergee]]"

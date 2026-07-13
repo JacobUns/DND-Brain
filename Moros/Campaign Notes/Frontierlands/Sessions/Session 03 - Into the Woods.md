@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 session date: 2022-06-12
 session location:
   - "[[Tourelle]]"

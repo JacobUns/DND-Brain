@@ -2,7 +2,7 @@
 aliases:
   - Karrik
 tags:
-  - playercharacter
+  - player-character
 ---
 # About
 The most out of place of all beings in [[Pefergee]], Karrik is of an Elvish descent unlike any on [[Moros]]. Having slipped through a gap between planes, he found himself wandering the wilderness of [[Moros]] before coming across the town where he was taken in by [[Mirella & Sylas|Mirella]] as an accomplice to their syndicate.

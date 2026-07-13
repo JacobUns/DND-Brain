@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
   - combat
 ---
 Smooth marble streets. The structures are made in curving architectures, glowing faintly with light and covered in precious stones.

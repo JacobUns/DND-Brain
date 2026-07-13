@@ -1,6 +1,6 @@
 ---
 tags:
-  - sessionnote
+  - session-note
 session date: 2022-06-26
 session location:
   - Frindharben Cathedral

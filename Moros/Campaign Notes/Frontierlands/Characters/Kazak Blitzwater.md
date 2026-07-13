@@ -2,7 +2,7 @@
 aliases:
   - Kazak
 tags:
-  - playercharacter
+  - player-character
 ---
 # Backstory
 A hulking Goliath, Kazak's nature is much softer than that of his immediate appearance. Experienced as a deckhand, he travelled with the fishing crews north to [[Pefergee]] to form a new life in the frontier.
